@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useCallback } from 'react';
-import { ArrowRight, Lock, User, Mail, Home, Briefcase, Banknote, CheckCircle } from 'lucide-react';
+import React, { useState, useCallback } from 'react';
+import { ArrowRight, Lock, User, Home, Briefcase, Banknote, CheckCircle } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 
@@ -7,7 +7,6 @@ import { useNavigate } from 'react-router-dom';
 //  Utility - Simplified version of cn
 // ===============================
 const cn = (...args: any[]) => {
-    const navigate = useNavigate();
 
     return args.filter(Boolean).join(' ');
 };
@@ -210,7 +209,6 @@ const SignUp = () => {
         labourType: '',
     });
 
-    const [isNextButtonDisabled, setIsNextButtonDisabled] = useState(false);
 
 
     // Use useCallback to memoize handleInputChange
@@ -275,10 +273,7 @@ const SignUp = () => {
         [formData]
     );
 
-    // Use useEffect to call checkRequiredFields whenever the form data or current phase changes
-    useEffect(() => {
-        setIsNextButtonDisabled(false); // The button is never disabled now
-    }, [currentPhase]);
+    
 
     const nextPhase = () => {
         const incompleteFields = checkRequiredFields(currentPhase);
@@ -753,7 +748,6 @@ const SignUp = () => {
           });
 
           if (response.ok) {
-            const result = await response.json();
             alert("User successfully saved!");
             navigate(`/profile/${formData.username}`); // React-router way to navigate to the profile page
         } else {

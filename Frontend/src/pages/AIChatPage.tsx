@@ -1,4 +1,3 @@
-import React from 'react';
 const AIChatPage = () => {
     return (
         <div className="flex items-center justify-center h-screen bg-gray-100">

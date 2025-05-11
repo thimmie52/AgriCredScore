@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { MessageSquare } from "lucide-react"
 
@@ -53,7 +53,6 @@ const Profile = () => {
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100vh' }}>
                 <div style={{ width: '100%', maxWidth: '600px', padding: '16px', border: '1px solid #dc2626', borderRadius: '8px', backgroundColor: '#fee2e2', color: '#dc2626' }}>
                     <div style={{ display: 'flex', alignItems: 'center', marginBottom: '8px' }}>
-                        <AlertCircle style={{ width: '24px', height: '24px', marginRight: '8px' }} />
                         <h2 style={{ fontSize: '20px', fontWeight: 'bold' }}>Error</h2>
                     </div>
                     <p style={{ fontSize: '16px' }}>{error}</p>

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowRight } from 'lucide-react';
 import dataAnalysisImage from '../assets/vecteezy_data-analysis-concept-illustration-flat-vector-design_10869737.png';

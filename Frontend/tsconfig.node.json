@@ -7,11 +7,14 @@
     "skipLibCheck": true,
 
     /* Bundler mode */
-    "moduleResolution": "bundler",
+    "moduleResolution": "node", // Changed from 'bundler' to 'node'
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
     "noEmit": true,
+
+    /* New flag to allow default imports from CommonJS modules like 'path' */
+    "allowSyntheticDefaultImports": true,
 
     /* Linting */
     "strict": true,

@@ -1,0 +1,47 @@
+Backend/AgroIntelligence/.env
+Backend/AgroIntelligence/venv/
+# dependencies
+/node_modules
+
+# production build
+/dist
+/build
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+Thumbs.db
+Desktop.ini
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage directory used by testing tools
+/coverage
+
+# local development tools
+.eslintcache
+
+# vitest, jest, react-scripts
+/.turbo
+/.next
+.cache/
+/.vite

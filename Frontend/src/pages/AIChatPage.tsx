@@ -4,16 +4,7 @@ import { Loader2 } from 'lucide-react';
 
 interface ChatMessage {
     role: 'user' | 'ai';
-    parts: string | AIResponseFormatted;
-}
-
-interface AIResponseFormatted {
-    greeting: string;
-    recommendations: {
-        title: string;
-        detail: string;
-    }[];
-    closing: string;
+    parts: string;
 }
 
 interface UserProfile {
@@ -23,10 +14,6 @@ interface UserProfile {
     income: number;
     // Add any additional fields your backend returns
 }
-
-const isStructuredResponse = (parts: string | AIResponseFormatted): parts is AIResponseFormatted => {
-    return typeof parts !== 'string' && 'greeting' in parts && 'recommendations' in parts && 'closing' in parts;
-};
 
 const ChatPage = () => {
     const { username } = useParams<{ username: string }>();
@@ -44,6 +31,7 @@ const ChatPage = () => {
         scrollToBottom();
     }, [messages, scrollToBottom]);
 
+    // 🔗 Fetch user profile from your real backend
     useEffect(() => {
         if (!username) return;
 
@@ -62,6 +50,7 @@ const ChatPage = () => {
         fetchUserProfile();
     }, [username]);
 
+    // 🔗 Send message to your Gemini API
     const handleSendMessage = async () => {
         if (!input.trim() || !userProfile) return;
 
@@ -78,16 +67,16 @@ const ChatPage = () => {
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
-                    message: input,
-                    profile: userProfile,
+                    message: input, // user message
+                    profile: userProfile, // the user profile object
                 }),
             });
 
             if (!res.ok) throw new Error('Failed to get AI response');
 
             const data = await res.json();
-            const parsedResponse = JSON.parse(data.response); // assuming `data.response` is a JSON string
-            const aiMessage: ChatMessage = { role: 'ai', parts: parsedResponse };
+            console.log(data)
+            const aiMessage: ChatMessage = { role: 'ai', parts: data.response };
             setMessages([...updatedMessages, aiMessage]);
         } catch (error) {
             console.error('Error communicating with AI:', error);
@@ -131,21 +120,7 @@ const ChatPage = () => {
                             backgroundColor: message.role === 'user' ? '#3b82f6' : '#e5e7eb',
                             color: message.role === 'user' ? '#fff' : '#374151'
                         }}>
-                            {typeof message.parts === 'string' ? (
-                                message.parts
-                            ) : isStructuredResponse(message.parts) ? (
-                                <div>
-                                    <p><strong>{message.parts.greeting}</strong></p>
-                                    <ul style={{ paddingLeft: '20px' }}>
-                                        {message.parts.recommendations.map((rec, i) => (
-                                            <li key={i}>
-                                                <strong>{rec.title}</strong>: {rec.detail}
-                                            </li>
-                                        ))}
-                                    </ul>
-                                    <p>{message.parts.closing}</p>
-                                </div>
-                            ) : null}
+                            {message.parts}
                         </div>
                     </div>
                 ))}

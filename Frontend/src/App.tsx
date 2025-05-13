@@ -14,7 +14,7 @@ const App = () => {
                 <Route path="/" element={<Home />} />
                 <Route path="/signup" element={<SignUp />} />
                 <Route path="/dashboard" element={<Dashboard />} />
-                <Route path="/aichat" element={<AIChatPage />} />
+                <Route path="/aichat/:username" element={<AIChatPage />} />
                 <Route path="/profile/:username" element={<Profile />} />
             </Routes>
         </BrowserRouter>

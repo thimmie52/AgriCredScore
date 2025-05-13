@@ -28,7 +28,7 @@ const Profile = () => {
     }, [username]);
 
     const handleChatClick = () => {
-        navigate('/chat');
+        navigate(`/aichat/${username}`);
     };
 
     if (loading) {

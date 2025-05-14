@@ -450,7 +450,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="cropType">Crop Type</Label>
+                            <Label htmlFor="cropType">What is the major Crop you plant?</Label>
                             <Select
                                 id="cropType"
                                 name="cropType"
@@ -463,7 +463,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="livestockType">Livestock Type</Label>
+                            <Label htmlFor="livestockType">What is the major Livestock you rare?</Label>
                             <Select
                                 id="livestockType"
                                 name="livestockType"
@@ -486,7 +486,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="irrigation">Irrigation</Label>
+                            <Label htmlFor="irrigation">Do you use Irrigation?</Label>
                             <Select
                                 id="irrigation"
                                 name="irrigation"
@@ -497,7 +497,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="cropCycles">Crop Cycles</Label>
+                            <Label htmlFor="cropCycles">Number of crop cycles per year </Label>
                             <Input
                                 type="number"
                                 id="cropCycles"
@@ -509,7 +509,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="technology">Technology</Label>
+                            <Label htmlFor="technology">Do you use Technology in farming?</Label>
                             <Select
                                 id="technology"
                                 name="technology"
@@ -520,7 +520,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="previousLoan">Previous Loan</Label>
+                            <Label htmlFor="previousLoan">Do you have a Previous Loan?</Label>
                             <Select
                                 id="previousLoan"
                                 name="previousLoan"
@@ -587,7 +587,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="estimatedDistanceToNearestMarket">What is your estimated distance to the nearest market?</Label>
+                            <Label htmlFor="estimatedDistanceToNearestMarket">What is your estimated distance to the nearest market? (Kilometers)</Label>
                             <Input
                                 type="text"
                                 id="estimatedDistanceToNearestMarket"
@@ -599,7 +599,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="estimatedYieldLastSeason">What is your estimated yield last season?</Label>
+                            <Label htmlFor="estimatedYieldLastSeason">What is your estimated yield or revenue last season?</Label>
                             <Input
                                 type="text"
                                 id="estimatedYieldLastSeason"
@@ -611,7 +611,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="inputUsage">Input usage</Label>
+                            <Label htmlFor="inputUsage">Do you use essential inputs like fertilizers, seeds, pesticides?</Label>
                             <Select
                                 id="inputUsage"
                                 name="inputUsage"
@@ -622,7 +622,7 @@ const SignUp = () => {
                             />
                         </div>
                         <div className="mb-4">
-                            <Label htmlFor="labourType">Labour type</Label>
+                            <Label htmlFor="labourType">What is your major source of labour?</Label>
                             <Select
                                 id="labourType"
                                 name="labourType"

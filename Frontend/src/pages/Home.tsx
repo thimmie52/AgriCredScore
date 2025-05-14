@@ -1,4 +1,4 @@
-import  { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowRight } from 'lucide-react';
 import dataAnalysisImage from '../assets/vecteezy_data-analysis-concept-illustration-flat-vector-design_10869737.png';
@@ -28,14 +28,14 @@ const Home = () => {
     <div className="min-h-screen w-full overflow-x-hidden bg-gray-100 flex flex-col">
       {/* Header */}
       <header className="py-6 px-4 sm:px-6 lg:px-8 bg-green-900 w-full">
-        <div className="max-w-7xl flex justify-between items-center">
+        <div className="max-w-7xl mx-auto flex justify-between items-center">
           <a href="/" className="text-2xl font-bold text-white">
             <span className="sr-only">Company Logo</span>
             <span className="inline-block">Bridge</span>
           </a>
           <div className="ml-auto">
             <button onClick={() => navigate('/signup')}
-            className="bg-white text-green-600 hover:bg-gray-100 font-semibold py-3 px-6 rounded-full transition-colors absolute right-4 top-2">
+              className="bg-white text-green-600 hover:bg-gray-100 font-semibold py-3 px-6 rounded-full transition-colors">
               Get Started
             </button>
           </div>
@@ -45,7 +45,6 @@ const Home = () => {
       {/* Main Content Section */}
       <main className="flex-1 flex items-center justify-center px-4 sm:px-6 lg:px-8 w-full">
         <div className="max-w-3xl text-center space-y-6 w-full">
-          {/* Analytics Image */}
           <div className="mb-4">
             {imageError ? (
               <div className="text-center text-red-500">Failed to load image.</div>
@@ -82,7 +81,7 @@ const Home = () => {
 
           <div className="w-full flex justify-end mt-6 px-4">
             <button onClick={() => navigate('/signup')}
-            className="bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-full text-lg transition-colors flex items-center">
+              className="bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-full text-lg transition-colors flex items-center">
               Open an Account <ArrowRight className="ml-2 w-5 h-5" />
             </button>
           </div>
@@ -90,13 +89,12 @@ const Home = () => {
       </main>
 
       {/* Feature Section */}
-      <section className="w-full bg-white mt-32 py-20 px-6 sm:px-12 lg:px-20">
+      <section className="w-full bg-white mt-24 py-20 px-6 sm:px-12 lg:px-20">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-3xl sm:text-4xl font-bold text-green-800 text-center mb-16">
             Why Choose Bridge?
           </h2>
           <div className="flex flex-col lg:flex-row justify-between items-center gap-12">
-            {/* Feature 1 */}
             <motion.div
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -111,7 +109,6 @@ const Home = () => {
               </p>
             </motion.div>
 
-            {/* Feature 2 */}
             <motion.div
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -126,7 +123,6 @@ const Home = () => {
               </p>
             </motion.div>
 
-            {/* Feature 3 */}
             <motion.div
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -144,8 +140,48 @@ const Home = () => {
         </div>
       </section>
 
+      {/* Project Background Section */}
+      <section className="w-full bg-gray-50 py-20 px-6 sm:px-12 lg:px-20">
+        <div className="max-w-7xl mx-auto">
+          <h2 className="text-3xl sm:text-4xl font-bold text-green-800 text-center mb-12">
+            Our Project: Addressing Key Challenges in Nigerian Agriculture
+          </h2>
+          <div className="mt-8 max-w-4xl mx-auto text-gray-700 text-lg space-y-6 leading-relaxed">
+            <p>
+              Agriculture in Nigeria is critical to the economy but faces major barriers that hinder youth participation and productivity. Two of the most pressing challenges are:
+            </p>
+            <ul className="list-disc list-inside space-y-2">
+              <li>
+                <strong>Access to Finance:</strong> Youth in rural areas struggle to secure financing for agricultural ventures. The EFInA 2020 survey found that only 27% of rural adults have access to formal financial services, limiting the potential for young agripreneurs. (<a href="https://efina.org.ng/wp-content/uploads/2021/02/A2F-2020-Final-Report.pdf" className="text-green-700 underline" target="_blank">EFInA, 2020</a>)
+              </li>
+              <li>
+                <strong>Post-Harvest Losses:</strong> Nigeria experiences 30%-50% post-harvest losses due to poor storage and logistics, costing the economy $9 billion annually. This discourages young people from engaging in agriculture. (<a href="https://fmard.gov.ng/" className="text-green-700 underline" target="_blank">FMARD, 2022</a>)
+              </li>
+            </ul>
+
+            <p>
+              By focusing on these critical barriers, this hackathon aims to inspire innovative solutions that can enhance productivity, reduce waste, and create new opportunities for young agripreneurs in Nigeria.
+            </p>
+
+            <h3 className="text-2xl font-semibold text-green-800 mt-8">Our Focus: Access to Affordable Finance</h3>
+            <p>
+              Our team chose to address the issue of <strong>Access to Affordable Finance</strong>. Access to finance remains one of the biggest barriers preventing young Nigerians from entering agriculture. Commercial banks consider agriculture too risky due to climate unpredictability, lack of credit history, and land tenure issues.
+            </p>
+
+            <h3 className="text-2xl font-semibold text-green-800 mt-8">Our Solution: Data-Driven Connection</h3>
+            <p>
+              Our solution uses an algorithm to predict a user’s ability to repay loans, helping them understand their chances of accessing funding. But we didn’t stop there. We trained an AI model on several risk factors specific to Nigerian farming, enabling users to chat with the AI and learn what they can do to improve their creditworthiness and financial status.
+            </p>
+
+            <p>
+              Service providers can also visit <a href="https://agricredscore.onrender.com/dashboard" target="_blank" className="text-green-700 underline">agricredscore.onrender.com/dashboard</a> to view and connect with registered farmers based on their profiles. This project aims to connect farmers and lenders automatically — using data, AI, and empathy to bridge one of Nigeria’s biggest development gaps.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
-      <footer className="py-8 px-4 sm:px-6 lg:px-8 w-full">
+      <footer className="py-8 px-4 sm:px-6 lg:px-8 w-full bg-gray-100">
         <div className="max-w-7xl mx-auto text-center text-gray-500">
           &copy; {new Date().getFullYear()} Bridge. All rights reserved.
         </div>

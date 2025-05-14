@@ -12,7 +12,10 @@ interface UserProfile {
     age: number;
     creditScore: number;
     income: number;
-    // Add any additional fields your backend returns
+    repayment_status: number;
+    previous_loans: number;
+    crop_type: number;
+    livestock_type: number
 }
 
 const ChatPage = () => {

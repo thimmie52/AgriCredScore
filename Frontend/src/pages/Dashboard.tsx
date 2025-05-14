@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
 import { AlertCircle, Users, ChevronRight } from "lucide-react";
+import { Link } from "react-router-dom";
+
 
 interface User {
     id: number;
@@ -154,6 +156,9 @@ const DashboardPage = () => {
                                 </p>
                             </div>
                             <div className="mt-4 flex justify-end">
+                                <Link to={`/user/${user.email.split("@")[0]}`} className="text-sm text-gray-300 hover:text-white flex items-center gap-1">
+                                    View Details <ChevronRight className="w-4 h-4" />
+                                </Link>
                                 <button className="text-sm text-gray-300 hover:text-white flex items-center gap-1">
                                     View Details <ChevronRight className="w-4 h-4" />
                                 </button>

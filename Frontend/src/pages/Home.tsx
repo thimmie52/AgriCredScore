@@ -75,8 +75,8 @@ const Home = () => {
             transition={{ duration: 0.8, ease: 'easeInOut', delay: 0.2 }}
             className="text-lg sm:text-xl text-gray-600 w-full"
           >
-            The future of banking is here. Experience seamless transactions, smart financial
-            management, and a new level of control.
+            Bridge AI is the next big agro-financial AI in Nigeria. Experience real time profile analysis, smart financial
+            decision making, and a new level of control.
           </motion.p>
 
           <div className="w-full flex justify-end mt-6 px-4">

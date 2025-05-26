@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import { ArrowRight, Lock, User, Home } from 'lucide-react';
+import { ArrowRight, Home } from 'lucide-react';
 import { useNavigate, Link } from 'react-router-dom'; // Import Link for internal navigation
 
 

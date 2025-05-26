@@ -7,6 +7,7 @@ from google.genai import types
 from google.genai.types import Part
 import os
 from dotenv import load_dotenv
+from tools import weather_tool
 
 # Load API key and environment variables
 load_dotenv()
@@ -15,8 +16,7 @@ api_key = os.getenv("GOOGLE_API_KEY")
 # Init Google GenAI client
 client = genai.Client(api_key=api_key)
 from prompts.prompts import instruction_str
-config = types.GenerateContentConfig(system_instruction=instruction_str)
-chat = client.chats.create(model="gemini-2.0-flash", config=config)
+
 
 # Load PDF files only once at startup
 def load_pdf_parts():
@@ -46,6 +46,29 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+# Define a function that the model can call to control smart lights
+check_weather_condition = {
+    "name": "weather_condition",
+    "description": "Gets the weather condition of states in Nigeria",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "location": {
+                "type": "string",
+                "description": "The state in which you want to find the weather conditions",
+            },
+            
+        },
+        "required": ["location"],
+    },
+}
+
+# Generation Config with Function Declaration
+tools = types.Tool(function_declarations=[check_weather_condition])
+config = types.GenerateContentConfig(tools=[tools], system_instruction=instruction_str)
+chat = client.chats.create(model="gemini-2.0-flash", config=config)
+
+
 
 # Request model
 class MessageInput(BaseModel):
@@ -74,7 +97,13 @@ async def chat_with_bot(payload: MessageInput):
             print(f"📦 Tool Function Detected: {func_call.name}")
             print("Arguments:", func_call.args)
 
-            if func_call.name == "get_loan":
-                pass  # Your logic here
+            if func_call.name == "weather_condition":
+                result = weather_tool(**func_call.args)
+                function_response_part = Part.from_function_response(
+                        name=func_call.name,
+                        response=result
+                    )
+                response = chat.send_message(function_response_part, config=config)
+
 
     return {"response": response.text}

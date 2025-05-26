@@ -170,6 +170,7 @@ interface FormData {
     estimatedYieldLastSeason: string;
     inputUsage: string;
     labourType: string;
+    password: string;
 
 }
 
@@ -207,6 +208,7 @@ const SignUp = () => {
         estimatedYieldLastSeason: '',
         inputUsage: '',
         labourType: '',
+        password: '',
     });
 
 
@@ -665,9 +667,19 @@ const SignUp = () => {
                                 placeholder="Enter your username"
                                 required // Added required
                             />
+                            <Label htmlFor="password">Password</Label>
+                            <Input
+                                type="text"
+                                id="password"
+                                name="password"
+                                value={formData.password}
+                                onChange={handleInputChange}
+                                placeholder="Choose a suitable password"
+                                required // Added required
+                            />
                         </div>
                         <p className="text-gray-500 text-sm">
-                            Almost done!  Just create a unique username.
+                            Almost done!  Just create a unique username and a Password
                         </p>
                     </>
                 );
@@ -738,6 +750,7 @@ const SignUp = () => {
           Input_Usage: formData.inputUsage || "string",
           Labor: formData.labourType || "string",
           Username: formData.username || "string", // Assuming username is a required field
+          Password : formData.password || "string",
         };
       
         try {

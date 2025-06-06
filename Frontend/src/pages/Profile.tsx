@@ -1,6 +1,9 @@
 import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom'; // Importing directly from react-router-dom
 import { MessageSquare, LayoutDashboard, Landmark, Calculator, Settings } from "lucide-react"; // Importing icons
+import comingsoon from '../assets/comingsoon.jpg';
+import RecalculateScore from './Recalculate'; 
+
 
 // The Profile Component - fetches and displays user data
 const Profile = () => {
@@ -203,15 +206,21 @@ const App = () => {
                 {/* Conditionally render content based on active button */}
                 {activeButton === 'overview' && <Profile />}
                 {activeButton === 'loans' && (
-                    <div className="flex items-center justify-center p-4 w-full">
-                        <div className="bg-white p-8 rounded-xl shadow-2xl border border-blue-200 text-gray-800 text-2xl font-bold">Loans Page Content</div>
+                    <div className="items-center justify-center p-4 w-full">
+                        <div className="bg-white p-8 rounded-xl shadow-2xl border border-blue-200 text-gray-800 text-2xl font-bold">
+                            <h2 className='text-4xl'>Track your Loans</h2>
+                            
+                            <div className="text-center">
+                                <img src={comingsoon} alt="Coming Soon" className="w-[1000px] h-[700px] mx-auto object-cover object-top" />
+                                <h3 className="text-6xl font-bold text-green-600 text-center mt-1">Coming Soon</h3>
+                            </div>
+                            
+                            
+                        </div>
+                        
                     </div>
                 )}
-                {activeButton === 'recalculate' && (
-                    <div className="flex items-center justify-center p-4 w-full">
-                        <div className="bg-white p-8 rounded-xl shadow-2xl border border-blue-200 text-gray-800 text-2xl font-bold">Recalculate Score Content</div>
-                    </div>
-                )}
+                {activeButton === 'recalculate' && <RecalculateScore />}
                 {activeButton === 'settings' && (
                     <div className="flex items-center justify-center p-4 w-full">
                         <div className="bg-white p-8 rounded-xl shadow-2xl border border-blue-200 text-gray-800 text-2xl font-bold">Settings Content</div>

@@ -1,0 +1,1001 @@
+Age,Gender,Education,Marital_Status,Region,State,Farm_Size,Crop_Type,Livestock_Type,Livestock_Number,Irrigation,Crop_Cycles,Technology_Use,Previous_Loans,Loan_Amount,Repayment_Status,Savings_Behavior,Financial_Access,Annual_Income,Extension_Services,Market_Distance,Yield_Per_Season,Input_Usage,Labor,Loan_Repaid,Credit_Score
+32,Female,Secondary,Single,North Central,FCT,2.28,Sesame,Poultry,7,No,2,Yes,No,0,Defaulted,Yes,No,401051.53,No,10.11,128610.35,All,Family,0,58.69
+32,Female,Secondary,Divorced,South South,Rivers,3.13,Rice,Poultry,15,No,1,Yes,No,0,Defaulted,No,Yes,289525.45,Yes,6.99,242613.91,All,Family,0,11.72
+31,Male,Primary,Married,North East,Taraba,0.62,Sesame,None,0,No,1,No,No,0,Defaulted,No,Yes,264688.33,No,9.42,134944.82,All,Family,0,51.44
+26,Male,Primary,Single,North Central,Nassarawa,0.12,Yam,Cattle,13,Yes,3,No,No,0,Late,No,Yes,163321.79,Yes,2.46,204982.35,All,Family,0,26.26
+29,Female,Tertiary,Single,South East,Imo,2.36,Yam,Poultry,3,No,2,Yes,Yes,400083,Paid on Time,No,Yes,235488.02,Yes,10.75,144328.94,Some,Hired,1,85.38
+30,Male,Primary,Divorced,North East,Gombe,3.62,Groundnut,Cattle,7,No,2,No,No,0,Late,No,Yes,382373.31,No,16.86,158777.66,None,Family,0,15.5
+30,Female,Primary,Married,North East,Adamawa,0.58,Cowpea,Cattle,20,Yes,3,Yes,Yes,306951,Paid on Time,Yes,Yes,257935.47,Yes,14.09,97269.78,None,Family,1,41.84
+19,Male,Primary,Single,South East,Ebonyi,1.81,Oil Palm,Goats,17,Yes,2,No,Yes,392767,Paid on Time,No,Yes,330154.73,No,17.01,79907.45,Some,Hired,1,79.92
+23,Female,Tertiary,Single,South East,Abia,2.72,Oil Palm,Goats,9,No,3,Yes,No,0,Paid on Time,No,Yes,204852.82,Yes,8.22,177806.09,Some,Both,1,67.76
+19,Female,Tertiary,Married,South West,Osun,1.85,Cassava,Goats,17,Yes,3,No,No,0,Late,No,Yes,318062.3,Yes,11.47,114282.43,All,Family,0,37.44
+33,Female,Primary,Single,North Central,Benue,0.67,Cassava,Pigs,3,No,3,No,Yes,342890,Paid on Time,Yes,Yes,297471.24,Yes,11.58,152964.06,Some,Both,1,79.74
+32,Male,Primary,Married,North Central,Plateau,0.93,Rice,Cattle,1,No,1,Yes,No,0,Late,No,Yes,348247.24,No,11.68,152531.49,All,Family,0,19.55
+20,Male,Secondary,Divorced,South East,Abia,2.63,Yam,Poultry,1,Yes,3,No,Yes,285362,Paid on Time,No,No,476293.75,No,5.2,219100.23,All,Both,1,52.81
+24,Male,Secondary,Married,North West,Sokoto,2.95,Groundnut,Cattle,13,No,3,Yes,No,0,Paid on Time,No,Yes,365139.13,Yes,7.94,179782.18,All,Family,1,66.85
+18,Female,Primary,Divorced,South West,Ogun,3.21,Oil Palm,Poultry,5,Yes,2,No,No,0,Late,No,Yes,284876.4,Yes,6.69,192621.67,Some,Family,0,11.27
+29,Male,Primary,Single,South South,Edo,2.32,Rubber,Pigs,9,No,1,Yes,No,0,Late,Yes,Yes,138777.27,Yes,6.35,86004.01,None,Family,0,15.8
+32,Male,Tertiary,Married,South South,Rivers,1.07,Cassava,Goats,5,No,3,Yes,No,0,Paid on Time,Yes,No,294047.46,No,10.01,187796.76,Some,Hired,1,70.79
+19,Male,Secondary,Divorced,North West,Katsina,0.1,Cotton,Cattle,16,No,1,No,No,0,Paid on Time,No,Yes,428054.08,Yes,5.58,115031.1,All,Family,1,70.91
+25,Male,Secondary,Single,South South,Akwa Ibom,1.97,Vegetables,Pigs,17,No,2,No,No,0,Late,No,Yes,128357.56,Yes,13.74,180518.51,None,Family,0,28.6
+24,Male,Tertiary,Married,South South,Edo,2.76,Rice,None,0,No,3,Yes,No,0,Paid on Time,No,Yes,188883.62,No,11.62,143492.85,None,Hired,1,71.59
+22,Male,Secondary,Married,South West,Ogun,2.77,Plantain,None,0,No,1,No,No,0,Defaulted,Yes,No,366705.61,No,14.44,174803.21,None,Both,0,31.3
+27,Male,Tertiary,Single,North West,Zamfara,0.42,Beans,Poultry,8,No,1,Yes,No,0,Defaulted,No,No,307900.9,Yes,0.19,228501.61,None,Family,0,34.63
+35,Male,Primary,Single,South East,Ebonyi,2.32,Cassava,Goats,13,No,1,Yes,No,0,Paid on Time,Yes,Yes,217276.91,Yes,0.52,179954.67,All,Both,1,85.96
+20,Female,Primary,Single,South South,Edo,1.3,Cocoa,Pigs,4,No,2,No,No,0,Paid on Time,Yes,No,203288.89,No,20.95,109585.09,All,Family,1,63.18
+35,Male,Secondary,Single,South South,Akwa Ibom,1.51,Rice,None,0,Yes,1,No,No,0,Paid on Time,No,No,295052.04,No,13.71,223832.93,Some,Both,1,83.3
+22,Male,Secondary,Married,North Central,Niger,0.29,Rice,Cattle,13,No,3,No,Yes,335718,Paid on Time,Yes,Yes,435387.24,Yes,11.71,245576.48,None,Both,1,78.45
+27,Female,Primary,Single,South South,Delta,0.63,Plantain,Poultry,5,No,2,Yes,Yes,223880,Paid on Time,Yes,No,353549.18,No,10.85,207662.26,Some,Both,1,69.5
+32,Female,Secondary,Married,South South,Delta,2.23,Rice,Poultry,15,No,2,No,Yes,297940,Paid on Time,No,Yes,380265.23,No,7.57,216722.28,Some,Both,1,79.82
+34,Male,Primary,Single,South East,Abia,1.99,Cassava,Poultry,10,No,3,No,Yes,264879,Paid on Time,Yes,Yes,340311.93,Yes,5.46,178051.65,Some,Family,1,63.7
+22,Male,Secondary,Single,North East,Borno,3.68,Maize,Cattle,18,No,2,Yes,No,0,Paid on Time,Yes,No,538163.68,No,14.26,118981.81,None,Family,1,50.47
+31,Male,Secondary,Single,South West,Ogun,2.85,Oil Palm,Goats,14,No,2,No,Yes,449445,Late,Yes,Yes,201206.42,Yes,6.14,178808.73,Some,Both,0,26.37
+34,Male,Secondary,Single,North East,Adamawa,1.7,Maize,Cattle,12,No,2,No,No,0,Paid on Time,Yes,Yes,517284.23,Yes,14.63,245470.83,All,Both,1,70.29
+23,Male,Secondary,Married,North East,Borno,2.17,Cowpea,Sheep,1,No,3,No,Yes,354245,Paid on Time,No,No,390787.19,No,1.65,177168.01,None,Family,1,75.55
+18,Female,Secondary,Married,North Central,Plateau,1.79,Soybeans,Pigs,20,No,3,Yes,No,0,Paid on Time,Yes,Yes,313850.8,Yes,6.99,188012.55,Some,Hired,1,69.78
+20,Male,Tertiary,Married,North West,Jigawa,2.17,Sorghum,Poultry,6,Yes,3,No,No,0,Paid on Time,No,No,308939.39,No,12.58,173774.68,All,Family,1,71.69
+30,Male,Secondary,Single,North East,Yobe,2.55,Groundnut,Cattle,4,No,1,No,No,0,Paid on Time,No,Yes,329555.05,No,11.18,188543.26,All,Both,1,71.39
+27,Male,Secondary,Married,South East,Imo,2.97,Yam,Poultry,8,No,2,No,No,0,Late,Yes,Yes,308205.49,No,18.21,148059.39,All,Hired,0,28.94
+32,Female,Primary,Single,South East,Imo,2.96,Oil Palm,Pigs,13,No,3,No,No,0,Paid on Time,No,No,397355.74,Yes,7.97,77389.8,All,Hired,1,85.59
+25,Male,Secondary,Single,North Central,Niger,3.78,Cassava,None,0,No,3,Yes,No,0,Paid on Time,Yes,No,359027.46,No,9.55,189053.66,All,Both,1,81.94
+18,Female,Secondary,Married,North East,Taraba,1.41,Groundnut,None,0,No,1,Yes,Yes,251579,Paid on Time,Yes,No,286659.91,Yes,16.35,109076.29,Some,Family,1,85.64
+24,Male,Primary,Single,South West,Osun,1.28,Vegetables,None,0,Yes,2,No,Yes,404518,Defaulted,Yes,Yes,390588.76,Yes,10.0,157912.8,Some,Family,0,31.34
+34,Male,Secondary,Married,North East,Borno,3.39,Sesame,None,0,No,2,Yes,No,0,Paid on Time,Yes,Yes,34064.86,No,12.57,135281.67,Some,Both,1,88.95
+35,Female,Secondary,Married,North West,Sokoto,1.23,Cotton,None,0,No,2,Yes,No,0,Late,Yes,No,237597.07,No,10.07,153078.43,None,Both,0,57.22
+33,Male,Secondary,Married,South East,Abia,2.33,Vegetables,Goats,14,No,1,No,Yes,188155,Paid on Time,Yes,Yes,387000.99,Yes,3.6,237739.71,Some,Family,1,50.98
+34,Female,Secondary,Married,South South,Delta,1.66,Vegetables,Goats,12,Yes,2,No,No,0,Paid on Time,Yes,Yes,434604.42,Yes,15.52,207571.27,None,Hired,1,80.75
+23,Male,Secondary,Single,North West,Zamfara,1.44,Rice,Poultry,9,Yes,3,No,No,0,Paid on Time,No,Yes,331420.37,Yes,9.21,190329.66,All,Hired,1,42.35
+18,Male,Secondary,Single,South West,Oyo,0.48,Plantain,Poultry,11,No,1,No,No,0,Defaulted,Yes,No,220156.1,Yes,1.23,143805.3,Some,Family,0,52.08
+34,Male,Secondary,Single,South South,Akwa Ibom,1.65,Cocoa,None,0,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,324252.04,Yes,14.93,120276.77,None,Hired,1,74.53
+32,Male,Tertiary,Married,South East,Abia,3.28,Vegetables,Pigs,17,No,2,No,No,0,Paid on Time,No,Yes,368903.62,No,10.52,123279.67,None,Hired,1,63.66
+31,Male,Secondary,Single,North West,Zamfara,1.8,Groundnut,Poultry,7,No,3,No,No,0,Paid on Time,No,Yes,203619.25,No,7.83,134541.39,All,Hired,1,56.99
+24,Male,Secondary,Married,North Central,Nassarawa,3.03,Cassava,Pigs,12,No,2,No,No,0,Paid on Time,No,Yes,151443.96,Yes,13.2,141404.33,All,Family,1,42.63
+29,Female,Tertiary,Divorced,South East,Enugu,1.55,Vegetables,Goats,17,No,1,No,Yes,447710,Paid on Time,Yes,No,445338.45,No,2.04,181831.57,None,Family,1,59.22
+29,Female,Secondary,Single,South East,Anambra,2.27,Rice,Poultry,4,No,3,No,No,0,Late,Yes,Yes,305030.65,No,13.09,124814.78,All,Family,0,29.2
+26,Male,Secondary,Single,South East,Imo,3.42,Rice,None,0,No,3,No,Yes,338075,Paid on Time,Yes,Yes,242925.37,No,6.94,130614.92,None,Both,1,41.77
+25,Female,Secondary,Single,North West,Kebbi,1.76,Maize,Goats,15,No,1,Yes,No,0,Paid on Time,No,Yes,310212.89,Yes,16.03,167156.75,All,Hired,1,68.29
+18,Female,Secondary,Married,South East,Abia,2.82,Cassava,Goats,13,No,2,Yes,No,0,Paid on Time,No,No,350727.4,Yes,7.29,181944.55,None,Family,1,67.81
+29,Male,Primary,Married,North West,Kaduna,2.02,Rice,Goats,13,Yes,1,No,Yes,133807,Late,Yes,No,308995.61,Yes,13.04,159330.46,All,Both,0,48.54
+21,Male,Secondary,Single,North West,Jigawa,0.19,Rice,None,0,No,3,No,No,0,Paid on Time,Yes,Yes,396501.5,No,6.85,141572.21,None,Family,1,80.94
+19,Male,Tertiary,Single,South West,Ogun,0.77,Cassava,Pigs,11,No,1,Yes,No,0,Late,Yes,Yes,282225.97,No,12.15,162165.38,None,Both,0,48.0
+20,Male,Secondary,Married,South West,Ogun,1.22,Oil Palm,Goats,5,No,2,No,No,0,Defaulted,Yes,No,364018.98,No,12.85,172385.43,None,Hired,0,16.56
+31,Male,Primary,Married,South East,Ebonyi,0.57,Vegetables,Goats,3,No,1,Yes,No,0,Paid on Time,Yes,Yes,360616.51,No,9.41,91105.17,Some,Family,1,88.73
+28,Female,Tertiary,Married,North West,Kebbi,1.98,Beans,Poultry,6,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,242899.53,Yes,10.31,110976.3,None,Family,1,81.23
+19,Female,Primary,Married,North Central,FCT,2.35,Sesame,Cattle,7,Yes,3,Yes,No,0,Paid on Time,Yes,No,313278.07,No,14.48,181758.59,All,Both,1,44.01
+33,Male,Tertiary,Single,North East,Borno,2.4,Groundnut,Cattle,20,No,3,No,No,0,Paid on Time,Yes,Yes,518250.7,Yes,18.36,139798.47,None,Family,1,42.18
+35,Male,Secondary,Single,North Central,Niger,1.51,Rice,Cattle,12,Yes,3,No,Yes,338107,Paid on Time,Yes,Yes,609404.9,No,14.66,193657.93,Some,Family,1,78.39
+34,Male,Secondary,Single,North East,Adamawa,3.57,Millet,Goats,18,No,2,No,No,0,Paid on Time,Yes,Yes,145646.22,Yes,7.55,181127.82,None,Family,1,70.09
+29,Male,Secondary,Single,North East,Bauchi,1.89,Millet,Goats,10,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,226404.81,Yes,3.53,208041.34,None,Family,1,88.49
+28,Female,Secondary,Single,North Central,Kwara,3.95,Maize,Goats,15,Yes,1,Yes,No,0,Late,Yes,Yes,241002.14,Yes,14.24,211125.05,Some,Both,0,50.28
+32,Male,Secondary,Single,South West,Osun,0.76,Cocoa,Pigs,15,Yes,3,Yes,No,0,Paid on Time,Yes,No,362924.9,No,14.58,167324.42,Some,Hired,1,64.44
+23,Male,Primary,Single,North West,Kebbi,1.06,Maize,Cattle,12,No,2,Yes,No,0,Paid on Time,Yes,No,364426.82,Yes,9.49,148660.28,All,Both,1,83.23
+29,Male,Secondary,Divorced,South East,Ebonyi,2.62,Oil Palm,Pigs,17,No,1,No,Yes,282549,Paid on Time,No,Yes,314103.67,No,8.69,124616.01,All,Hired,1,56.35
+23,Female,Tertiary,Single,South West,Oyo,1.68,Vegetables,Pigs,6,Yes,3,Yes,Yes,375593,Paid on Time,Yes,Yes,394817.68,Yes,2.24,134823.2,All,Family,1,69.35
+25,Female,Secondary,Single,North West,Kebbi,2.98,Beans,None,0,No,2,No,No,0,Paid on Time,Yes,Yes,267516.86,Yes,2.08,123344.8,Some,Hired,1,75.77
+30,Female,Secondary,Married,North Central,FCT,0.81,Cassava,Pigs,11,Yes,1,Yes,Yes,420321,Paid on Time,Yes,Yes,453073.24,Yes,10.9,219600.11,All,Hired,1,60.0
+21,Female,Secondary,Single,North Central,Benue,2.33,Cassava,Goats,13,Yes,3,Yes,No,0,Paid on Time,No,Yes,339482.57,No,7.11,153184.42,Some,Both,1,70.08
+26,Female,Primary,Single,North East,Yobe,2.18,Maize,Sheep,9,No,3,No,Yes,296242,Late,Yes,Yes,326540.38,Yes,5.82,257257.46,Some,Family,0,53.46
+34,Male,Secondary,Single,North West,Zamfara,2.56,Rice,Goats,1,Yes,1,No,No,0,Defaulted,Yes,Yes,181005.49,Yes,18.39,122320.59,Some,Both,0,16.42
+21,Female,Secondary,Single,South West,Oyo,0.9,Oil Palm,Goats,19,No,1,No,Yes,279189,Late,Yes,Yes,228870.14,No,12.31,255892.8,All,Family,0,12.62
+19,Male,Tertiary,Single,North East,Gombe,2.87,Groundnut,Cattle,12,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,120397.1,Yes,6.32,211804.66,Some,Hired,1,86.36
+30,Male,Tertiary,Single,North Central,Plateau,2.87,Sesame,None,0,Yes,2,No,No,0,Paid on Time,No,Yes,376409.61,No,13.54,197835.12,All,Family,1,53.16
+26,Male,Tertiary,Married,South East,Abia,1.15,Rice,Pigs,2,No,2,No,No,0,Paid on Time,No,No,139898.07,Yes,7.81,208315.14,None,Both,1,80.3
+24,Male,Primary,Single,North Central,Kwara,2.54,Soybeans,Poultry,16,No,2,No,No,0,Paid on Time,No,No,210153.2,Yes,16.95,177890.52,All,Hired,1,59.93
+19,Male,Primary,Single,South South,Rivers,2.06,Rice,Goats,13,No,1,No,No,0,Paid on Time,No,Yes,352969.28,Yes,1.72,212821.82,All,Hired,1,49.59
+28,Female,Secondary,Single,North Central,Kwara,0.77,Rice,Poultry,2,Yes,2,Yes,Yes,299062,Paid on Time,No,Yes,273965.95,Yes,6.34,114916.4,All,Hired,1,76.22
+20,Male,Secondary,Married,North East,Borno,2.88,Maize,Cattle,5,Yes,2,Yes,No,0,Late,Yes,Yes,376219.84,Yes,2.34,201647.74,None,Hired,0,19.94
+30,Male,Secondary,Single,South South,Edo,1.99,Plantain,Pigs,5,Yes,1,Yes,Yes,103352,Paid on Time,No,Yes,521842.14,Yes,5.63,36181.32,None,Both,1,45.11
+26,Female,Secondary,Single,North Central,Kwara,1.91,Sesame,Pigs,9,No,2,Yes,No,0,Paid on Time,No,Yes,392134.96,No,6.98,146209.13,All,Hired,1,72.95
+20,Male,Tertiary,Married,North West,Zamfara,0.65,Rice,None,0,No,3,No,No,0,Paid on Time,Yes,Yes,202838.6,No,9.37,114125.74,All,Hired,1,84.95
+25,Female,Secondary,Single,North West,Sokoto,1.68,Rice,None,0,No,2,Yes,No,0,Paid on Time,No,Yes,274916.7,Yes,4.95,146640.82,Some,Both,1,66.04
+28,Male,Primary,Married,South West,Ondo,1.76,Vegetables,Pigs,2,No,2,No,No,0,Paid on Time,Yes,Yes,222098.62,No,3.3,195650.01,None,Both,1,82.33
+26,Male,Secondary,Single,South South,Cross River,0.71,Cassava,None,0,Yes,2,No,Yes,77044,Paid on Time,No,Yes,323413.75,No,4.02,148013.05,All,Family,1,69.52
+24,Male,Tertiary,Single,South South,Akwa Ibom,2.21,Cassava,Poultry,3,No,1,No,Yes,117695,Paid on Time,No,Yes,179485.82,Yes,13.8,179194.31,Some,Hired,1,79.19
+21,Male,Secondary,Single,North Central,Nassarawa,1.22,Cassava,Cattle,20,No,1,No,No,0,Late,Yes,Yes,364828.04,Yes,17.82,87487.68,None,Family,0,16.89
+23,Male,Secondary,Single,North West,Kebbi,0.47,Sorghum,None,0,No,1,No,No,0,Paid on Time,Yes,Yes,426258.41,No,20.31,210418.31,Some,Both,1,53.49
+34,Female,Primary,Married,North East,Gombe,2.55,Millet,None,0,No,1,Yes,Yes,80447,Paid on Time,Yes,Yes,250624.01,No,10.95,178837.9,Some,Hired,1,48.91
+23,Female,Secondary,Married,South West,Osun,2.36,Maize,Pigs,15,Yes,3,Yes,No,0,Paid on Time,Yes,Yes,304867.48,No,7.67,70264.85,None,Both,1,49.31
+27,Female,Secondary,Married,North West,Katsina,2.1,Maize,Goats,17,Yes,1,Yes,No,0,Paid on Time,No,Yes,314596.16,No,5.12,105377.21,All,Both,1,52.48
+33,Female,Secondary,Married,North East,Gombe,1.98,Groundnut,Sheep,16,Yes,2,No,Yes,445755,Paid on Time,Yes,Yes,225278.83,No,10.33,175796.96,None,Family,1,79.39
+22,Female,Primary,Married,North West,Kaduna,2.29,Cotton,Sheep,14,No,1,No,No,0,Paid on Time,Yes,No,164341.82,Yes,11.32,120476.1,Some,Both,1,51.37
+26,Female,Secondary,Married,North East,Yobe,2.55,Sesame,Goats,11,No,1,No,No,0,Paid on Time,Yes,Yes,256479.57,No,6.45,153688.51,Some,Both,1,62.96
+34,Male,Primary,Single,South West,Ondo,3.16,Maize,Pigs,19,No,1,No,Yes,403323,Paid on Time,No,Yes,223163.51,No,19.14,250948.31,All,Family,1,66.94
+20,Male,Secondary,Married,South East,Enugu,3.31,Vegetables,None,0,No,2,Yes,Yes,349855,Late,Yes,Yes,243185.77,No,3.8,203168.74,Some,Family,0,52.86
+35,Male,Secondary,Married,South South,Bayelsa,1.91,Rubber,Pigs,3,No,3,Yes,No,0,Defaulted,No,Yes,267786.04,No,4.71,147949.23,None,Family,0,59.85
+20,Male,Secondary,Married,North East,Borno,2.19,Cowpea,Sheep,5,Yes,1,Yes,No,0,Paid on Time,No,No,264683.37,No,3.36,204158.93,All,Both,1,83.99
+18,Male,Primary,Single,South East,Abia,3.62,Oil Palm,Poultry,16,No,2,No,No,0,Late,Yes,Yes,267767.95,No,8.41,116226.93,All,Hired,0,18.36
+18,Female,Primary,Married,South East,Anambra,2.13,Yam,Pigs,20,No,3,Yes,No,0,Paid on Time,No,No,493892.9,Yes,11.41,187328.0,None,Family,1,48.45
+31,Male,Tertiary,Married,South East,Abia,2.25,Yam,Pigs,2,Yes,1,Yes,No,0,Defaulted,Yes,No,293655.39,Yes,10.98,165848.97,None,Family,0,58.14
+32,Male,Primary,Single,North West,Jigawa,1.88,Beans,Cattle,9,Yes,1,Yes,Yes,167886,Paid on Time,Yes,Yes,278137.93,No,12.14,194956.79,Some,Both,1,71.31
+34,Male,Secondary,Single,North Central,Kogi,2.35,Sesame,Cattle,16,No,1,No,Yes,273563,Paid on Time,No,Yes,439316.0,No,10.95,200052.3,Some,Family,1,85.53
+31,Female,Secondary,Married,South West,Ekiti,4.11,Oil Palm,None,0,No,1,No,Yes,223824,Paid on Time,Yes,Yes,188694.56,Yes,12.12,157166.96,Some,Hired,1,53.45
+23,Female,Primary,Single,South East,Anambra,2.81,Oil Palm,Pigs,6,Yes,2,No,Yes,370701,Paid on Time,Yes,Yes,320604.95,Yes,10.41,77122.43,All,Family,1,81.67
+18,Male,Tertiary,Married,South East,Abia,0.12,Rice,None,0,No,1,No,Yes,487415,Late,Yes,No,311502.61,No,9.68,120486.23,None,Family,0,31.09
+29,Female,Secondary,Single,North Central,Niger,0.8,Maize,None,0,No,2,No,No,0,Paid on Time,No,No,402922.18,Yes,8.12,178788.99,Some,Both,1,73.13
+22,Male,Secondary,Married,South South,Edo,2.51,Oil Palm,None,0,No,1,No,No,0,Paid on Time,Yes,Yes,283169.18,Yes,8.49,134132.72,Some,Hired,1,66.5
+33,Female,Tertiary,Married,North Central,FCT,-0.45,Yam,Poultry,3,Yes,3,Yes,Yes,281496,Paid on Time,Yes,No,455796.88,No,12.35,192280.08,Some,Hired,1,55.32
+19,Male,Secondary,Married,North West,Zamfara,1.64,Cotton,Cattle,12,No,2,Yes,Yes,252514,Paid on Time,Yes,Yes,323212.85,Yes,7.98,156470.56,None,Both,1,41.27
+20,Male,Primary,Single,North East,Taraba,3.11,Cowpea,Sheep,18,No,2,No,No,0,Paid on Time,Yes,Yes,181659.38,No,4.43,154883.79,All,Family,1,86.28
+35,Male,Primary,Single,South South,Rivers,2.05,Oil Palm,Goats,10,No,1,Yes,No,0,Defaulted,Yes,Yes,294914.75,No,9.91,169862.23,Some,Family,0,22.35
+20,Male,Primary,Single,North West,Katsina,1.83,Rice,Goats,19,Yes,3,No,Yes,124965,Paid on Time,Yes,Yes,252790.94,No,2.65,135699.79,None,Both,1,68.47
+22,Female,Primary,Married,South East,Imo,2.52,Cassava,Pigs,19,Yes,3,No,No,0,Paid on Time,No,Yes,327142.15,No,11.35,132840.39,All,Both,1,87.2
+33,Male,Secondary,Single,South West,Lagos,1.92,Maize,Poultry,17,No,2,No,Yes,233043,Paid on Time,Yes,Yes,107551.18,No,9.73,164277.7,None,Hired,1,80.33
+33,Female,Primary,Single,South South,Rivers,0.62,Vegetables,Goats,3,Yes,3,No,No,0,Paid on Time,No,No,396308.9,Yes,19.79,137929.28,None,Hired,1,46.72
+29,Female,Primary,Single,South South,Akwa Ibom,1.46,Rice,Poultry,16,Yes,1,Yes,No,0,Paid on Time,Yes,No,385661.71,No,10.9,157261.94,None,Family,1,59.96
+31,Male,Secondary,Single,North Central,FCT,2.47,Sesame,Cattle,2,No,1,No,Yes,161041,Defaulted,Yes,Yes,114416.22,Yes,17.28,150154.21,None,Family,0,45.51
+32,Male,Tertiary,Single,South West,Ogun,1.21,Oil Palm,None,0,Yes,2,Yes,No,0,Paid on Time,No,No,252917.1,No,16.8,84558.98,All,Both,1,65.15
+27,Male,Secondary,Single,North West,Kaduna,0.89,Millet,None,0,No,1,No,No,0,Paid on Time,Yes,No,378218.26,Yes,0.83,148595.81,All,Hired,1,42.72
+34,Male,Primary,Married,South West,Ondo,1.67,Vegetables,Poultry,12,No,1,Yes,No,0,Paid on Time,No,No,315519.07,Yes,15.35,159481.41,Some,Both,1,87.15
+34,Male,Tertiary,Married,North West,Kaduna,2.74,Sorghum,Sheep,19,No,3,Yes,Yes,417570,Late,No,No,311088.95,No,10.44,159865.79,All,Family,0,41.72
+27,Male,Secondary,Single,North West,Sokoto,1.93,Cotton,Sheep,5,Yes,2,No,Yes,84773,Late,Yes,Yes,411171.86,Yes,5.84,220852.19,None,Hired,0,20.79
+30,Female,Primary,Single,South South,Bayelsa,2.14,Oil Palm,None,0,No,1,No,Yes,330343,Paid on Time,Yes,Yes,266008.55,No,13.7,124339.32,All,Family,1,81.91
+21,Female,Primary,Married,North Central,Kogi,2.66,Soybeans,Pigs,17,Yes,1,Yes,No,0,Paid on Time,No,Yes,272448.97,No,10.6,227378.5,None,Family,1,40.85
+26,Male,Primary,Single,South South,Bayelsa,2.98,Plantain,Poultry,15,No,1,Yes,Yes,304595,Paid on Time,No,No,225777.05,No,13.35,183848.32,Some,Family,1,84.97
+19,Female,Secondary,Single,North East,Taraba,2.85,Maize,Sheep,9,No,3,No,No,0,Paid on Time,No,Yes,477279.12,Yes,6.69,120109.58,All,Hired,1,79.07
+28,Female,Secondary,Divorced,South South,Cross River,2.44,Cassava,Poultry,13,No,3,No,Yes,487985,Paid on Time,No,No,196828.3,Yes,5.82,254476.94,All,Both,1,52.09
+22,Female,Tertiary,Married,South West,Ondo,0.69,Maize,Goats,14,No,3,Yes,No,0,Paid on Time,Yes,No,319166.09,No,12.24,168554.7,All,Both,1,49.85
+33,Male,Tertiary,Married,South West,Osun,1.78,Cocoa,Poultry,3,No,3,Yes,No,0,Defaulted,Yes,No,151099.96,No,12.13,150957.39,None,Family,0,33.85
+32,Male,Secondary,Married,North Central,Niger,2.31,Sesame,Poultry,4,No,1,Yes,No,0,Late,Yes,No,405466.63,Yes,16.94,153304.78,All,Family,0,30.14
+30,Male,Tertiary,Single,South East,Abia,5.5,Vegetables,Pigs,12,No,3,Yes,No,0,Defaulted,No,Yes,153659.4,Yes,6.58,189531.28,Some,Family,0,42.83
+18,Male,Tertiary,Single,South South,Edo,0.47,Oil Palm,Pigs,18,Yes,2,No,Yes,116668,Paid on Time,Yes,Yes,303257.56,No,0.33,234439.7,All,Both,1,57.65
+24,Female,Secondary,Married,South South,Cross River,0.58,Rice,Poultry,15,Yes,3,No,Yes,327667,Paid on Time,Yes,Yes,321364.59,No,5.48,145538.73,None,Family,1,74.68
+21,Male,Tertiary,Married,South South,Rivers,1.43,Oil Palm,Goats,10,Yes,2,No,No,0,Paid on Time,Yes,Yes,133338.97,No,7.09,120598.07,All,Family,1,84.14
+21,Female,Primary,Married,South East,Anambra,2.67,Yam,Pigs,15,No,2,No,No,0,Paid on Time,Yes,Yes,346259.13,Yes,13.53,112443.7,Some,Family,1,59.03
+27,Male,Primary,Married,North West,Kebbi,2.78,Rice,Cattle,10,No,1,No,Yes,332727,Late,No,Yes,160466.63,No,1.55,157852.68,None,Both,0,19.01
+23,Female,Secondary,Married,North East,Adamawa,1.58,Sorghum,Cattle,7,No,1,Yes,Yes,387369,Paid on Time,Yes,Yes,367659.8,No,6.45,243808.67,Some,Family,1,48.15
+35,Male,Secondary,Single,South West,Osun,2.49,Oil Palm,Poultry,4,No,3,Yes,No,0,Late,Yes,No,424789.6,Yes,19.1,151996.82,None,Family,0,50.0
+29,Male,Tertiary,Married,North West,Zamfara,3.05,Maize,Sheep,3,No,2,No,No,0,Paid on Time,No,Yes,449358.28,No,8.15,157169.42,Some,Family,1,55.34
+34,Female,Secondary,Married,South West,Osun,0.57,Maize,Pigs,12,No,2,Yes,No,0,Paid on Time,Yes,Yes,359727.49,No,16.94,207331.2,Some,Family,1,60.92
+35,Female,Tertiary,Single,North West,Katsina,2.4,Rice,Sheep,20,Yes,2,Yes,No,0,Late,No,Yes,295766.43,Yes,2.52,117498.8,All,Family,0,23.43
+27,Female,Primary,Married,North Central,Benue,1.88,Soybeans,None,0,No,3,No,No,0,Paid on Time,Yes,No,227691.23,Yes,15.95,200683.79,Some,Family,1,53.55
+19,Female,Tertiary,Single,North West,Katsina,2.55,Beans,None,0,Yes,2,No,Yes,314237,Paid on Time,No,Yes,334058.92,No,13.51,153349.09,All,Hired,1,49.43
+33,Female,Secondary,Married,North West,Kano,2.73,Cotton,Sheep,6,Yes,1,Yes,Yes,406007,Paid on Time,No,Yes,267717.55,No,17.84,214518.41,All,Hired,1,72.7
+32,Male,Secondary,Single,North West,Kebbi,1.03,Cotton,Goats,15,Yes,1,No,Yes,409232,Defaulted,No,No,112255.71,No,10.38,187134.12,All,Hired,0,22.67
+31,Male,Secondary,Single,South West,Ekiti,2.6,Maize,None,0,No,1,No,No,0,Late,Yes,Yes,241418.43,Yes,6.97,235968.9,Some,Hired,0,56.81
+35,Female,Primary,Single,South East,Ebonyi,1.31,Vegetables,None,0,No,3,Yes,No,0,Paid on Time,Yes,No,300409.3,Yes,17.44,154264.07,None,Hired,1,76.03
+20,Female,Primary,Divorced,South West,Osun,3.87,Cassava,Pigs,15,Yes,1,Yes,No,0,Late,Yes,No,101433.78,No,4.27,81831.37,Some,Both,0,53.82
+23,Male,Secondary,Single,North East,Adamawa,2.42,Maize,Sheep,9,No,3,Yes,No,0,Paid on Time,Yes,Yes,384699.71,Yes,6.16,223884.09,Some,Family,1,77.03
+19,Male,Secondary,Single,South South,Edo,-0.06,Rubber,None,0,No,2,No,Yes,490437,Paid on Time,Yes,Yes,355098.67,Yes,5.51,124513.49,All,Family,1,50.98
+28,Male,Secondary,Single,South East,Imo,3.87,Oil Palm,Pigs,8,No,1,Yes,Yes,431783,Paid on Time,Yes,Yes,338961.42,No,9.79,246571.96,None,Family,1,74.6
+24,Male,Secondary,Married,South East,Ebonyi,2.54,Oil Palm,None,0,No,3,Yes,No,0,Paid on Time,No,Yes,433435.03,Yes,11.4,237931.02,None,Both,1,82.17
+29,Male,Secondary,Single,South South,Edo,2.33,Rice,Pigs,19,No,3,Yes,No,0,Paid on Time,Yes,Yes,270238.9,Yes,9.87,120588.18,All,Hired,1,82.4
+34,Male,Secondary,Married,South West,Oyo,0.12,Cocoa,Pigs,20,Yes,2,No,No,0,Late,Yes,Yes,361971.14,Yes,12.91,139838.2,All,Both,0,52.12
+19,Female,Secondary,Single,North Central,Kogi,2.46,Yam,Pigs,9,No,1,Yes,No,0,Late,Yes,Yes,445582.23,No,17.89,94942.99,All,Family,0,17.93
+33,Female,Secondary,Married,South East,Anambra,2.19,Vegetables,None,0,No,2,Yes,No,0,Late,Yes,Yes,394131.06,Yes,15.17,164267.24,None,Hired,0,47.29
+34,Male,Primary,Single,North West,Zamfara,2.57,Cotton,Poultry,16,No,2,No,Yes,178585,Defaulted,No,Yes,293926.86,Yes,12.99,102582.6,All,Hired,0,43.1
+32,Female,Secondary,Single,North Central,Nassarawa,2.26,Soybeans,Cattle,15,No,1,Yes,Yes,225607,Paid on Time,No,No,246115.81,No,11.86,173525.74,Some,Family,1,56.26
+25,Female,Primary,Married,South South,Bayelsa,2.59,Oil Palm,Pigs,7,No,3,No,Yes,251202,Late,No,No,389500.87,No,4.92,137795.98,All,Family,0,30.3
+20,Male,Primary,Divorced,North Central,Niger,0.97,Maize,Pigs,16,Yes,3,Yes,No,0,Paid on Time,Yes,Yes,411336.05,Yes,16.73,189954.41,Some,Family,1,68.94
+28,Female,Secondary,Married,North Central,Plateau,2.63,Soybeans,Pigs,16,No,3,No,No,0,Paid on Time,No,Yes,388523.15,No,7.4,157672.05,Some,Both,1,43.49
+18,Female,Secondary,Single,North Central,Niger,1.6,Cassava,Pigs,19,No,1,No,Yes,238505,Paid on Time,Yes,Yes,481994.89,Yes,19.53,126841.62,None,Hired,1,60.09
+19,Male,Primary,Divorced,North East,Bauchi,3.76,Sesame,Cattle,13,No,2,No,Yes,497415,Paid on Time,No,Yes,457301.97,Yes,14.17,232184.52,Some,Both,1,49.83
+20,Male,Primary,Married,North West,Kaduna,3.63,Maize,Poultry,9,No,1,Yes,Yes,250753,Paid on Time,No,No,440752.65,No,6.67,141115.3,All,Family,1,53.43
+32,Male,Tertiary,Married,North West,Sokoto,1.94,Beans,Poultry,10,Yes,3,Yes,Yes,356398,Paid on Time,Yes,Yes,347944.15,Yes,7.72,159071.33,All,Both,1,78.84
+19,Female,Secondary,Married,South South,Delta,1.92,Plantain,Pigs,6,No,2,Yes,Yes,274021,Paid on Time,No,Yes,178260.39,No,17.73,112542.84,All,Family,1,76.25
+33,Male,Tertiary,Married,South West,Oyo,2.17,Maize,None,0,No,2,Yes,No,0,Late,Yes,Yes,196092.64,No,14.76,131674.65,Some,Family,0,32.7
+30,Female,Tertiary,Married,South East,Abia,2.09,Vegetables,Pigs,8,No,2,Yes,No,0,Paid on Time,No,Yes,472748.27,No,7.06,108136.88,All,Family,1,81.29
+25,Male,Secondary,Married,South East,Enugu,1.7,Oil Palm,Poultry,6,No,1,No,Yes,254720,Paid on Time,Yes,Yes,373891.55,No,5.81,105665.95,All,Both,1,71.37
+34,Male,Secondary,Single,South South,Edo,1.97,Plantain,Poultry,13,No,1,No,No,0,Defaulted,No,Yes,209031.66,Yes,13.71,199940.83,Some,Hired,0,35.65
+30,Female,Secondary,Married,North East,Adamawa,1.4,Maize,Cattle,7,No,3,No,No,0,Paid on Time,Yes,Yes,188999.64,No,16.0,139067.28,All,Family,1,62.45
+32,Male,Secondary,Divorced,North Central,Nassarawa,2.88,Yam,Pigs,9,Yes,3,No,Yes,377871,Late,Yes,Yes,455600.06,No,9.12,183432.74,All,Family,0,31.56
+26,Male,Secondary,Single,South East,Imo,0.77,Oil Palm,Goats,8,Yes,3,Yes,No,0,Paid on Time,Yes,No,199682.02,No,11.66,176670.04,All,Family,1,88.17
+34,Female,Secondary,Divorced,South East,Anambra,0.91,Rice,Poultry,20,Yes,3,No,Yes,263175,Defaulted,Yes,No,172062.95,No,3.06,139135.82,All,Family,0,39.76
+30,Male,Secondary,Single,South East,Anambra,4.08,Cassava,Goats,14,No,2,Yes,Yes,390401,Paid on Time,No,No,262772.75,Yes,8.03,178766.94,None,Both,1,84.78
+33,Female,Primary,Single,South East,Imo,1.47,Vegetables,Poultry,4,No,1,No,Yes,328404,Paid on Time,Yes,Yes,194344.24,No,12.08,117797.7,Some,Hired,1,57.76
+33,Male,Primary,Married,South East,Imo,3.9,Oil Palm,Poultry,11,No,2,Yes,Yes,460184,Late,No,Yes,321978.43,No,4.86,145144.09,None,Family,0,54.78
+19,Female,Primary,Married,South East,Abia,1.05,Cassava,None,0,Yes,3,No,No,0,Paid on Time,Yes,No,307748.05,Yes,6.51,187863.35,All,Family,1,41.36
+25,Female,Secondary,Single,South South,Akwa Ibom,2.64,Rubber,Goats,1,No,2,Yes,Yes,253117,Paid on Time,No,Yes,330587.21,Yes,9.66,107431.48,Some,Both,1,49.13
+25,Female,Tertiary,Single,South South,Edo,0.13,Plantain,None,0,No,2,No,Yes,55368,Paid on Time,No,No,261147.92,Yes,13.82,87938.3,Some,Family,1,75.74
+24,Male,Primary,Married,North East,Adamawa,2.18,Maize,Cattle,13,Yes,3,Yes,No,0,Defaulted,Yes,Yes,348741.39,Yes,17.98,132163.07,Some,Hired,0,23.9
+32,Male,Secondary,Single,North West,Kano,2.1,Groundnut,Sheep,15,No,3,Yes,No,0,Late,No,Yes,148269.38,No,16.85,221472.89,Some,Hired,0,36.56
+24,Female,Tertiary,Single,South East,Ebonyi,2.15,Yam,Goats,5,No,2,Yes,No,0,Paid on Time,Yes,Yes,425481.19,No,12.5,135971.17,All,Both,1,67.97
+28,Female,Secondary,Single,South East,Anambra,1.28,Rice,Poultry,10,No,2,Yes,Yes,128537,Paid on Time,No,Yes,233513.05,No,1.69,81663.41,All,Family,1,71.14
+22,Male,Secondary,Single,North East,Yobe,1.67,Groundnut,Sheep,15,No,1,No,No,0,Paid on Time,Yes,No,266150.6,Yes,7.7,102372.09,All,Family,1,81.51
+24,Male,Primary,Married,North East,Gombe,1.86,Groundnut,Cattle,13,Yes,3,Yes,Yes,277203,Late,No,No,373965.32,No,4.5,109395.75,Some,Family,0,58.69
+32,Male,Tertiary,Single,North West,Kaduna,1.37,Beans,Goats,2,No,2,Yes,Yes,378774,Paid on Time,Yes,Yes,306992.93,Yes,2.79,192866.54,All,Family,1,42.56
+20,Male,Secondary,Married,North Central,Benue,1.35,Sesame,Pigs,5,Yes,3,Yes,Yes,318508,Paid on Time,Yes,Yes,236605.46,No,17.84,107025.0,All,Hired,1,57.24
+32,Male,Primary,Single,South South,Delta,2.76,Vegetables,Pigs,20,No,1,No,Yes,390130,Paid on Time,No,Yes,185409.94,Yes,9.73,126708.9,Some,Family,1,68.89
+19,Male,Secondary,Married,North West,Katsina,2.01,Groundnut,Sheep,19,No,3,No,No,0,Late,Yes,No,510373.19,Yes,5.24,116150.24,None,Family,0,53.28
+29,Male,Primary,Single,South West,Ogun,0.99,Plantain,None,0,Yes,2,No,Yes,137592,Paid on Time,No,Yes,265602.39,Yes,11.42,100606.33,None,Family,1,89.85
+29,Male,Secondary,Single,North West,Jigawa,1.81,Millet,Poultry,2,Yes,2,Yes,No,0,Paid on Time,Yes,Yes,267829.38,No,18.11,247557.1,Some,Family,1,44.49
+31,Female,Tertiary,Single,South West,Oyo,2.88,Maize,Poultry,18,No,1,Yes,No,0,Paid on Time,Yes,Yes,370187.58,No,5.99,131231.15,Some,Family,1,74.23
+30,Female,Primary,Single,North Central,Kwara,1.92,Soybeans,Pigs,17,No,3,Yes,No,0,Late,Yes,Yes,-18781.15,No,3.51,112107.19,All,Hired,0,52.56
+20,Female,Secondary,Married,North Central,Kogi,3.56,Cassava,Pigs,20,No,3,Yes,Yes,362877,Paid on Time,Yes,Yes,191292.76,No,17.09,25609.57,None,Both,1,63.19
+18,Male,Secondary,Married,North West,Zamfara,1.21,Groundnut,Sheep,15,No,3,No,Yes,224004,Paid on Time,Yes,No,260090.11,Yes,13.4,204835.32,None,Family,1,79.83
+25,Male,Tertiary,Single,North Central,Nassarawa,4.55,Rice,Goats,11,No,3,No,No,0,Paid on Time,Yes,Yes,235780.53,Yes,10.2,187824.95,All,Family,1,69.93
+27,Male,Tertiary,Married,North West,Katsina,1.3,Sorghum,Goats,17,No,1,Yes,Yes,257370,Paid on Time,No,No,416245.83,Yes,5.18,231423.43,None,Family,1,58.5
+30,Male,Secondary,Divorced,North Central,Kogi,1.41,Cassava,Poultry,9,No,2,Yes,No,0,Defaulted,Yes,Yes,283436.86,Yes,1.03,82227.62,Some,Family,0,42.41
+27,Female,Primary,Single,South South,Bayelsa,1.43,Plantain,Poultry,6,No,2,Yes,Yes,143948,Paid on Time,Yes,Yes,223380.75,No,20.83,209527.43,None,Hired,1,52.71
+35,Male,Secondary,Married,South West,Osun,1.73,Plantain,Poultry,4,No,3,Yes,No,0,Paid on Time,Yes,No,271063.56,No,16.01,165857.35,All,Family,1,71.5
+35,Male,Primary,Married,South East,Ebonyi,1.02,Yam,Poultry,4,No,2,Yes,No,0,Defaulted,Yes,No,138119.47,Yes,12.64,214069.63,All,Both,0,10.65
+28,Male,Secondary,Married,North West,Kano,1.45,Millet,Cattle,1,No,3,Yes,No,0,Defaulted,No,Yes,285297.46,Yes,6.8,109135.23,Some,Family,0,20.91
+27,Female,Secondary,Single,South West,Oyo,2.05,Cocoa,Poultry,6,No,3,No,No,0,Paid on Time,Yes,Yes,357679.38,No,2.28,156613.64,Some,Family,1,62.09
+20,Male,Primary,Single,North West,Kebbi,1.87,Beans,Cattle,15,No,3,No,Yes,253085,Paid on Time,Yes,Yes,243939.24,Yes,15.28,287536.15,None,Family,1,87.99
+24,Male,Primary,Single,North East,Borno,4.1,Sesame,None,0,Yes,3,No,No,0,Paid on Time,No,No,359639.71,No,13.92,205813.78,All,Family,1,74.54
+28,Male,Tertiary,Single,North West,Katsina,2.97,Maize,Sheep,5,Yes,3,Yes,No,0,Paid on Time,No,Yes,179506.44,Yes,10.26,174541.43,None,Family,1,64.52
+35,Female,Secondary,Married,South West,Ogun,2.82,Oil Palm,Goats,5,Yes,2,No,No,0,Late,Yes,Yes,295191.15,No,9.61,237920.89,Some,Hired,0,40.61
+35,Female,Primary,Married,North East,Gombe,2.39,Groundnut,None,0,Yes,2,Yes,No,0,Paid on Time,Yes,Yes,71028.45,Yes,10.79,150310.57,All,Hired,1,59.8
+25,Male,Tertiary,Married,North Central,Niger,1.42,Yam,Poultry,14,No,3,No,No,0,Defaulted,Yes,Yes,182612.0,No,6.92,99816.94,All,Family,0,51.37
+27,Male,Primary,Married,North West,Jigawa,3.18,Maize,None,0,No,1,No,No,0,Paid on Time,Yes,Yes,218013.45,Yes,11.73,275577.83,All,Family,1,64.81
+23,Male,Secondary,Divorced,North Central,Plateau,1.89,Cassava,Poultry,6,Yes,2,No,Yes,115756,Paid on Time,Yes,Yes,170078.36,Yes,4.72,149235.37,Some,Family,1,80.51
+33,Male,Primary,Single,North East,Gombe,1.62,Sesame,Cattle,19,No,2,Yes,No,0,Paid on Time,Yes,Yes,259663.23,Yes,2.55,154706.21,All,Family,1,80.59
+21,Female,Secondary,Married,North Central,Kwara,4.3,Cassava,Cattle,15,No,2,No,Yes,159028,Late,Yes,Yes,152055.58,No,8.04,142033.23,All,Family,0,16.91
+21,Male,Secondary,Single,South East,Abia,2.79,Oil Palm,Goats,13,No,3,No,No,0,Paid on Time,Yes,Yes,378581.2,No,9.14,141401.42,All,Family,1,49.12
+30,Male,Secondary,Married,South East,Abia,1.01,Rice,None,0,Yes,1,Yes,No,0,Paid on Time,Yes,No,262503.59,No,16.71,115362.26,None,Both,1,49.14
+21,Male,Secondary,Single,North West,Sokoto,1.01,Sorghum,Goats,6,Yes,3,No,Yes,440992,Late,No,No,296499.24,Yes,11.66,157088.29,Some,Family,0,43.47
+19,Male,Primary,Single,South South,Rivers,1.17,Rice,Pigs,11,No,3,No,No,0,Defaulted,Yes,No,289076.76,Yes,15.15,193615.77,Some,Family,0,53.65
+30,Male,Secondary,Single,North Central,Plateau,1.65,Cassava,None,0,Yes,3,No,No,0,Paid on Time,Yes,Yes,404999.42,Yes,6.17,30125.06,None,Both,1,47.1
+35,Male,Tertiary,Single,South East,Ebonyi,2.07,Oil Palm,Pigs,20,No,3,Yes,No,0,Paid on Time,No,Yes,318729.55,Yes,10.12,136791.45,None,Family,1,57.86
+35,Male,Tertiary,Married,South South,Rivers,0.86,Cocoa,Poultry,2,No,2,Yes,No,0,Late,Yes,Yes,302440.73,Yes,12.16,193909.77,All,Family,0,12.3
+24,Male,Secondary,Divorced,North East,Gombe,2.79,Groundnut,Cattle,4,No,1,No,No,0,Late,Yes,Yes,287794.29,No,14.14,121926.78,None,Hired,0,53.81
+18,Male,Secondary,Single,North West,Kano,1.92,Rice,Sheep,7,No,1,No,Yes,263286,Paid on Time,No,Yes,294929.08,Yes,16.26,127588.77,All,Family,1,80.75
+34,Female,Tertiary,Single,North Central,Nassarawa,1.79,Sesame,None,0,No,2,No,No,0,Paid on Time,Yes,No,450421.43,No,11.44,121865.4,All,Family,1,60.17
+23,Male,Tertiary,Single,South South,Edo,0.94,Oil Palm,None,0,Yes,3,Yes,No,0,Paid on Time,Yes,Yes,221015.26,Yes,11.32,234580.11,None,Family,1,75.44
+23,Male,Primary,Married,North West,Sokoto,2.32,Groundnut,Poultry,17,Yes,2,No,Yes,244215,Late,Yes,Yes,211475.13,No,12.93,129379.31,All,Both,0,20.61
+21,Female,Tertiary,Married,North Central,Plateau,1.84,Cassava,Cattle,1,Yes,3,No,No,0,Late,Yes,Yes,321209.34,No,8.82,81926.38,None,Hired,0,30.56
+18,Male,Secondary,Single,North East,Gombe,0.74,Maize,None,0,Yes,2,Yes,Yes,415391,Defaulted,No,Yes,120689.35,No,11.75,117355.63,Some,Both,0,59.06
+31,Male,Secondary,Married,North West,Kaduna,1.22,Millet,Poultry,16,No,3,No,No,0,Late,Yes,Yes,510097.88,Yes,2.99,216009.21,All,Hired,0,50.72
+18,Male,Primary,Single,South East,Imo,3.18,Rice,Poultry,17,No,3,No,No,0,Paid on Time,Yes,Yes,467390.16,Yes,2.9,175677.45,All,Family,1,43.61
+28,Male,Secondary,Single,North West,Kebbi,1.28,Maize,Sheep,1,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,280460.96,Yes,11.6,232680.86,None,Hired,1,66.73
+27,Male,Tertiary,Single,South West,Lagos,3.33,Maize,Poultry,18,No,2,No,No,0,Paid on Time,Yes,Yes,234719.15,Yes,12.04,134472.1,All,Family,1,74.57
+34,Male,Secondary,Single,South South,Rivers,2.14,Rubber,Goats,14,No,1,Yes,No,0,Late,No,No,384961.2,No,1.68,202456.27,Some,Family,0,47.24
+34,Male,Primary,Single,South East,Enugu,0.97,Vegetables,Poultry,1,No,3,No,No,0,Paid on Time,Yes,No,540074.5,Yes,5.58,20579.17,None,Hired,1,75.36
+29,Male,Primary,Single,North Central,Niger,2.75,Sesame,Cattle,2,No,2,Yes,No,0,Paid on Time,No,No,181253.46,No,0.7,193212.18,Some,Family,1,84.87
+29,Female,Secondary,Single,South East,Ebonyi,2.24,Vegetables,Pigs,18,No,3,No,Yes,465685,Paid on Time,No,Yes,165386.4,No,14.12,184159.55,All,Family,1,50.59
+28,Female,Tertiary,Married,South East,Anambra,0.91,Oil Palm,Pigs,8,No,2,No,Yes,474041,Paid on Time,No,Yes,210388.5,Yes,22.42,212630.79,Some,Family,1,75.59
+21,Male,Primary,Single,South East,Imo,1.17,Oil Palm,None,0,No,3,No,No,0,Paid on Time,Yes,Yes,358344.3,No,12.77,122589.99,All,Family,1,61.81
+31,Female,Secondary,Married,South East,Imo,1.75,Rice,None,0,Yes,2,No,Yes,261655,Paid on Time,Yes,No,386163.47,Yes,18.22,168032.39,Some,Family,1,56.86
+24,Male,Secondary,Single,South South,Bayelsa,1.28,Cassava,Poultry,6,No,2,Yes,No,0,Paid on Time,Yes,Yes,239009.92,No,15.89,139371.07,All,Family,1,42.0
+35,Male,Secondary,Single,North West,Jigawa,2.89,Maize,Poultry,3,Yes,3,No,No,0,Defaulted,No,Yes,327179.57,No,14.31,79188.65,Some,Family,0,47.89
+33,Male,Tertiary,Single,South East,Enugu,2.87,Vegetables,None,0,No,2,Yes,Yes,454427,Paid on Time,Yes,Yes,296959.72,No,11.2,169982.46,Some,Both,1,43.99
+22,Male,Tertiary,Single,North Central,Nassarawa,1.54,Soybeans,None,0,No,3,No,No,0,Paid on Time,Yes,Yes,341144.83,No,13.82,206368.7,All,Family,1,77.82
+21,Male,Secondary,Single,North Central,FCT,1.64,Yam,Goats,1,Yes,3,No,Yes,271439,Defaulted,Yes,No,99254.31,No,7.07,199716.8,All,Family,0,54.26
+29,Male,Secondary,Married,North East,Borno,1.77,Groundnut,Cattle,9,No,2,Yes,No,0,Paid on Time,Yes,No,167380.18,No,13.25,190560.18,All,Family,1,54.14
+21,Female,Primary,Single,North West,Kano,0.56,Sorghum,Poultry,12,No,1,No,Yes,306681,Defaulted,Yes,Yes,247610.02,No,17.79,73476.93,Some,Hired,0,56.22
+22,Male,Secondary,Married,North Central,Kwara,2.22,Maize,Pigs,20,No,2,No,No,0,Paid on Time,No,Yes,405618.41,No,8.59,154924.92,All,Both,1,61.04
+34,Female,Secondary,Married,North Central,Benue,1.87,Rice,Cattle,2,No,2,No,No,0,Paid on Time,No,Yes,410494.19,Yes,0.99,215981.78,None,Family,1,81.32
+32,Female,Secondary,Single,South East,Ebonyi,3.24,Vegetables,Poultry,20,No,1,Yes,Yes,423513,Paid on Time,No,Yes,301008.3,Yes,7.58,101687.68,None,Family,1,62.84
+30,Male,Secondary,Single,North Central,Nassarawa,3.34,Cassava,Goats,9,No,1,No,Yes,80270,Paid on Time,Yes,Yes,203630.99,No,9.51,94602.92,Some,Family,1,54.51
+18,Male,Secondary,Married,South East,Enugu,2.06,Oil Palm,Poultry,18,No,3,Yes,No,0,Defaulted,No,Yes,133284.37,Yes,11.22,95489.58,All,Family,0,30.25
+30,Male,Secondary,Single,North East,Taraba,1.79,Millet,Cattle,1,No,3,Yes,Yes,126050,Late,Yes,No,182684.34,Yes,6.0,86778.75,None,Hired,0,57.42
+27,Female,Secondary,Single,South East,Enugu,1.66,Rice,Pigs,7,No,1,Yes,No,0,Defaulted,Yes,No,135744.66,Yes,9.62,142624.02,All,Family,0,14.53
+29,Male,Tertiary,Married,North East,Yobe,1.94,Cowpea,Goats,19,No,3,Yes,No,0,Paid on Time,Yes,Yes,282233.67,Yes,4.52,179570.78,None,Hired,1,83.17
+34,Male,Tertiary,Married,North Central,Kogi,1.16,Rice,Cattle,7,Yes,2,Yes,No,0,Late,Yes,Yes,442449.58,No,19.79,157188.47,None,Family,0,54.45
+28,Male,Primary,Single,North East,Yobe,1.64,Millet,Cattle,2,No,1,Yes,Yes,326601,Paid on Time,Yes,Yes,275531.55,Yes,9.66,168198.53,Some,Hired,1,79.32
+26,Female,Secondary,Single,North East,Gombe,1.54,Sorghum,Sheep,7,No,2,Yes,Yes,176044,Paid on Time,No,Yes,318568.86,Yes,10.9,172128.62,All,Family,1,57.39
+24,Male,Tertiary,Single,North East,Bauchi,1.01,Cowpea,None,0,No,2,Yes,No,0,Paid on Time,No,No,393403.38,Yes,0.9,124275.69,None,Family,1,53.39
+30,Female,Tertiary,Single,South South,Rivers,0.87,Cassava,Goats,8,Yes,1,No,No,0,Paid on Time,Yes,No,412790.9,Yes,15.7,274943.37,Some,Family,1,61.56
+20,Male,Secondary,Married,South South,Akwa Ibom,2.17,Vegetables,Goats,13,No,2,Yes,Yes,493942,Paid on Time,Yes,No,395532.38,Yes,7.75,157666.43,Some,Hired,1,86.39
+23,Female,Primary,Married,North East,Yobe,2.59,Cowpea,Sheep,11,Yes,1,No,No,0,Paid on Time,Yes,Yes,368022.04,Yes,6.64,161163.54,Some,Family,1,67.27
+27,Male,Tertiary,Single,South South,Bayelsa,2.19,Cassava,None,0,No,2,No,No,0,Paid on Time,No,No,210647.35,No,6.67,159895.83,All,Family,1,52.87
+27,Female,Primary,Single,North West,Sokoto,2.46,Rice,None,0,No,1,No,Yes,243646,Paid on Time,Yes,No,-4592.88,No,1.3,97376.0,All,Family,1,72.32
+20,Male,Primary,Married,South South,Akwa Ibom,2.52,Rice,Goats,1,Yes,2,No,No,0,Paid on Time,Yes,Yes,449541.37,Yes,11.0,180445.27,All,Hired,1,43.3
+23,Female,Tertiary,Married,South South,Cross River,2.57,Oil Palm,None,0,No,3,Yes,Yes,446965,Paid on Time,No,Yes,372823.58,No,1.09,38476.6,All,Hired,1,65.05
+31,Female,Secondary,Single,North West,Katsina,0.8,Millet,Sheep,6,Yes,2,No,No,0,Paid on Time,No,Yes,423534.87,Yes,5.61,154994.35,None,Hired,1,49.33
+30,Male,Primary,Married,South West,Ondo,2.1,Plantain,Goats,20,No,1,No,Yes,419705,Defaulted,No,Yes,240667.51,Yes,12.52,189557.34,Some,Both,0,27.62
+19,Female,Tertiary,Divorced,North West,Zamfara,0.85,Maize,Poultry,14,Yes,3,No,Yes,62224,Late,Yes,Yes,346577.33,No,9.83,253047.97,None,Family,0,25.71
+30,Male,Primary,Married,North Central,FCT,1.47,Rice,Goats,1,No,2,Yes,Yes,348977,Defaulted,No,Yes,234612.01,Yes,5.9,192166.51,None,Hired,0,39.68
+32,Male,Tertiary,Divorced,South South,Rivers,0.33,Cassava,None,0,No,1,Yes,No,0,Defaulted,Yes,No,270847.87,Yes,10.75,169015.34,All,Family,0,25.19
+33,Male,Secondary,Single,North West,Kaduna,2.35,Groundnut,Goats,4,Yes,1,No,Yes,333445,Paid on Time,Yes,Yes,210216.99,Yes,6.42,115578.23,All,Family,1,48.61
+33,Male,Primary,Single,South West,Ekiti,0.95,Cassava,Poultry,17,Yes,2,No,No,0,Paid on Time,Yes,No,247434.66,Yes,10.64,154348.51,All,Hired,1,61.51
+20,Male,Primary,Single,North East,Adamawa,2.64,Groundnut,Goats,12,No,2,Yes,No,0,Paid on Time,No,Yes,166179.33,No,9.6,134976.7,Some,Family,1,81.15
+28,Female,Secondary,Married,South South,Edo,1.76,Rice,Goats,16,No,1,No,Yes,190319,Paid on Time,No,Yes,343429.61,Yes,13.11,214431.16,None,Family,1,76.72
+35,Male,Tertiary,Single,South East,Imo,1.75,Cassava,Poultry,3,No,2,No,No,0,Defaulted,Yes,Yes,233709.33,Yes,12.02,104385.25,None,Hired,0,22.19
+31,Male,Primary,Married,North Central,Plateau,2.0,Soybeans,Goats,13,Yes,2,No,No,0,Paid on Time,No,Yes,465144.98,No,14.63,161433.15,Some,Hired,1,71.5
+35,Male,Primary,Single,North Central,Benue,1.65,Soybeans,None,0,Yes,3,Yes,No,0,Late,No,Yes,348925.45,No,3.87,214324.1,All,Hired,0,57.27
+35,Male,Secondary,Married,South East,Abia,3.67,Cassava,Goats,19,Yes,3,Yes,Yes,268976,Paid on Time,Yes,Yes,258852.88,No,17.53,180758.72,All,Hired,1,64.4
+33,Female,Secondary,Single,South East,Abia,1.6,Yam,Goats,18,No,2,Yes,No,0,Paid on Time,Yes,Yes,229506.21,Yes,11.41,141363.16,All,Both,1,66.65
+31,Male,Primary,Single,South South,Edo,2.25,Oil Palm,Poultry,3,No,1,Yes,Yes,65791,Paid on Time,No,No,219772.0,No,8.53,103165.33,All,Both,1,71.56
+20,Male,Secondary,Divorced,North East,Bauchi,2.47,Groundnut,Sheep,19,Yes,1,No,Yes,198469,Paid on Time,Yes,No,297982.33,Yes,14.49,206510.99,All,Family,1,42.08
+26,Male,Tertiary,Divorced,South West,Osun,0.73,Vegetables,Poultry,10,Yes,2,No,No,0,Defaulted,No,No,175270.74,Yes,11.56,105716.89,None,Hired,0,16.7
+18,Male,Tertiary,Single,North East,Borno,1.91,Cowpea,None,0,No,3,No,Yes,55796,Paid on Time,No,Yes,455630.74,No,0.11,204206.65,None,Family,1,89.14
+19,Female,Primary,Single,South East,Ebonyi,0.32,Yam,Goats,11,No,1,Yes,No,0,Paid on Time,No,Yes,405453.58,No,4.06,147505.99,Some,Family,1,83.62
+29,Female,Primary,Married,South South,Bayelsa,2.47,Cocoa,None,0,Yes,1,No,No,0,Defaulted,Yes,Yes,446716.27,No,10.69,95693.69,Some,Family,0,30.9
+30,Male,Tertiary,Divorced,South West,Ondo,1.87,Maize,None,0,No,2,Yes,No,0,Defaulted,No,Yes,308025.1,Yes,5.38,92050.27,None,Both,0,29.26
+22,Male,Secondary,Single,South South,Bayelsa,3.03,Rubber,Pigs,4,Yes,1,Yes,Yes,106096,Paid on Time,Yes,Yes,379670.19,No,16.68,168994.6,All,Both,1,81.6
+35,Male,Tertiary,Married,North West,Kaduna,2.63,Beans,None,0,No,2,Yes,No,0,Paid on Time,Yes,Yes,539155.48,Yes,9.74,143183.46,Some,Hired,1,57.83
+35,Male,Primary,Single,North Central,Niger,0.21,Rice,Goats,17,No,1,No,Yes,377565,Paid on Time,No,Yes,298013.9,No,13.3,109802.58,All,Both,1,74.17
+31,Female,Secondary,Single,North Central,Kogi,1.02,Cassava,Goats,7,No,2,Yes,No,0,Defaulted,Yes,No,208188.48,No,14.62,97468.83,Some,Both,0,23.25
+27,Male,Primary,Single,South West,Oyo,3.1,Oil Palm,None,0,No,3,No,Yes,472275,Paid on Time,Yes,Yes,262018.86,No,5.97,153784.75,All,Family,1,74.97
+28,Male,Tertiary,Married,South East,Enugu,2.32,Vegetables,Goats,6,Yes,2,Yes,No,0,Defaulted,Yes,Yes,252146.17,Yes,6.61,170777.54,None,Family,0,25.06
+30,Female,Primary,Single,North West,Jigawa,2.31,Sorghum,Poultry,18,No,2,Yes,No,0,Paid on Time,No,Yes,161769.74,No,3.78,161643.4,All,Family,1,69.67
+24,Male,Secondary,Single,South East,Abia,1.78,Rice,Goats,17,Yes,2,No,No,0,Paid on Time,Yes,Yes,262534.6,No,6.14,230476.03,None,Hired,1,44.52
+35,Male,Secondary,Married,South South,Akwa Ibom,2.33,Rice,Goats,10,Yes,1,Yes,Yes,190749,Paid on Time,Yes,Yes,367539.07,No,4.14,63266.8,None,Family,1,48.82
+23,Female,Secondary,Single,North West,Zamfara,2.83,Rice,None,0,No,3,Yes,No,0,Paid on Time,Yes,Yes,315797.43,Yes,4.42,182546.11,All,Hired,1,65.01
+35,Male,Primary,Single,North Central,Plateau,2.12,Cassava,Poultry,19,No,3,Yes,Yes,154292,Paid on Time,Yes,Yes,213120.83,No,7.7,177169.54,All,Both,1,88.74
+28,Female,Primary,Married,South East,Abia,2.72,Rice,None,0,No,2,No,Yes,193250,Paid on Time,Yes,Yes,271272.75,Yes,15.12,129828.12,All,Both,1,65.44
+18,Female,Primary,Married,North East,Taraba,1.8,Millet,None,0,No,2,Yes,No,0,Defaulted,No,No,406008.97,No,15.05,89465.85,None,Family,0,10.89
+25,Male,Secondary,Single,North Central,FCT,2.17,Rice,Pigs,16,Yes,2,No,No,0,Paid on Time,Yes,Yes,584394.74,Yes,11.43,142639.74,None,Hired,1,72.39
+23,Female,Secondary,Married,South West,Ekiti,1.33,Plantain,Pigs,10,Yes,1,Yes,No,0,Late,Yes,No,277537.71,Yes,7.31,70110.19,All,Family,0,30.72
+29,Male,Secondary,Married,North Central,Kogi,1.69,Soybeans,Goats,4,Yes,2,Yes,No,0,Paid on Time,No,Yes,422780.34,Yes,12.08,123568.53,Some,Family,1,87.75
+30,Male,Primary,Married,North East,Gombe,2.09,Sesame,Goats,2,No,2,No,Yes,411462,Paid on Time,Yes,No,389639.01,No,12.54,140564.49,None,Family,1,77.07
+22,Female,Tertiary,Married,South West,Ekiti,1.53,Oil Palm,None,0,Yes,3,No,No,0,Defaulted,Yes,No,302986.69,Yes,16.54,192777.22,Some,Family,0,32.15
+33,Male,Tertiary,Single,North Central,Kogi,3.41,Sesame,Goats,14,No,1,No,No,0,Paid on Time,Yes,Yes,323200.63,No,6.93,119582.74,All,Family,1,55.55
+29,Female,Secondary,Married,North West,Kaduna,2.55,Rice,Cattle,16,Yes,2,Yes,No,0,Paid on Time,No,No,267103.17,Yes,17.94,182563.75,None,Both,1,65.76
+22,Male,Tertiary,Married,South East,Enugu,3.03,Rice,Goats,6,Yes,3,Yes,Yes,154470,Defaulted,No,Yes,400303.9,Yes,7.27,156299.95,All,Family,0,55.33
+24,Male,Secondary,Single,North West,Kano,2.7,Groundnut,None,0,No,3,No,Yes,439821,Paid on Time,Yes,No,335142.48,No,15.14,175084.25,Some,Both,1,72.5
+22,Female,Secondary,Married,South South,Bayelsa,2.8,Plantain,Poultry,4,No,3,No,Yes,62336,Paid on Time,Yes,No,439634.15,Yes,8.62,142920.35,None,Family,1,88.3
+24,Male,Secondary,Single,North West,Kano,1.95,Cotton,Sheep,5,Yes,3,No,No,0,Defaulted,No,Yes,217049.24,Yes,12.6,171305.16,None,Hired,0,21.65
+19,Male,Secondary,Married,North West,Kano,1.5,Rice,Poultry,13,No,3,Yes,No,0,Paid on Time,No,Yes,526323.28,No,14.54,156173.99,None,Family,1,43.77
+23,Male,Primary,Married,North East,Yobe,2.32,Sesame,Sheep,7,No,1,Yes,No,0,Paid on Time,Yes,Yes,308403.92,Yes,0.35,116285.49,Some,Hired,1,40.42
+26,Female,Secondary,Single,South West,Ekiti,1.23,Vegetables,Poultry,18,Yes,3,No,Yes,491168,Late,Yes,Yes,187193.74,Yes,11.63,231042.01,Some,Family,0,13.89
+31,Female,Primary,Single,North West,Kano,2.99,Rice,Poultry,16,No,3,No,No,0,Paid on Time,Yes,No,317907.05,Yes,6.3,85702.23,All,Hired,1,70.81
+20,Male,Primary,Single,South East,Anambra,2.15,Cassava,Pigs,17,No,1,No,Yes,470088,Paid on Time,Yes,Yes,377075.02,No,10.86,162160.88,All,Family,1,52.39
+18,Male,Secondary,Single,South West,Lagos,2.03,Vegetables,Pigs,6,No,2,Yes,No,0,Paid on Time,No,Yes,67055.83,No,12.66,241741.01,Some,Family,1,46.92
+30,Male,Secondary,Single,North Central,Nassarawa,2.18,Sesame,Goats,1,Yes,2,No,No,0,Paid on Time,No,Yes,383783.05,Yes,14.1,171194.47,All,Both,1,56.03
+19,Male,Secondary,Single,South South,Bayelsa,1.18,Vegetables,None,0,Yes,2,Yes,No,0,Paid on Time,No,Yes,259912.6,Yes,9.19,183068.47,None,Family,1,72.32
+22,Male,Tertiary,Married,South West,Ondo,2.52,Plantain,Goats,4,No,2,No,No,0,Paid on Time,No,Yes,540622.39,No,13.05,46018.34,All,Hired,1,50.89
+32,Male,Primary,Single,South South,Rivers,1.13,Vegetables,None,0,No,2,Yes,No,0,Late,Yes,Yes,435643.37,Yes,20.07,178112.51,None,Family,0,21.6
+29,Male,Primary,Single,South East,Ebonyi,0.99,Rice,Pigs,18,No,1,No,No,0,Late,Yes,Yes,381049.75,No,10.18,132793.86,None,Family,0,10.21
+27,Male,Primary,Married,North West,Zamfara,3.08,Beans,Goats,11,No,1,No,No,0,Late,No,No,321030.3,Yes,22.85,176944.05,All,Both,0,18.78
+19,Female,Primary,Single,North West,Zamfara,1.7,Millet,Cattle,6,Yes,1,No,No,0,Paid on Time,No,Yes,269912.8,Yes,16.98,152581.33,All,Hired,1,80.34
+27,Male,Secondary,Married,South West,Ekiti,1.78,Maize,Poultry,6,No,3,Yes,No,0,Late,No,No,192080.31,No,16.37,159887.46,All,Family,0,25.85
+32,Male,Tertiary,Single,South East,Anambra,2.06,Yam,Poultry,16,Yes,3,No,Yes,344366,Paid on Time,No,No,207244.67,No,11.26,213050.7,All,Family,1,40.64
+33,Male,Primary,Single,North Central,Benue,1.84,Maize,Pigs,20,No,3,No,No,0,Paid on Time,Yes,Yes,485341.08,Yes,8.34,202192.3,All,Both,1,58.17
+32,Male,Secondary,Single,North East,Gombe,3.72,Sesame,Sheep,19,No,2,Yes,No,0,Paid on Time,Yes,Yes,460928.25,No,15.46,76176.82,All,Both,1,71.69
+27,Male,Secondary,Single,North East,Adamawa,2.31,Cowpea,None,0,No,3,Yes,No,0,Paid on Time,Yes,Yes,174619.52,Yes,9.7,83189.52,None,Family,1,40.49
+21,Male,Tertiary,Divorced,South West,Ondo,1.43,Cassava,Poultry,10,Yes,2,No,No,0,Paid on Time,No,No,182089.18,Yes,10.69,220446.08,Some,Hired,1,82.94
+20,Male,Primary,Single,South East,Anambra,2.42,Rice,Goats,8,No,1,Yes,Yes,292223,Defaulted,No,Yes,335953.59,No,11.82,250786.31,All,Both,0,12.42
+21,Male,Secondary,Single,North Central,Niger,2.98,Cassava,Cattle,20,No,2,Yes,No,0,Paid on Time,No,Yes,203479.81,Yes,9.94,229366.38,All,Both,1,83.36
+32,Male,Secondary,Single,North Central,Nassarawa,2.41,Yam,Goats,16,Yes,2,Yes,No,0,Paid on Time,Yes,No,270704.54,No,1.74,115570.37,All,Hired,1,55.95
+32,Female,Secondary,Married,North West,Sokoto,1.06,Maize,Sheep,12,Yes,2,No,No,0,Paid on Time,Yes,Yes,279265.77,Yes,11.94,108656.77,Some,Hired,1,57.63
+19,Male,Tertiary,Single,North West,Katsina,1.49,Millet,Goats,9,No,1,Yes,Yes,71274,Paid on Time,No,Yes,417669.7,No,8.74,183601.75,Some,Family,1,59.6
+24,Female,Secondary,Single,South South,Edo,0.85,Plantain,Pigs,5,Yes,1,Yes,Yes,307416,Paid on Time,No,Yes,380176.06,Yes,16.46,112541.41,Some,Both,1,75.02
+32,Male,Tertiary,Single,North Central,Kwara,2.44,Sesame,Goats,13,Yes,2,No,No,0,Late,Yes,Yes,208103.09,No,15.63,182447.18,All,Hired,0,17.53
+34,Female,Primary,Single,North Central,Kogi,1.47,Sesame,Cattle,3,No,1,Yes,Yes,192487,Late,Yes,No,388149.89,No,10.16,184503.68,Some,Hired,0,32.5
+25,Male,Primary,Single,North East,Yobe,1.02,Sorghum,Cattle,15,No,3,Yes,No,0,Paid on Time,No,No,104266.14,No,5.02,33890.93,All,Family,1,69.51
+32,Male,Tertiary,Single,North Central,Kwara,1.7,Rice,Goats,11,Yes,2,No,No,0,Paid on Time,Yes,No,458806.08,Yes,2.78,184343.76,All,Family,1,52.24
+24,Female,Primary,Single,North West,Sokoto,1.13,Beans,Goats,16,No,3,Yes,No,0,Paid on Time,No,Yes,348135.4,No,8.85,198505.05,Some,Family,1,53.91
+35,Female,Primary,Single,South West,Osun,1.06,Oil Palm,None,0,No,2,No,Yes,176839,Defaulted,No,No,347665.1,No,22.72,99688.71,All,Hired,0,54.56
+18,Male,Secondary,Single,South West,Oyo,2.83,Maize,Goats,13,No,3,No,No,0,Paid on Time,Yes,No,243211.07,Yes,17.24,196932.0,None,Family,1,82.99
+31,Male,Primary,Single,North West,Zamfara,1.73,Beans,Goats,6,No,3,Yes,No,0,Paid on Time,Yes,Yes,387318.31,Yes,9.22,50797.8,Some,Family,1,48.79
+23,Female,Secondary,Single,South South,Rivers,0.68,Vegetables,Goats,17,No,3,Yes,Yes,298018,Paid on Time,Yes,No,302010.65,No,8.78,174583.44,Some,Family,1,59.16
+19,Male,Primary,Married,South East,Abia,2.33,Rice,Poultry,7,No,1,Yes,Yes,311674,Paid on Time,No,Yes,195284.24,No,10.73,206490.14,Some,Family,1,40.47
+27,Male,Secondary,Single,North East,Gombe,2.97,Sorghum,Sheep,7,No,3,No,No,0,Paid on Time,Yes,Yes,329879.78,No,9.85,115714.41,Some,Family,1,56.12
+28,Male,Tertiary,Single,North Central,Kwara,1.37,Rice,Goats,1,Yes,1,Yes,Yes,259699,Paid on Time,No,Yes,307305.82,No,8.4,29746.52,All,Family,1,46.16
+27,Male,Tertiary,Single,South East,Abia,2.21,Yam,Poultry,7,No,2,Yes,Yes,237840,Late,Yes,No,266605.44,No,0.13,184031.75,None,Hired,0,34.64
+27,Female,Secondary,Single,North West,Katsina,0.57,Beans,Cattle,10,No,1,Yes,No,0,Late,Yes,No,390092.92,Yes,10.15,175832.22,All,Family,0,13.32
+19,Male,Tertiary,Single,North East,Adamawa,0.44,Sesame,Sheep,16,No,2,No,No,0,Paid on Time,Yes,Yes,583349.56,No,3.33,161491.16,All,Family,1,89.64
+24,Female,Primary,Divorced,North West,Zamfara,2.03,Beans,Sheep,16,No,3,Yes,No,0,Paid on Time,Yes,Yes,184178.57,No,9.14,172161.9,All,Family,1,67.22
+34,Female,Primary,Married,North West,Kebbi,1.59,Groundnut,Sheep,4,No,1,Yes,No,0,Paid on Time,No,Yes,481889.85,Yes,10.95,246562.65,All,Family,1,54.92
+24,Male,Secondary,Single,North West,Kaduna,3.15,Millet,Poultry,17,No,2,No,No,0,Paid on Time,Yes,Yes,414314.85,No,7.02,66276.53,Some,Family,1,80.51
+31,Male,Primary,Single,North West,Zamfara,2.31,Sorghum,Goats,15,Yes,2,No,Yes,318227,Paid on Time,Yes,Yes,366603.46,No,0.46,147305.4,All,Family,1,62.33
+18,Female,Secondary,Married,North West,Katsina,1.08,Cotton,Sheep,12,Yes,2,No,No,0,Paid on Time,No,Yes,243460.7,No,18.61,159981.9,All,Both,1,75.15
+18,Male,Primary,Single,North East,Adamawa,1.34,Millet,None,0,Yes,1,No,No,0,Paid on Time,No,No,230228.11,No,12.35,180837.27,All,Both,1,49.76
+20,Female,Secondary,Single,South South,Akwa Ibom,1.92,Cocoa,Pigs,9,No,2,Yes,No,0,Paid on Time,Yes,Yes,319684.35,No,15.95,228607.77,All,Both,1,41.92
+33,Male,Secondary,Married,North East,Borno,1.78,Sesame,None,0,Yes,2,No,Yes,351364,Late,Yes,No,301970.19,No,5.53,176213.35,All,Family,0,13.63
+34,Male,Secondary,Married,North East,Bauchi,2.16,Groundnut,Goats,5,No,3,Yes,No,0,Defaulted,No,No,193749.24,Yes,11.27,105137.25,None,Family,0,21.96
+27,Female,Secondary,Married,North East,Taraba,2.32,Millet,None,0,No,1,No,No,0,Paid on Time,No,Yes,311163.0,Yes,8.54,129812.23,Some,Both,1,75.06
+24,Male,Tertiary,Married,South West,Lagos,2.69,Cocoa,None,0,No,2,No,No,0,Paid on Time,Yes,No,261950.76,No,10.85,103900.37,Some,Both,1,66.53
+30,Female,Secondary,Single,South East,Enugu,3.26,Yam,Pigs,5,Yes,1,Yes,No,0,Paid on Time,No,No,328791.48,Yes,13.43,42313.47,All,Hired,1,40.42
+28,Female,Secondary,Married,North Central,Plateau,2.09,Rice,Goats,4,No,2,No,No,0,Paid on Time,No,Yes,196363.51,No,7.62,208675.54,All,Hired,1,55.23
+35,Female,Secondary,Divorced,North Central,Kogi,2.23,Cassava,Goats,19,No,3,Yes,Yes,172431,Paid on Time,Yes,No,322976.39,Yes,8.39,70718.71,All,Hired,1,88.08
+25,Female,Primary,Married,North West,Kano,3.32,Cotton,Cattle,13,No,1,Yes,No,0,Late,Yes,Yes,188537.46,Yes,9.45,135425.53,Some,Family,0,11.19
+33,Male,Secondary,Single,South East,Enugu,2.7,Yam,Pigs,13,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,428709.21,No,14.1,190865.31,None,Hired,1,63.85
+24,Female,Tertiary,Single,South West,Ogun,3.13,Cassava,None,0,Yes,1,No,No,0,Paid on Time,No,Yes,178604.19,No,18.83,289302.5,Some,Hired,1,88.23
+18,Male,Tertiary,Married,South West,Osun,1.63,Oil Palm,Poultry,13,Yes,3,Yes,Yes,484895,Paid on Time,No,Yes,538796.77,No,4.94,161178.87,Some,Both,1,57.2
+30,Female,Secondary,Married,South South,Bayelsa,1.56,Vegetables,None,0,Yes,3,Yes,No,0,Paid on Time,Yes,Yes,285734.58,Yes,13.02,68593.66,All,Family,1,74.76
+30,Female,Primary,Single,North West,Katsina,2.75,Millet,Poultry,2,Yes,3,Yes,No,0,Paid on Time,Yes,Yes,311677.31,Yes,13.53,161399.56,All,Hired,1,43.93
+29,Male,Secondary,Single,North West,Jigawa,4.34,Maize,Cattle,16,Yes,1,Yes,No,0,Paid on Time,No,Yes,213924.32,Yes,14.11,108150.98,All,Both,1,84.59
+33,Female,Primary,Single,South South,Cross River,2.95,Rubber,None,0,No,2,Yes,Yes,401814,Late,Yes,No,427152.41,Yes,4.14,87970.32,All,Family,0,47.48
+30,Female,Secondary,Single,North East,Adamawa,0.62,Millet,Sheep,13,Yes,3,Yes,No,0,Paid on Time,Yes,Yes,389597.27,Yes,19.46,105814.04,None,Family,1,86.84
+18,Male,Primary,Divorced,South South,Bayelsa,1.28,Vegetables,Poultry,12,Yes,2,No,No,0,Paid on Time,Yes,Yes,265541.35,Yes,0.72,118417.08,Some,Hired,1,72.66
+28,Female,Tertiary,Married,South West,Ogun,2.46,Plantain,Pigs,11,No,3,Yes,No,0,Paid on Time,Yes,Yes,473965.94,No,10.16,123147.02,Some,Family,1,85.29
+34,Male,Secondary,Single,North East,Bauchi,1.36,Maize,None,0,No,1,No,No,0,Paid on Time,Yes,Yes,339804.16,Yes,14.91,183470.81,All,Family,1,61.06
+30,Female,Tertiary,Single,South East,Ebonyi,0.12,Yam,Pigs,16,No,2,Yes,No,0,Paid on Time,Yes,No,443966.9,No,15.15,70516.96,None,Family,1,61.79
+23,Male,Secondary,Married,South East,Ebonyi,1.5,Oil Palm,Pigs,4,No,3,Yes,No,0,Late,Yes,Yes,356065.25,No,14.8,147942.64,None,Family,0,30.77
+27,Male,Secondary,Married,South West,Lagos,1.39,Cocoa,Goats,3,No,1,No,Yes,253180,Late,No,No,297150.85,Yes,14.83,229586.29,None,Family,0,15.69
+23,Female,Secondary,Single,South East,Abia,2.66,Yam,None,0,No,3,Yes,Yes,258590,Late,Yes,No,255366.79,Yes,5.08,143024.09,All,Both,0,33.77
+27,Female,Primary,Single,South East,Enugu,0.77,Rice,Pigs,16,Yes,2,No,Yes,219564,Late,Yes,Yes,430064.52,No,8.19,187091.11,All,Family,0,16.43
+22,Female,Secondary,Single,North West,Katsina,2.04,Cotton,None,0,Yes,1,Yes,Yes,496300,Paid on Time,No,Yes,391102.73,No,0.71,124232.29,Some,Family,1,62.66
+26,Female,Tertiary,Married,South South,Edo,2.53,Cassava,Pigs,8,No,3,Yes,No,0,Paid on Time,No,Yes,306936.78,Yes,10.63,188899.33,All,Hired,1,52.87
+31,Male,Secondary,Single,South West,Lagos,3.1,Cocoa,Goats,2,No,3,Yes,No,0,Paid on Time,Yes,Yes,371634.01,No,18.2,134753.07,All,Family,1,78.83
+23,Male,Secondary,Single,North Central,Kwara,2.35,Cassava,Cattle,7,No,3,Yes,No,0,Paid on Time,No,No,327397.89,Yes,5.37,144316.67,None,Family,1,83.51
+29,Female,Secondary,Single,North Central,FCT,2.5,Maize,None,0,No,3,No,Yes,231601,Defaulted,Yes,No,190009.12,Yes,0.39,138236.3,Some,Hired,0,16.49
+19,Female,Tertiary,Single,South South,Bayelsa,3.39,Cassava,Goats,1,No,1,No,Yes,415301,Late,No,No,478734.64,Yes,2.33,194614.35,None,Family,0,53.13
+33,Male,Secondary,Single,North East,Yobe,2.59,Maize,None,0,No,2,Yes,Yes,374601,Late,No,Yes,274342.66,No,3.3,134027.97,Some,Hired,0,25.26
+27,Female,Secondary,Single,South East,Imo,1.1,Rice,Goats,11,Yes,1,No,No,0,Paid on Time,No,Yes,380926.47,Yes,8.48,124846.53,None,Family,1,66.01
+19,Male,Secondary,Married,North West,Sokoto,1.6,Rice,Poultry,12,No,1,No,Yes,224898,Paid on Time,No,Yes,222083.64,Yes,12.46,138545.95,All,Family,1,73.61
+21,Male,Tertiary,Married,South West,Oyo,2.57,Maize,None,0,No,3,No,No,0,Paid on Time,Yes,No,213943.02,No,9.39,154789.84,None,Hired,1,72.54
+23,Female,Primary,Single,North West,Katsina,1.33,Millet,Goats,8,No,3,Yes,Yes,65052,Paid on Time,Yes,Yes,183888.76,No,8.45,128196.17,All,Hired,1,54.48
+28,Female,Primary,Divorced,North Central,Kwara,1.78,Rice,Goats,16,No,1,Yes,Yes,419775,Paid on Time,Yes,Yes,208263.37,No,10.19,134265.46,All,Hired,1,74.43
+29,Female,Tertiary,Married,North East,Yobe,1.5,Sorghum,Goats,15,No,2,No,Yes,255599,Paid on Time,Yes,Yes,233007.94,Yes,17.04,138595.34,Some,Family,1,52.66
+21,Male,Primary,Single,North Central,Benue,3.25,Maize,Goats,5,No,3,No,Yes,361207,Paid on Time,No,No,386806.52,No,3.66,239329.85,None,Family,1,46.5
+29,Male,Tertiary,Single,North East,Adamawa,0.78,Groundnut,Cattle,8,No,3,Yes,No,0,Paid on Time,Yes,No,442462.77,No,11.56,98675.29,All,Family,1,41.26
+24,Female,Secondary,Single,North East,Gombe,2.28,Groundnut,None,0,No,1,No,No,0,Paid on Time,Yes,No,366598.97,No,17.7,212767.49,All,Both,1,79.41
+32,Male,Secondary,Married,North Central,Plateau,2.5,Rice,Cattle,9,No,2,Yes,No,0,Paid on Time,Yes,No,425985.62,No,9.92,207841.69,All,Hired,1,50.3
+22,Male,Tertiary,Single,South East,Imo,3.66,Cassava,Pigs,14,No,2,Yes,No,0,Paid on Time,Yes,Yes,275903.94,Yes,16.63,244480.5,All,Family,1,41.33
+33,Female,Primary,Single,North East,Borno,3.04,Sorghum,Sheep,1,Yes,1,Yes,No,0,Late,Yes,No,346316.21,Yes,7.95,200881.85,All,Hired,0,45.2
+26,Female,Secondary,Single,North West,Kano,1.78,Maize,Cattle,6,No,3,No,No,0,Paid on Time,Yes,Yes,182223.85,Yes,3.6,92087.0,Some,Family,1,81.48
+30,Male,Primary,Married,North Central,Kwara,2.92,Rice,Pigs,12,No,2,Yes,Yes,489844,Late,Yes,Yes,368706.71,No,7.94,199567.61,None,Both,0,22.08
+29,Male,Secondary,Divorced,North Central,Kwara,1.35,Maize,None,0,Yes,3,No,No,0,Late,Yes,Yes,95048.55,Yes,8.03,111879.1,All,Both,0,25.43
+18,Male,Secondary,Single,South South,Cross River,1.98,Plantain,None,0,No,1,Yes,Yes,87805,Paid on Time,Yes,Yes,125626.03,Yes,5.11,239924.0,All,Hired,1,89.25
+33,Male,Secondary,Married,South West,Oyo,2.35,Oil Palm,None,0,No,1,No,No,0,Paid on Time,No,Yes,231488.4,No,15.46,189122.18,Some,Hired,1,87.67
+32,Male,Primary,Single,South South,Delta,1.55,Cassava,Poultry,7,Yes,3,No,Yes,119803,Paid on Time,No,No,127090.08,Yes,10.72,145764.48,None,Hired,1,46.84
+22,Male,Tertiary,Single,North East,Borno,2.09,Sesame,Cattle,8,No,2,Yes,No,0,Defaulted,Yes,Yes,306720.35,Yes,1.22,115242.53,All,Both,0,17.67
+34,Male,Tertiary,Single,North East,Yobe,2.52,Cowpea,Cattle,6,No,2,Yes,Yes,67862,Paid on Time,Yes,Yes,192046.71,Yes,9.8,87315.54,None,Hired,1,66.87
+25,Male,Secondary,Married,North Central,Niger,2.73,Soybeans,Cattle,16,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,324100.03,No,14.27,211783.03,None,Family,1,82.97
+24,Male,Tertiary,Married,South West,Oyo,1.43,Vegetables,Poultry,8,Yes,2,No,Yes,226774,Paid on Time,No,No,281269.58,Yes,11.45,186977.26,None,Family,1,43.96
+22,Male,Primary,Divorced,South South,Bayelsa,0.73,Plantain,Goats,4,Yes,2,No,Yes,251264,Paid on Time,Yes,Yes,278129.36,Yes,14.47,111683.87,None,Family,1,80.23
+26,Female,Secondary,Single,South West,Ogun,2.44,Cocoa,Pigs,2,No,1,No,No,0,Paid on Time,Yes,Yes,233760.09,No,18.25,118539.39,None,Family,1,62.58
+32,Male,Secondary,Single,North West,Kebbi,0.54,Millet,None,0,No,2,Yes,Yes,394159,Defaulted,No,Yes,188415.65,Yes,10.05,83199.86,None,Family,0,23.85
+25,Female,Secondary,Single,North Central,Plateau,1.91,Yam,Cattle,7,Yes,3,No,No,0,Paid on Time,No,Yes,254610.86,Yes,16.39,37738.51,Some,Family,1,55.3
+24,Male,Secondary,Married,North East,Taraba,0.99,Groundnut,Sheep,16,No,3,Yes,No,0,Paid on Time,No,Yes,299882.88,No,9.54,151499.48,All,Family,1,65.62
+19,Male,Primary,Single,North West,Sokoto,0.91,Rice,None,0,No,3,Yes,No,0,Paid on Time,No,Yes,329095.96,No,7.11,137099.57,All,Family,1,61.4
+18,Male,Primary,Married,North West,Kaduna,2.44,Maize,Poultry,8,No,3,Yes,Yes,291121,Paid on Time,No,Yes,310131.03,No,4.58,183044.86,Some,Hired,1,73.21
+20,Female,Tertiary,Married,South West,Osun,2.7,Cassava,None,0,No,1,No,No,0,Late,No,No,335105.25,No,4.44,182204.77,Some,Family,0,17.65
+25,Male,Secondary,Divorced,South East,Anambra,1.27,Oil Palm,Pigs,10,Yes,1,Yes,Yes,432465,Paid on Time,Yes,No,281098.57,Yes,16.82,180715.92,Some,Both,1,77.4
+31,Female,Secondary,Single,South West,Oyo,3.43,Cocoa,Goats,17,No,3,Yes,No,0,Paid on Time,No,Yes,231225.55,No,8.16,164378.2,All,Family,1,52.74
+29,Male,Secondary,Single,North Central,Benue,1.67,Rice,Cattle,7,No,3,Yes,No,0,Paid on Time,No,Yes,242142.62,Yes,18.75,148424.07,All,Hired,1,84.79
+34,Male,Secondary,Single,North West,Zamfara,-1.7,Maize,None,0,Yes,1,No,Yes,340604,Paid on Time,No,Yes,307524.86,No,17.23,127007.04,All,Family,1,70.27
+31,Male,Secondary,Married,South West,Ekiti,0.21,Plantain,Goats,7,No,3,Yes,No,0,Paid on Time,No,No,408314.52,Yes,0.92,83960.3,Some,Both,1,69.17
+29,Female,Primary,Married,South East,Enugu,0.76,Rice,Goats,19,Yes,2,No,Yes,159599,Paid on Time,Yes,Yes,408251.46,Yes,9.02,138372.18,Some,Both,1,42.24
+34,Male,Primary,Married,North East,Gombe,0.93,Sesame,Sheep,5,Yes,3,No,Yes,124779,Paid on Time,Yes,No,294845.78,No,12.77,190218.79,None,Family,1,72.45
+20,Female,Primary,Single,North West,Kaduna,2.12,Maize,Sheep,18,Yes,3,Yes,Yes,75816,Paid on Time,Yes,Yes,382016.5,Yes,14.98,121088.99,Some,Hired,1,55.55
+19,Male,Tertiary,Single,North West,Zamfara,2.07,Cotton,Sheep,4,Yes,1,Yes,No,0,Paid on Time,No,No,554725.97,No,18.04,217672.68,Some,Hired,1,67.69
+19,Male,Primary,Married,North Central,Benue,3.49,Sesame,Poultry,18,Yes,1,Yes,No,0,Late,Yes,Yes,365982.83,No,9.72,162650.42,All,Family,0,43.38
+25,Male,Secondary,Single,North Central,Niger,1.66,Sesame,Cattle,18,No,1,No,No,0,Defaulted,Yes,Yes,228848.9,Yes,0.45,188478.26,All,Hired,0,52.57
+27,Female,Primary,Married,South West,Osun,1.73,Cassava,Poultry,18,No,1,No,No,0,Paid on Time,Yes,Yes,297261.57,No,2.33,227952.43,All,Family,1,74.69
+24,Male,Primary,Married,South West,Oyo,1.75,Oil Palm,Pigs,13,No,3,Yes,No,0,Late,Yes,Yes,451613.59,Yes,8.46,44770.86,All,Hired,0,18.27
+25,Male,Tertiary,Divorced,South South,Bayelsa,3.77,Rubber,Poultry,17,No,2,No,No,0,Paid on Time,Yes,Yes,319950.73,No,9.62,188790.98,Some,Both,1,44.51
+23,Female,Primary,Married,North Central,Plateau,2.63,Rice,Cattle,6,No,3,No,Yes,252259,Paid on Time,Yes,No,261237.02,Yes,16.57,102562.57,All,Both,1,66.03
+33,Male,Secondary,Married,South East,Abia,0.16,Rice,Poultry,18,No,1,Yes,Yes,189344,Paid on Time,No,Yes,128281.75,No,7.19,152884.86,All,Hired,1,57.89
+31,Male,Tertiary,Married,South East,Imo,1.47,Yam,Goats,6,No,3,No,Yes,322673,Defaulted,Yes,No,435306.92,Yes,5.11,151808.44,Some,Both,0,49.21
+32,Female,Primary,Single,North East,Yobe,-0.03,Millet,None,0,No,2,No,No,0,Late,No,Yes,263739.72,Yes,14.88,163229.53,All,Family,0,55.54
+19,Male,Secondary,Single,North Central,Kogi,1.3,Soybeans,Cattle,4,Yes,1,No,No,0,Paid on Time,Yes,No,341462.54,No,15.1,251078.59,Some,Hired,1,67.53
+19,Male,Secondary,Married,South South,Akwa Ibom,2.63,Oil Palm,Goats,15,No,3,No,Yes,241889,Late,Yes,Yes,461991.53,No,19.9,182118.28,All,Family,0,56.94
+27,Male,Tertiary,Married,North West,Kano,1.41,Maize,None,0,No,1,Yes,No,0,Late,Yes,Yes,455519.85,No,3.05,201642.91,Some,Family,0,25.91
+22,Male,Primary,Divorced,South West,Ondo,0.88,Cocoa,None,0,No,2,No,Yes,119767,Paid on Time,Yes,Yes,233486.5,No,5.73,117840.83,All,Hired,1,40.43
+18,Male,Primary,Single,South South,Edo,1.53,Rubber,Pigs,3,No,1,Yes,No,0,Late,No,Yes,498563.77,No,12.18,170060.36,All,Hired,0,58.0
+20,Male,Secondary,Married,South West,Oyo,-0.55,Plantain,None,0,Yes,3,No,No,0,Paid on Time,No,No,332498.46,Yes,8.38,146671.92,All,Hired,1,85.54
+25,Female,Secondary,Married,North Central,Plateau,0.45,Yam,None,0,No,3,No,No,0,Late,Yes,No,220337.91,Yes,18.43,133491.52,All,Family,0,15.03
+33,Male,Tertiary,Married,North Central,Niger,1.6,Soybeans,Poultry,12,No,1,Yes,Yes,127338,Paid on Time,Yes,Yes,245643.32,Yes,15.14,112807.03,All,Family,1,78.74
+23,Male,Secondary,Single,South East,Anambra,1.0,Oil Palm,None,0,No,3,Yes,Yes,52019,Paid on Time,Yes,Yes,247307.5,No,4.41,226959.86,None,Family,1,72.23
+32,Female,Tertiary,Married,North West,Katsina,2.44,Groundnut,Sheep,17,No,1,No,No,0,Late,Yes,Yes,344882.01,No,18.92,263626.82,Some,Both,0,55.11
+23,Female,Tertiary,Single,North East,Adamawa,1.96,Millet,None,0,No,1,Yes,No,0,Paid on Time,No,Yes,126219.54,Yes,16.54,103149.87,Some,Both,1,70.11
+28,Female,Secondary,Married,South South,Bayelsa,1.12,Rubber,None,0,No,2,No,No,0,Paid on Time,No,No,368034.26,Yes,8.63,184766.13,All,Both,1,66.51
+22,Female,Primary,Married,South East,Ebonyi,0.96,Vegetables,Goats,5,No,3,No,No,0,Paid on Time,No,No,430036.58,No,14.66,169768.68,All,Family,1,83.82
+26,Female,Primary,Married,North East,Borno,2.21,Maize,Goats,1,No,2,No,Yes,146359,Paid on Time,No,No,496754.07,Yes,4.84,254550.43,Some,Both,1,83.68
+25,Male,Secondary,Married,South East,Imo,1.5,Rice,None,0,No,3,No,Yes,86355,Paid on Time,Yes,No,312773.46,Yes,2.99,193921.75,None,Hired,1,64.42
+27,Male,Tertiary,Single,South South,Bayelsa,1.72,Rice,Pigs,16,Yes,3,No,Yes,71292,Paid on Time,No,Yes,243273.83,Yes,10.8,115214.04,All,Hired,1,40.41
+19,Male,Secondary,Divorced,North West,Sokoto,1.27,Groundnut,Cattle,7,No,2,Yes,Yes,165503,Defaulted,Yes,Yes,394240.93,No,12.55,70466.94,Some,Family,0,32.82
+19,Female,Primary,Divorced,South West,Lagos,2.04,Plantain,Pigs,6,No,2,Yes,Yes,315808,Paid on Time,No,Yes,282848.09,Yes,7.89,181067.34,All,Both,1,89.51
+27,Female,Secondary,Single,North Central,Niger,0.34,Yam,Cattle,18,No,1,No,No,0,Paid on Time,Yes,Yes,270799.33,No,8.2,181126.57,All,Family,1,54.56
+27,Male,Secondary,Single,South South,Edo,2.14,Rubber,None,0,No,3,Yes,Yes,216052,Paid on Time,Yes,Yes,17289.86,Yes,18.63,156092.22,Some,Both,1,87.5
+24,Male,Primary,Married,North West,Kebbi,1.57,Rice,Cattle,15,No,1,Yes,No,0,Late,Yes,Yes,220752.96,Yes,13.05,157679.96,Some,Family,0,33.03
+29,Male,Tertiary,Divorced,South South,Cross River,3.02,Cocoa,Pigs,12,No,3,No,No,0,Paid on Time,Yes,Yes,259662.03,Yes,14.72,115449.29,All,Family,1,59.7
+29,Female,Primary,Divorced,South West,Ekiti,2.79,Maize,Pigs,10,No,1,No,Yes,358697,Paid on Time,No,No,434913.51,No,2.41,174829.21,Some,Hired,1,71.04
+21,Male,Tertiary,Single,North West,Sokoto,1.86,Beans,None,0,No,2,Yes,Yes,386279,Paid on Time,No,Yes,247484.15,Yes,6.44,143494.72,Some,Family,1,79.55
+19,Male,Secondary,Single,South East,Imo,1.27,Cassava,Pigs,10,No,2,Yes,Yes,343427,Defaulted,Yes,No,160077.17,Yes,1.19,142277.91,None,Family,0,20.27
+34,Male,Secondary,Single,North East,Gombe,0.96,Millet,Cattle,8,Yes,3,Yes,Yes,169783,Paid on Time,No,Yes,402243.59,No,8.39,216858.86,All,Both,1,47.91
+19,Male,Secondary,Single,North West,Kano,1.96,Millet,Goats,5,Yes,1,No,Yes,90910,Paid on Time,Yes,Yes,265948.8,No,15.47,304671.48,None,Family,1,65.97
+27,Female,Tertiary,Divorced,North Central,Benue,1.34,Soybeans,Cattle,15,No,3,Yes,Yes,54889,Late,Yes,Yes,147367.72,No,8.83,223786.63,Some,Family,0,31.21
+19,Female,Primary,Married,South West,Ondo,2.1,Plantain,Poultry,4,Yes,1,No,Yes,80105,Defaulted,Yes,Yes,93236.94,Yes,11.56,111892.91,All,Hired,0,37.6
+21,Female,Secondary,Married,South West,Ekiti,1.33,Vegetables,Goats,8,No,3,No,No,0,Defaulted,No,No,366284.11,Yes,8.14,126318.01,Some,Family,0,17.34
+35,Male,Primary,Single,South South,Delta,2.53,Plantain,None,0,No,1,No,No,0,Paid on Time,Yes,Yes,219447.33,No,4.79,160632.3,Some,Family,1,82.1
+23,Male,Secondary,Married,North West,Kebbi,0.61,Rice,Sheep,5,No,2,Yes,No,0,Paid on Time,Yes,Yes,461712.68,No,9.02,177316.59,All,Family,1,78.42
+23,Male,Primary,Divorced,South West,Osun,2.33,Maize,Goats,4,No,3,No,No,0,Late,Yes,No,166685.2,Yes,5.91,194889.35,Some,Both,0,23.57
+24,Male,Secondary,Divorced,North East,Adamawa,3.64,Sesame,Goats,19,No,1,No,No,0,Paid on Time,No,Yes,156864.52,Yes,7.98,150089.74,All,Hired,1,40.75
+26,Male,Secondary,Divorced,South South,Bayelsa,0.94,Vegetables,Pigs,13,No,2,No,No,0,Paid on Time,Yes,Yes,479906.42,Yes,12.9,74741.52,All,Family,1,73.07
+35,Male,Secondary,Divorced,South South,Bayelsa,2.8,Rice,None,0,No,2,Yes,No,0,Late,No,Yes,463322.95,Yes,9.39,222934.07,Some,Hired,0,43.06
+32,Female,Primary,Divorced,South West,Lagos,1.71,Cocoa,None,0,No,3,No,No,0,Late,No,No,344414.52,No,11.08,113659.05,All,Family,0,55.2
+29,Male,Tertiary,Single,South East,Imo,2.11,Rice,None,0,No,2,Yes,Yes,115642,Paid on Time,No,No,220654.03,No,3.15,209741.45,All,Family,1,54.3
+35,Female,Secondary,Single,South West,Ogun,1.97,Oil Palm,None,0,No,3,No,No,0,Paid on Time,Yes,Yes,127899.57,No,10.78,130085.85,None,Both,1,49.2
+33,Female,Primary,Married,South West,Lagos,2.98,Vegetables,None,0,Yes,2,No,Yes,170179,Late,No,Yes,393087.45,Yes,13.53,142708.52,All,Both,0,18.43
+34,Male,Secondary,Single,North West,Jigawa,1.54,Millet,Goats,20,No,3,No,Yes,205183,Paid on Time,Yes,Yes,231840.22,No,12.19,76371.5,Some,Hired,1,84.67
+29,Male,Tertiary,Married,North Central,Benue,1.87,Maize,None,0,No,1,No,No,0,Late,No,Yes,350866.98,Yes,3.68,198401.25,All,Family,0,23.49
+19,Male,Tertiary,Married,North Central,Kogi,3.15,Yam,Pigs,18,No,3,No,No,0,Paid on Time,Yes,Yes,243283.98,No,24.33,104900.37,Some,Hired,1,75.78
+19,Female,Primary,Single,North West,Kano,1.91,Sorghum,Goats,7,Yes,3,Yes,Yes,437758,Paid on Time,Yes,Yes,231127.58,No,12.96,146006.65,Some,Family,1,54.67
+24,Male,Secondary,Single,South East,Abia,1.81,Yam,Goats,14,No,1,No,Yes,346784,Paid on Time,Yes,Yes,315966.06,Yes,7.38,270306.12,None,Family,1,58.43
+33,Female,Secondary,Married,South South,Edo,1.49,Rice,Goats,4,No,2,No,No,0,Defaulted,No,No,298888.14,No,9.17,151555.03,All,Hired,0,23.95
+29,Female,Secondary,Single,South West,Ogun,2.3,Maize,None,0,No,3,Yes,No,0,Late,Yes,No,374244.42,Yes,14.55,76017.77,Some,Family,0,28.39
+21,Female,Tertiary,Married,South South,Rivers,3.07,Rubber,Poultry,7,Yes,2,Yes,No,0,Paid on Time,Yes,Yes,-5601.22,Yes,2.78,172242.68,All,Hired,1,74.06
+19,Female,Tertiary,Divorced,North West,Sokoto,1.16,Groundnut,Sheep,13,No,2,Yes,Yes,54369,Defaulted,Yes,Yes,263119.18,No,7.43,149836.28,Some,Hired,0,13.15
+33,Male,Primary,Single,North West,Zamfara,2.3,Millet,Sheep,17,No,2,Yes,Yes,443238,Paid on Time,Yes,Yes,331238.72,Yes,3.26,128512.88,Some,Family,1,65.6
+20,Female,Secondary,Married,South South,Delta,0.63,Vegetables,None,0,No,2,No,No,0,Paid on Time,No,Yes,369267.2,No,11.01,139372.5,All,Hired,1,61.74
+26,Male,Primary,Single,South East,Ebonyi,3.11,Vegetables,Goats,18,No,3,No,Yes,138771,Paid on Time,No,Yes,342582.45,No,13.39,183410.66,Some,Both,1,64.01
+32,Male,Secondary,Single,South East,Anambra,0.33,Yam,Pigs,7,No,3,No,No,0,Paid on Time,No,Yes,326653.79,Yes,0.94,102465.47,Some,Family,1,65.94
+26,Male,Primary,Single,South East,Imo,3.93,Oil Palm,Goats,19,No,3,Yes,No,0,Paid on Time,No,Yes,189674.93,Yes,3.55,134083.3,All,Hired,1,74.0
+33,Male,Secondary,Divorced,North West,Sokoto,0.82,Cotton,Poultry,20,No,3,Yes,Yes,371345,Paid on Time,Yes,Yes,377050.1,No,11.13,153058.13,All,Family,1,84.54
+22,Male,Secondary,Single,North West,Kano,1.04,Maize,Sheep,6,No,2,No,No,0,Paid on Time,No,Yes,220713.79,Yes,16.69,61991.94,Some,Family,1,88.43
+35,Male,Primary,Single,South East,Enugu,2.05,Vegetables,Goats,12,No,3,Yes,No,0,Paid on Time,No,No,122025.7,Yes,4.75,192305.92,All,Family,1,86.76
+31,Female,Primary,Married,North East,Adamawa,3.15,Millet,Cattle,2,No,2,Yes,No,0,Defaulted,Yes,Yes,422438.93,No,16.62,176482.15,None,Family,0,12.06
+34,Female,Secondary,Single,South East,Imo,0.24,Rice,Goats,20,No,1,Yes,Yes,179473,Paid on Time,Yes,Yes,173101.74,Yes,8.84,150527.29,All,Hired,1,81.05
+21,Male,Primary,Single,South East,Imo,2.79,Yam,None,0,Yes,2,No,Yes,112708,Late,No,Yes,361895.92,No,10.5,139302.23,Some,Family,0,45.28
+34,Male,Secondary,Married,South South,Rivers,1.41,Cocoa,Pigs,13,No,2,No,No,0,Paid on Time,No,Yes,392270.23,No,7.48,74005.36,All,Both,1,46.33
+21,Female,Secondary,Single,South South,Akwa Ibom,2.04,Cocoa,Goats,9,No,1,No,Yes,299975,Late,Yes,Yes,378804.91,No,5.96,137557.61,Some,Both,0,12.88
+25,Male,Secondary,Single,South East,Imo,0.7,Vegetables,Poultry,3,No,1,Yes,No,0,Paid on Time,Yes,No,176203.66,Yes,10.27,83686.89,None,Hired,1,79.43
+33,Male,Secondary,Single,South West,Oyo,1.73,Vegetables,Poultry,10,No,3,No,No,0,Paid on Time,Yes,Yes,324943.43,No,21.03,153982.48,Some,Family,1,48.59
+29,Female,Secondary,Married,North Central,Kogi,3.2,Yam,None,0,No,3,No,Yes,193266,Late,No,Yes,260367.56,Yes,7.47,161993.64,Some,Hired,0,23.74
+21,Female,Primary,Single,North Central,Niger,3.25,Cassava,Goats,3,No,1,Yes,No,0,Defaulted,No,No,222075.22,No,6.51,223278.91,Some,Family,0,51.14
+23,Female,Primary,Married,South South,Cross River,3.62,Vegetables,Goats,6,No,1,Yes,No,0,Paid on Time,No,Yes,203510.67,Yes,6.58,127797.82,Some,Family,1,61.23
+31,Male,Primary,Married,South West,Ekiti,2.33,Plantain,Pigs,5,Yes,3,Yes,No,0,Paid on Time,No,Yes,314779.9,Yes,14.38,145921.76,All,Family,1,87.93
+18,Female,Secondary,Single,North West,Kebbi,0.52,Cotton,Goats,19,Yes,1,Yes,Yes,330118,Paid on Time,Yes,Yes,405780.1,No,5.68,206781.03,None,Family,1,71.98
+34,Male,Secondary,Married,South South,Delta,4.38,Cocoa,None,0,No,1,No,No,0,Paid on Time,No,Yes,288359.51,Yes,12.29,223389.17,All,Both,1,41.54
+25,Female,Primary,Married,South East,Abia,0.16,Oil Palm,Pigs,6,Yes,1,No,No,0,Late,Yes,Yes,221641.49,Yes,15.69,85772.38,Some,Family,0,20.56
+24,Male,Secondary,Married,North West,Jigawa,2.05,Sorghum,Sheep,14,No,3,Yes,No,0,Paid on Time,No,Yes,265520.39,No,2.1,104993.26,All,Family,1,62.99
+19,Male,Tertiary,Divorced,South South,Delta,2.15,Rubber,None,0,No,3,No,Yes,306356,Paid on Time,Yes,Yes,282874.37,Yes,12.1,134704.28,Some,Hired,1,60.46
+23,Male,Secondary,Single,North East,Yobe,1.61,Cowpea,Goats,9,No,2,Yes,No,0,Defaulted,Yes,Yes,315785.35,No,11.87,177935.94,None,Hired,0,47.59
+26,Male,Secondary,Married,South South,Bayelsa,1.82,Plantain,None,0,No,3,Yes,No,0,Paid on Time,Yes,Yes,279416.01,No,9.91,115730.74,Some,Hired,1,60.26
+22,Female,Tertiary,Married,South South,Akwa Ibom,2.16,Rice,Goats,16,No,3,No,No,0,Paid on Time,No,Yes,332582.19,Yes,11.17,208249.54,All,Both,1,61.61
+31,Male,Primary,Married,South West,Lagos,4.12,Cocoa,Poultry,10,Yes,2,Yes,No,0,Paid on Time,No,Yes,167508.4,Yes,12.24,166231.84,Some,Family,1,54.26
+26,Female,Primary,Married,South East,Ebonyi,0.22,Yam,None,0,No,1,No,Yes,264838,Defaulted,Yes,Yes,246699.59,Yes,11.1,159042.63,All,Family,0,46.37
+21,Male,Primary,Divorced,North East,Gombe,2.19,Maize,Goats,4,No,2,No,Yes,248382,Paid on Time,Yes,No,214881.95,Yes,8.74,169441.71,All,Both,1,58.29
+35,Female,Primary,Married,North East,Borno,2.34,Sorghum,None,0,No,3,Yes,Yes,397786,Paid on Time,Yes,No,367575.19,No,2.05,214658.9,All,Hired,1,47.26
+22,Male,Secondary,Single,North East,Bauchi,1.76,Maize,Goats,17,No,2,No,No,0,Paid on Time,Yes,Yes,314151.78,No,19.92,187858.84,All,Hired,1,49.13
+34,Male,Tertiary,Divorced,South South,Rivers,1.12,Rubber,Poultry,14,Yes,1,No,Yes,283614,Paid on Time,Yes,Yes,384780.1,No,3.14,134718.38,All,Family,1,80.32
+30,Male,Secondary,Single,North West,Kebbi,0.01,Groundnut,Sheep,20,No,2,Yes,Yes,291472,Paid on Time,No,Yes,280069.47,No,15.17,123933.19,All,Family,1,73.57
+31,Female,Secondary,Single,South South,Akwa Ibom,2.66,Cocoa,Goats,7,No,3,Yes,Yes,355866,Paid on Time,No,Yes,303804.38,No,7.63,165990.58,None,Hired,1,71.77
+30,Female,Secondary,Married,South South,Cross River,1.74,Rubber,None,0,Yes,1,No,No,0,Paid on Time,No,No,196792.92,No,7.82,134416.21,All,Family,1,65.33
+31,Male,Secondary,Single,North West,Kebbi,3.29,Millet,None,0,No,1,Yes,No,0,Paid on Time,No,No,257520.64,Yes,1.77,150912.62,Some,Hired,1,54.03
+22,Female,Primary,Married,South East,Abia,2.55,Cassava,Pigs,11,No,1,No,No,0,Late,Yes,Yes,312936.77,No,9.52,210216.31,None,Both,0,59.51
+19,Female,Secondary,Single,South East,Enugu,1.07,Rice,None,0,No,3,Yes,No,0,Paid on Time,Yes,Yes,310156.24,No,3.78,183946.02,None,Family,1,48.76
+33,Male,Secondary,Single,North East,Adamawa,2.6,Sesame,Sheep,2,No,2,Yes,Yes,450498,Paid on Time,No,Yes,406689.46,Yes,16.67,135577.89,All,Family,1,43.84
+27,Male,Secondary,Single,South East,Imo,2.69,Cassava,Poultry,18,No,1,Yes,Yes,192063,Defaulted,No,Yes,458449.44,Yes,1.74,238305.83,None,Family,0,11.29
+27,Male,Secondary,Divorced,South West,Ondo,1.52,Maize,Poultry,13,No,3,No,Yes,268339,Late,Yes,Yes,405225.59,No,8.59,202638.45,None,Hired,0,43.05
+22,Male,Secondary,Married,North East,Bauchi,1.74,Sesame,Cattle,13,No,3,No,Yes,166360,Paid on Time,Yes,Yes,275297.69,No,8.27,186325.3,None,Family,1,68.06
+25,Female,Primary,Married,North East,Yobe,2.78,Maize,Goats,12,Yes,1,Yes,No,0,Late,No,No,236657.42,No,11.04,195937.69,None,Hired,0,35.3
+32,Male,Tertiary,Married,North Central,Plateau,2.49,Yam,Goats,11,No,3,No,No,0,Paid on Time,No,Yes,266314.7,No,9.83,195285.88,Some,Hired,1,47.47
+18,Female,Primary,Single,North Central,Nassarawa,2.85,Maize,None,0,No,2,No,No,0,Paid on Time,No,No,364825.27,Yes,0.44,130323.52,Some,Hired,1,48.42
+18,Male,Primary,Married,South West,Oyo,3.09,Maize,None,0,No,1,Yes,Yes,180672,Paid on Time,Yes,No,131629.44,Yes,4.07,182202.68,All,Family,1,53.38
+29,Male,Primary,Single,North East,Adamawa,-0.43,Maize,Cattle,4,Yes,2,Yes,Yes,176998,Paid on Time,Yes,Yes,382243.23,Yes,3.7,22986.83,None,Family,1,72.33
+24,Female,Primary,Single,North West,Zamfara,0.05,Groundnut,Goats,13,No,1,No,No,0,Paid on Time,No,No,268960.32,Yes,7.51,164704.1,None,Hired,1,54.61
+33,Female,Primary,Single,North Central,Kwara,3.86,Cassava,Poultry,1,No,1,No,No,0,Paid on Time,No,Yes,122628.09,Yes,13.88,175723.8,All,Family,1,82.56
+28,Male,Secondary,Married,North West,Sokoto,1.51,Groundnut,Goats,2,No,2,No,Yes,222648,Paid on Time,Yes,Yes,212036.11,No,9.01,139707.85,All,Hired,1,41.12
+28,Male,Secondary,Married,South West,Lagos,2.35,Vegetables,Pigs,20,Yes,1,No,Yes,387358,Paid on Time,No,Yes,284953.01,Yes,14.9,58476.56,All,Family,1,44.3
+32,Female,Primary,Single,South East,Anambra,4.04,Vegetables,None,0,No,3,No,No,0,Paid on Time,No,No,435224.41,No,18.82,193154.39,None,Family,1,73.36
+29,Male,Primary,Married,South South,Delta,2.29,Rice,Pigs,9,No,1,Yes,No,0,Paid on Time,Yes,Yes,169053.75,No,6.47,185979.97,All,Family,1,47.08
+35,Female,Primary,Married,South South,Rivers,1.58,Oil Palm,None,0,No,2,Yes,Yes,396734,Paid on Time,No,No,143958.05,Yes,18.56,117722.41,None,Family,1,59.69
+18,Male,Secondary,Single,North Central,Kogi,5.15,Soybeans,Pigs,17,No,2,No,Yes,330621,Paid on Time,Yes,Yes,410560.08,No,6.37,96002.16,None,Family,1,82.61
+28,Female,Tertiary,Divorced,North Central,Plateau,2.34,Soybeans,Poultry,17,Yes,3,No,Yes,327941,Paid on Time,Yes,Yes,287160.17,Yes,12.65,165224.61,Some,Family,1,84.08
+24,Male,Primary,Married,South South,Delta,0.93,Cocoa,None,0,No,3,No,Yes,343076,Paid on Time,No,No,202221.78,No,7.47,156440.1,Some,Family,1,63.75
+35,Male,Primary,Single,North West,Sokoto,2.38,Sorghum,Cattle,11,Yes,2,Yes,No,0,Paid on Time,Yes,Yes,215273.07,No,12.19,112472.64,All,Family,1,65.44
+25,Female,Tertiary,Married,North Central,Niger,1.01,Rice,Pigs,16,No,1,No,No,0,Paid on Time,No,Yes,524092.66,No,5.04,169130.0,None,Family,1,81.32
+33,Female,Secondary,Single,North East,Gombe,0.19,Sesame,Sheep,1,Yes,3,No,No,0,Late,Yes,No,363705.18,No,4.88,149132.93,Some,Both,0,39.83
+18,Male,Tertiary,Single,North Central,Kwara,2.31,Soybeans,Poultry,5,No,2,Yes,Yes,484737,Paid on Time,Yes,No,258569.56,No,10.59,107695.14,All,Family,1,68.89
+27,Male,Primary,Single,North East,Borno,2.19,Groundnut,Cattle,10,No,2,Yes,No,0,Late,No,Yes,284288.67,Yes,6.97,148764.07,None,Both,0,30.34
+29,Male,Tertiary,Single,South South,Edo,1.09,Vegetables,Goats,19,No,3,Yes,No,0,Paid on Time,Yes,No,332545.27,Yes,11.53,207404.54,All,Hired,1,65.3
+27,Male,Secondary,Single,North Central,Kwara,1.82,Rice,Pigs,20,No,3,No,No,0,Paid on Time,Yes,No,212770.02,Yes,19.18,124686.34,All,Hired,1,69.47
+22,Male,Secondary,Married,North West,Katsina,2.84,Maize,Poultry,4,No,2,No,Yes,289647,Paid on Time,Yes,Yes,329369.03,Yes,8.59,147496.73,None,Family,1,53.88
+22,Male,Secondary,Single,North Central,Niger,1.83,Maize,Poultry,9,No,1,Yes,Yes,56259,Paid on Time,Yes,Yes,144513.53,Yes,12.0,110596.19,All,Both,1,50.77
+32,Male,Primary,Single,North East,Borno,1.03,Millet,Sheep,9,No,3,No,No,0,Paid on Time,Yes,Yes,318884.4,Yes,9.46,230283.9,None,Family,1,60.79
+33,Male,Secondary,Divorced,South West,Ondo,1.0,Plantain,None,0,No,1,Yes,No,0,Paid on Time,Yes,Yes,297337.9,No,3.69,88523.69,All,Hired,1,82.74
+31,Female,Secondary,Single,North West,Jigawa,2.76,Groundnut,Goats,19,No,1,No,No,0,Late,Yes,Yes,344807.83,Yes,12.45,154040.87,All,Family,0,15.97
+19,Male,Primary,Single,North East,Adamawa,2.67,Millet,Cattle,13,No,3,No,Yes,129030,Late,Yes,Yes,507353.22,Yes,13.41,150705.42,Some,Both,0,46.21
+31,Female,Secondary,Single,North Central,FCT,1.87,Cassava,Pigs,13,No,1,Yes,Yes,368521,Late,Yes,No,88417.94,Yes,9.99,141141.59,All,Hired,0,36.03
+34,Male,Primary,Married,South South,Edo,2.41,Oil Palm,None,0,No,2,No,Yes,59879,Paid on Time,No,No,202658.46,No,5.37,238352.98,All,Hired,1,66.42
+25,Male,Tertiary,Married,North West,Kebbi,1.31,Cotton,Sheep,13,No,2,No,Yes,464868,Late,No,No,253528.01,Yes,6.99,208429.23,All,Family,0,51.92
+27,Male,Tertiary,Single,North East,Bauchi,1.33,Millet,None,0,Yes,2,No,Yes,382187,Late,Yes,No,406518.32,No,3.38,266010.91,All,Family,0,30.92
+25,Female,Secondary,Married,South East,Anambra,0.99,Cassava,Pigs,18,No,2,No,No,0,Paid on Time,No,Yes,147025.1,No,12.63,33485.73,Some,Family,1,52.61
+31,Male,Tertiary,Married,South East,Enugu,1.37,Rice,Pigs,19,Yes,3,Yes,Yes,65154,Late,No,Yes,289960.6,No,6.91,210112.45,Some,Both,0,13.85
+34,Female,Secondary,Divorced,South West,Lagos,0.55,Cassava,Goats,14,Yes,3,No,No,0,Paid on Time,Yes,Yes,121473.5,No,6.52,147151.72,None,Family,1,72.67
+33,Male,Tertiary,Married,North Central,Benue,1.94,Maize,Poultry,5,No,1,Yes,No,0,Paid on Time,Yes,Yes,292879.63,No,16.65,66220.98,None,Family,1,74.48
+33,Male,Primary,Married,North West,Sokoto,2.06,Beans,None,0,No,2,No,No,0,Paid on Time,Yes,No,188344.85,Yes,11.22,213760.29,All,Family,1,64.83
+21,Male,Tertiary,Married,South South,Bayelsa,1.93,Cassava,Poultry,18,No,1,Yes,No,0,Late,Yes,Yes,376642.67,Yes,7.69,134647.58,Some,Both,0,46.84
+18,Male,Secondary,Married,North Central,Plateau,3.94,Rice,Poultry,1,Yes,1,No,No,0,Paid on Time,No,No,309237.91,No,10.1,180304.26,None,Both,1,47.56
+25,Female,Primary,Single,North East,Borno,1.63,Groundnut,Sheep,19,Yes,1,No,No,0,Late,No,No,191096.42,No,1.72,243213.52,Some,Both,0,10.28
+24,Male,Secondary,Married,North Central,Niger,2.2,Rice,Goats,14,No,1,Yes,Yes,60663,Paid on Time,No,No,250346.52,Yes,7.76,129694.48,All,Hired,1,57.14
+33,Male,Tertiary,Married,South East,Abia,3.41,Oil Palm,Pigs,20,No,1,Yes,Yes,154493,Paid on Time,No,Yes,269028.92,No,12.49,185189.06,None,Hired,1,44.67
+25,Female,Secondary,Single,North West,Kebbi,-0.21,Maize,Sheep,8,No,3,No,Yes,332570,Defaulted,Yes,No,342612.93,No,11.9,227283.69,All,Hired,0,49.61
+19,Female,Tertiary,Married,South West,Ogun,2.05,Plantain,Goats,1,No,3,Yes,No,0,Paid on Time,Yes,Yes,283018.0,No,6.6,128831.97,All,Hired,1,40.3
+24,Male,Tertiary,Divorced,South East,Enugu,1.93,Yam,Goats,4,No,3,No,Yes,136796,Paid on Time,Yes,Yes,355469.93,Yes,6.38,168330.31,All,Both,1,44.8
+24,Female,Tertiary,Married,South South,Akwa Ibom,1.69,Oil Palm,Poultry,10,No,1,No,Yes,266451,Defaulted,No,No,278634.88,No,11.69,167896.38,All,Family,0,15.12
+27,Male,Secondary,Married,South South,Rivers,2.49,Vegetables,Poultry,13,No,3,Yes,Yes,174541,Late,Yes,No,552838.03,No,8.86,171339.71,All,Family,0,56.23
+26,Male,Primary,Married,South West,Ekiti,2.88,Oil Palm,Pigs,7,No,1,Yes,No,0,Paid on Time,Yes,Yes,351655.7,Yes,14.4,159851.92,None,Hired,1,61.11
+27,Male,Secondary,Married,South East,Anambra,3.05,Rice,Goats,17,No,2,Yes,No,0,Paid on Time,Yes,Yes,260763.62,Yes,5.14,153978.98,All,Hired,1,53.78
+22,Male,Primary,Single,North Central,Kwara,2.9,Maize,None,0,No,2,No,Yes,334839,Late,Yes,No,349082.35,Yes,6.87,161496.22,All,Hired,0,56.4
+27,Female,Secondary,Divorced,South West,Ekiti,1.9,Cocoa,Poultry,15,No,2,No,Yes,53051,Paid on Time,Yes,No,325893.04,No,16.08,99371.28,Some,Both,1,61.97
+31,Female,Secondary,Single,South South,Rivers,2.02,Plantain,Goats,3,No,1,No,Yes,280314,Paid on Time,Yes,No,103682.71,No,7.0,121151.78,Some,Family,1,62.66
+31,Male,Secondary,Divorced,South East,Anambra,1.57,Cassava,Goats,3,Yes,2,No,No,0,Late,Yes,Yes,339245.6,Yes,3.02,168181.66,All,Family,0,19.48
+35,Female,Secondary,Married,South South,Edo,2.24,Cassava,Pigs,17,Yes,2,Yes,No,0,Paid on Time,No,Yes,307100.96,No,19.24,209526.48,All,Family,1,43.72
+18,Male,Secondary,Married,North Central,Benue,1.08,Maize,Pigs,19,Yes,3,No,No,0,Paid on Time,Yes,No,218061.32,Yes,5.85,133680.62,All,Family,1,61.56
+19,Female,Primary,Single,South West,Ondo,1.98,Oil Palm,Pigs,15,No,3,No,No,0,Paid on Time,Yes,No,298271.99,Yes,14.44,122479.3,All,Family,1,65.9
+28,Female,Secondary,Single,South South,Akwa Ibom,0.53,Oil Palm,Pigs,20,Yes,1,Yes,Yes,172304,Late,No,Yes,373395.05,No,12.35,155169.1,Some,Family,0,32.66
+25,Male,Primary,Single,South East,Imo,0.87,Vegetables,Pigs,17,No,3,Yes,Yes,125276,Paid on Time,No,No,296061.87,No,12.93,143629.14,All,Both,1,58.84
+22,Male,Primary,Single,North West,Kebbi,1.78,Millet,None,0,No,1,No,No,0,Paid on Time,No,Yes,239779.46,Yes,12.85,133791.16,Some,Family,1,43.63
+18,Female,Secondary,Married,South South,Rivers,3.98,Rubber,Goats,19,Yes,1,Yes,No,0,Late,No,No,159388.38,Yes,3.42,150520.53,Some,Both,0,53.61
+26,Male,Secondary,Single,North Central,Benue,2.18,Sesame,Cattle,13,No,3,No,No,0,Paid on Time,Yes,Yes,540158.37,No,5.15,125234.3,Some,Family,1,56.81
+33,Male,Primary,Married,North Central,FCT,2.73,Soybeans,Cattle,17,No,1,Yes,No,0,Defaulted,No,No,153777.1,Yes,9.19,138997.32,None,Hired,0,48.93
+24,Male,Primary,Married,North Central,Nassarawa,2.73,Sesame,None,0,No,3,No,No,0,Paid on Time,No,Yes,118185.64,No,7.97,144325.73,All,Hired,1,45.96
+28,Male,Tertiary,Married,North East,Borno,2.56,Groundnut,Goats,9,No,2,No,Yes,304585,Paid on Time,Yes,No,314732.25,No,7.67,138436.29,All,Family,1,71.24
+27,Male,Tertiary,Single,North Central,Kogi,1.17,Rice,Pigs,10,No,3,No,Yes,207213,Paid on Time,No,Yes,320390.54,No,13.87,224319.8,Some,Family,1,58.75
+32,Male,Secondary,Single,North West,Zamfara,1.85,Maize,Goats,16,No,3,No,Yes,122102,Paid on Time,No,No,272405.17,No,6.25,135022.53,All,Hired,1,50.0
+22,Female,Tertiary,Married,North East,Borno,2.19,Cowpea,Sheep,13,Yes,1,Yes,Yes,170424,Paid on Time,No,Yes,244232.3,Yes,2.7,159397.09,None,Hired,1,63.86
+28,Male,Secondary,Single,South East,Imo,0.92,Cassava,None,0,No,1,Yes,No,0,Defaulted,No,No,333658.3,No,14.78,223982.13,All,Hired,0,14.58
+23,Male,Secondary,Single,North Central,Niger,2.08,Yam,Poultry,15,No,1,No,No,0,Paid on Time,No,No,307233.9,Yes,4.45,166162.36,Some,Family,1,77.19
+18,Male,Secondary,Single,South West,Oyo,2.31,Cassava,Poultry,3,No,3,No,No,0,Late,Yes,No,171283.39,Yes,17.14,168570.05,All,Both,0,31.72
+18,Male,Secondary,Married,North East,Bauchi,2.39,Millet,Cattle,6,Yes,1,No,No,0,Paid on Time,No,Yes,392016.61,Yes,7.18,114902.14,None,Hired,1,85.66
+33,Male,Secondary,Married,North East,Taraba,1.91,Maize,Cattle,17,No,3,Yes,No,0,Late,Yes,Yes,246510.3,Yes,13.13,169394.51,None,Both,0,49.87
+20,Male,Primary,Single,South West,Lagos,2.16,Plantain,None,0,No,1,Yes,Yes,251958,Late,No,Yes,189831.81,Yes,6.72,144878.76,Some,Hired,0,52.66
+19,Male,Secondary,Single,North West,Kaduna,1.36,Millet,Poultry,16,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,284372.37,No,14.6,77000.76,None,Hired,1,75.9
+24,Male,Secondary,Married,South West,Oyo,0.36,Cocoa,None,0,Yes,2,Yes,No,0,Paid on Time,Yes,No,279049.18,Yes,11.59,148953.95,Some,Hired,1,42.73
+31,Female,Secondary,Single,North Central,Plateau,1.82,Maize,Goats,15,Yes,3,Yes,Yes,249891,Defaulted,Yes,Yes,303359.46,Yes,3.75,128860.86,Some,Both,0,14.46
+23,Male,Primary,Married,North East,Yobe,3.1,Sorghum,Cattle,5,No,1,No,Yes,170918,Defaulted,Yes,Yes,438080.66,No,6.53,198040.29,None,Family,0,43.91
+20,Male,Secondary,Married,North Central,Kwara,2.12,Sesame,Pigs,3,Yes,1,No,No,0,Paid on Time,Yes,Yes,234797.8,Yes,10.8,105532.04,All,Family,1,44.27
+20,Male,Secondary,Married,North Central,Benue,4.03,Rice,Pigs,20,Yes,3,No,Yes,318159,Paid on Time,Yes,Yes,341135.7,No,18.73,47010.92,Some,Family,1,68.79
+21,Male,Secondary,Married,South South,Rivers,2.65,Rice,Poultry,4,No,3,Yes,Yes,414179,Paid on Time,Yes,No,314826.41,No,11.96,98270.1,None,Both,1,76.15
+21,Male,Primary,Single,South East,Anambra,2.15,Yam,None,0,No,2,Yes,Yes,75345,Paid on Time,No,Yes,381378.62,No,8.2,213613.52,None,Family,1,53.64
+31,Male,Secondary,Single,South South,Bayelsa,2.64,Rubber,None,0,No,1,Yes,Yes,291830,Defaulted,No,No,201425.19,No,1.74,151717.87,Some,Hired,0,43.45
+23,Female,Secondary,Single,South West,Ondo,2.17,Plantain,Goats,11,Yes,2,No,No,0,Paid on Time,No,Yes,214923.52,Yes,9.16,97457.55,None,Family,1,58.69
+32,Male,Secondary,Married,South West,Osun,3.36,Vegetables,Goats,14,No,1,Yes,Yes,290346,Paid on Time,Yes,No,306479.14,Yes,12.98,119603.41,None,Family,1,62.85
+23,Male,Secondary,Single,North West,Jigawa,1.15,Beans,Sheep,14,No,1,Yes,No,0,Defaulted,No,No,305104.29,No,11.31,211708.49,All,Family,0,26.36
+19,Female,Tertiary,Married,South West,Oyo,2.06,Cocoa,None,0,No,1,No,Yes,435415,Paid on Time,No,Yes,254604.06,Yes,14.94,172960.21,All,Both,1,65.7
+18,Male,Secondary,Single,South East,Enugu,3.38,Rice,None,0,No,1,Yes,Yes,485869,Late,Yes,Yes,359545.9,No,4.56,122130.59,All,Hired,0,48.12
+21,Male,Secondary,Married,South West,Oyo,1.37,Oil Palm,Goats,15,No,2,Yes,Yes,82600,Late,No,Yes,476723.91,No,9.62,215673.66,Some,Family,0,31.54
+30,Female,Secondary,Single,South South,Cross River,2.88,Vegetables,Pigs,17,Yes,3,No,Yes,250073,Paid on Time,Yes,Yes,320695.89,Yes,10.62,141485.77,None,Family,1,47.34
+34,Male,Tertiary,Divorced,South South,Cross River,1.14,Oil Palm,Poultry,16,No,3,Yes,No,0,Paid on Time,No,Yes,255452.36,No,13.37,98662.07,None,Family,1,66.15
+32,Female,Tertiary,Married,South South,Rivers,2.58,Rubber,Pigs,17,Yes,3,Yes,No,0,Paid on Time,Yes,No,305468.23,No,4.51,118866.41,None,Hired,1,63.4
+35,Male,Tertiary,Married,North East,Gombe,2.53,Sorghum,None,0,No,1,No,No,0,Late,Yes,Yes,53193.22,No,23.01,215485.44,None,Hired,0,25.14
+21,Male,Tertiary,Married,South East,Enugu,1.64,Vegetables,Goats,16,No,2,No,No,0,Paid on Time,Yes,No,280216.31,Yes,9.92,100966.85,None,Both,1,40.55
+32,Male,Primary,Married,North West,Kaduna,2.27,Rice,Poultry,5,No,1,No,No,0,Paid on Time,Yes,Yes,403043.88,Yes,6.15,189743.34,None,Family,1,66.61
+23,Male,Tertiary,Single,South South,Bayelsa,2.67,Oil Palm,None,0,No,2,Yes,No,0,Paid on Time,No,Yes,288787.36,No,0.31,171518.13,Some,Hired,1,67.9
+29,Male,Primary,Single,South East,Anambra,1.18,Oil Palm,None,0,No,1,No,No,0,Paid on Time,No,Yes,389041.86,Yes,7.23,57372.14,All,Family,1,76.29
+23,Female,Primary,Single,North Central,Kogi,1.52,Maize,Poultry,20,Yes,3,No,No,0,Defaulted,No,No,351566.06,Yes,16.98,192165.48,All,Hired,0,12.62
+34,Female,Primary,Married,North East,Borno,2.69,Maize,None,0,No,1,Yes,Yes,135107,Late,Yes,No,273776.64,Yes,9.95,164087.03,Some,Hired,0,50.6
+20,Female,Primary,Single,North East,Gombe,3.97,Maize,Cattle,16,No,1,Yes,Yes,230499,Late,No,Yes,393973.55,Yes,16.59,163448.19,None,Hired,0,37.45
+35,Male,Primary,Single,South West,Ekiti,1.0,Plantain,Pigs,12,No,1,Yes,Yes,232503,Late,Yes,No,160801.67,Yes,19.68,255684.19,None,Family,0,31.3
+32,Female,Primary,Married,North East,Taraba,0.12,Millet,Goats,1,Yes,3,No,Yes,298465,Paid on Time,No,Yes,371413.46,No,5.53,119012.42,None,Family,1,78.66
+23,Male,Tertiary,Married,North Central,Benue,3.04,Rice,None,0,Yes,2,No,No,0,Late,No,No,272451.77,No,6.13,123369.66,Some,Hired,0,21.36
+20,Male,Secondary,Married,South South,Delta,1.06,Oil Palm,Poultry,14,No,3,Yes,No,0,Defaulted,Yes,Yes,214491.8,Yes,2.86,140723.47,All,Family,0,48.71
+18,Male,Tertiary,Divorced,North West,Zamfara,1.49,Millet,Goats,10,No,3,Yes,No,0,Late,Yes,Yes,239898.99,No,12.28,159726.93,All,Hired,0,55.57
+34,Male,Primary,Married,South East,Enugu,2.71,Rice,Goats,15,No,2,No,Yes,379926,Paid on Time,No,Yes,282400.22,Yes,7.04,184621.62,Some,Family,1,87.73
+19,Female,Secondary,Married,North East,Gombe,1.21,Groundnut,Sheep,15,Yes,1,Yes,Yes,215426,Paid on Time,Yes,Yes,387339.55,Yes,16.84,198045.09,All,Hired,1,44.95
+32,Male,Primary,Married,South South,Bayelsa,2.32,Cassava,Goats,13,No,3,No,No,0,Paid on Time,Yes,Yes,491192.32,No,14.62,55563.81,None,Both,1,56.8
+20,Male,Tertiary,Single,North Central,Benue,1.01,Yam,Cattle,17,No,1,No,No,0,Defaulted,Yes,Yes,157706.04,Yes,10.02,140266.82,Some,Both,0,35.23
+24,Male,Primary,Married,North West,Sokoto,2.52,Beans,None,0,No,2,Yes,No,0,Paid on Time,No,No,257049.42,Yes,11.58,147607.05,None,Both,1,61.94
+18,Male,Secondary,Single,North East,Adamawa,3.24,Sorghum,Sheep,19,Yes,2,Yes,No,0,Paid on Time,Yes,No,274330.5,No,8.65,150807.35,All,Family,1,56.96
+33,Male,Primary,Married,South West,Oyo,3.05,Vegetables,Pigs,7,No,3,Yes,Yes,383138,Paid on Time,Yes,No,280542.91,Yes,16.12,197464.82,Some,Both,1,49.34
+29,Female,Secondary,Married,South East,Imo,3.12,Cassava,Pigs,10,No,2,No,No,0,Late,No,Yes,273996.98,No,11.66,73489.29,None,Both,0,30.23
+18,Male,Secondary,Single,North West,Jigawa,0.91,Millet,None,0,No,3,No,Yes,208940,Paid on Time,No,Yes,231575.78,No,6.12,106620.9,None,Family,1,86.6
+21,Male,Secondary,Married,South West,Lagos,1.72,Vegetables,None,0,Yes,3,Yes,No,0,Late,Yes,Yes,260308.67,Yes,2.2,255866.21,Some,Family,0,34.67
+20,Male,Tertiary,Single,North West,Katsina,2.1,Cotton,Sheep,9,No,1,No,No,0,Late,No,Yes,103010.32,Yes,7.19,142677.97,None,Both,0,51.2
+19,Male,Secondary,Married,South West,Ondo,1.73,Cocoa,Pigs,13,No,1,Yes,No,0,Paid on Time,No,No,344841.32,Yes,6.55,79476.63,All,Family,1,55.91
+33,Female,Tertiary,Single,North Central,Benue,1.56,Rice,Pigs,13,Yes,2,No,Yes,317002,Late,Yes,No,361160.16,No,11.87,46971.67,Some,Family,0,32.3
+33,Female,Secondary,Married,South East,Enugu,0.78,Yam,Poultry,13,No,1,No,No,0,Late,Yes,No,128280.15,Yes,13.75,74643.6,Some,Family,0,38.28
+32,Female,Tertiary,Single,North East,Adamawa,2.14,Sesame,Cattle,2,No,1,Yes,No,0,Paid on Time,Yes,No,346030.75,No,12.81,126642.97,Some,Both,1,79.85
+29,Female,Primary,Single,North East,Adamawa,2.18,Sorghum,Cattle,13,No,1,Yes,No,0,Paid on Time,No,Yes,114626.78,No,7.39,87904.39,All,Hired,1,71.29
+35,Male,Tertiary,Single,South West,Ondo,2.46,Cassava,None,0,No,1,Yes,No,0,Paid on Time,Yes,No,435275.9,Yes,16.5,114297.91,Some,Hired,1,66.49
+21,Male,Secondary,Single,North West,Jigawa,0.52,Millet,Goats,16,No,1,Yes,Yes,222845,Paid on Time,Yes,No,356819.43,No,10.63,140922.05,None,Hired,1,52.05
+26,Female,Primary,Single,South West,Ondo,3.76,Plantain,Poultry,19,No,2,Yes,Yes,81275,Late,Yes,Yes,254772.92,Yes,10.45,187631.93,None,Family,0,19.94
+30,Male,Primary,Married,South East,Enugu,3.22,Rice,Pigs,4,Yes,3,Yes,Yes,189769,Defaulted,Yes,Yes,403467.34,No,8.5,199954.25,All,Family,0,33.45
+35,Male,Tertiary,Married,South East,Enugu,2.34,Rice,None,0,Yes,1,No,Yes,387563,Paid on Time,Yes,No,360374.22,Yes,7.89,213609.93,All,Hired,1,41.68
+31,Female,Secondary,Single,North West,Jigawa,0.54,Sorghum,Poultry,10,No,2,No,Yes,176895,Paid on Time,No,Yes,261992.8,No,6.53,202544.41,Some,Both,1,71.91
+31,Male,Secondary,Single,North West,Katsina,1.23,Millet,Poultry,15,No,2,Yes,Yes,463285,Paid on Time,No,Yes,223835.48,Yes,10.82,123965.38,Some,Family,1,64.58
+32,Female,Secondary,Single,South South,Akwa Ibom,2.69,Rubber,Pigs,1,Yes,3,Yes,Yes,374422,Paid on Time,No,Yes,265659.59,Yes,0.53,141998.07,None,Hired,1,79.47
+33,Female,Secondary,Married,South West,Osun,2.1,Vegetables,Goats,8,No,2,Yes,Yes,432945,Paid on Time,Yes,Yes,391251.59,Yes,4.11,127787.54,All,Family,1,73.73
+22,Male,Secondary,Married,North West,Sokoto,1.93,Beans,Goats,16,No,3,Yes,No,0,Paid on Time,No,Yes,324443.53,Yes,9.23,201681.42,All,Both,1,83.08
+31,Female,Tertiary,Divorced,South South,Delta,2.48,Cassava,None,0,Yes,1,Yes,No,0,Paid on Time,No,Yes,424681.25,No,4.63,100350.28,All,Family,1,63.33
+32,Male,Primary,Married,North Central,FCT,2.43,Maize,Poultry,8,Yes,2,No,Yes,288030,Paid on Time,No,Yes,191898.79,No,19.42,69149.45,None,Family,1,52.35
+32,Female,Secondary,Single,North Central,Niger,1.63,Rice,Goats,9,Yes,2,Yes,Yes,230703,Defaulted,No,Yes,328089.11,Yes,8.56,201454.56,All,Hired,0,59.52
+33,Female,Secondary,Single,North Central,FCT,2.11,Maize,None,0,Yes,1,No,Yes,408111,Defaulted,No,Yes,377311.84,No,8.09,139641.92,Some,Hired,0,41.92
+29,Female,Secondary,Single,South South,Edo,1.8,Vegetables,Goats,6,Yes,1,Yes,Yes,328263,Defaulted,Yes,Yes,261350.51,Yes,12.7,181433.49,None,Family,0,24.11
+25,Male,Secondary,Single,North West,Kano,3.3,Sorghum,Goats,5,No,1,No,No,0,Paid on Time,Yes,No,328191.8,No,3.31,105716.59,All,Family,1,75.46
+18,Female,Primary,Married,North West,Kano,2.29,Sorghum,Poultry,5,Yes,2,No,No,0,Late,Yes,No,205301.91,Yes,8.32,163440.25,All,Family,0,24.58
+25,Female,Secondary,Single,North West,Sokoto,1.55,Millet,Goats,10,No,2,Yes,No,0,Late,Yes,Yes,384565.14,No,4.28,155991.97,All,Both,0,10.37
+18,Male,Secondary,Married,North East,Gombe,1.02,Sesame,None,0,Yes,3,Yes,Yes,395522,Defaulted,No,Yes,282537.32,Yes,13.86,176509.08,All,Family,0,17.32
+22,Male,Tertiary,Single,South East,Enugu,2.69,Yam,Pigs,7,Yes,3,No,No,0,Late,No,No,260167.3,No,5.94,90737.95,Some,Family,0,55.2
+30,Female,Secondary,Married,North East,Yobe,1.76,Sesame,None,0,Yes,1,No,Yes,103520,Paid on Time,Yes,Yes,394301.59,No,15.58,182193.52,None,Family,1,40.67
+27,Male,Secondary,Single,North Central,Nassarawa,3.14,Maize,None,0,No,1,Yes,Yes,317074,Paid on Time,Yes,Yes,393539.22,Yes,18.99,158556.05,None,Family,1,86.09
+25,Male,Secondary,Married,South West,Lagos,2.06,Cassava,Goats,19,No,1,No,No,0,Paid on Time,Yes,Yes,201664.51,Yes,10.91,93779.83,All,Family,1,41.8
+31,Male,Tertiary,Single,South South,Rivers,2.05,Rubber,Pigs,6,Yes,3,No,Yes,251671,Defaulted,No,Yes,320997.93,No,16.81,85921.13,None,Family,0,27.22
+34,Female,Secondary,Single,South South,Bayelsa,2.35,Rice,Pigs,20,Yes,2,Yes,No,0,Paid on Time,Yes,Yes,237259.51,No,13.82,196124.06,None,Both,1,78.11
+35,Male,Secondary,Married,North West,Katsina,2.16,Groundnut,Sheep,5,Yes,2,No,Yes,279766,Late,Yes,Yes,322474.21,Yes,10.91,211232.45,Some,Hired,0,24.19
+18,Male,Primary,Married,North Central,Kwara,1.49,Soybeans,Pigs,14,No,1,No,Yes,464686,Paid on Time,No,Yes,186695.77,Yes,3.53,171365.55,All,Family,1,76.23
+29,Female,Tertiary,Divorced,North Central,Kwara,2.83,Soybeans,None,0,Yes,1,No,No,0,Defaulted,Yes,Yes,225502.12,No,11.73,89385.66,Some,Family,0,35.67
+31,Male,Primary,Single,North East,Bauchi,3.27,Sorghum,None,0,No,2,Yes,No,0,Paid on Time,No,Yes,267292.66,Yes,0.67,70232.46,Some,Both,1,80.12
+32,Female,Primary,Married,North West,Kaduna,3.21,Beans,Sheep,3,Yes,1,No,Yes,300322,Paid on Time,Yes,Yes,415498.02,No,10.94,140284.72,All,Both,1,63.68
+30,Female,Tertiary,Single,South East,Anambra,1.4,Cassava,Poultry,8,No,3,Yes,No,0,Paid on Time,No,Yes,361657.94,Yes,13.39,56256.72,All,Both,1,88.61
+29,Male,Secondary,Single,South South,Rivers,2.03,Cocoa,Goats,10,No,1,Yes,No,0,Paid on Time,No,Yes,261722.16,No,13.29,165713.37,Some,Hired,1,54.52
+27,Female,Primary,Married,North East,Adamawa,2.72,Groundnut,Goats,16,Yes,3,No,Yes,252222,Paid on Time,Yes,Yes,242758.24,Yes,10.3,141372.44,All,Hired,1,46.67
+25,Male,Secondary,Single,South West,Ekiti,3.64,Plantain,Goats,4,No,2,Yes,No,0,Late,Yes,Yes,296117.65,Yes,13.28,240283.44,All,Hired,0,36.87
+28,Male,Secondary,Single,South South,Edo,1.97,Cocoa,Goats,9,No,3,No,No,0,Paid on Time,No,No,345945.47,No,15.11,165144.76,All,Family,1,44.63
+34,Female,Secondary,Divorced,South East,Enugu,1.53,Rice,Goats,2,No,1,Yes,Yes,101052,Paid on Time,Yes,No,263149.48,Yes,0.44,238864.74,Some,Both,1,83.37
+34,Male,Secondary,Married,North East,Bauchi,2.25,Sorghum,Cattle,7,No,1,No,No,0,Paid on Time,No,No,229685.17,No,12.53,205597.67,Some,Both,1,86.3
+35,Female,Primary,Married,South East,Imo,1.08,Oil Palm,None,0,Yes,3,No,No,0,Paid on Time,Yes,No,273050.62,No,14.37,166925.02,Some,Hired,1,74.41
+26,Male,Secondary,Single,South East,Ebonyi,2.47,Cassava,Goats,6,Yes,3,No,Yes,317590,Late,No,No,447483.4,Yes,8.23,161366.3,All,Hired,0,35.66
+29,Male,Tertiary,Single,North Central,Kwara,2.42,Yam,None,0,No,2,No,Yes,491932,Paid on Time,Yes,No,343777.15,Yes,12.68,188422.04,All,Both,1,84.91
+30,Male,Secondary,Single,South East,Enugu,1.44,Rice,None,0,No,2,No,No,0,Paid on Time,No,Yes,246959.13,Yes,7.73,160000.03,None,Hired,1,52.26
+32,Male,Primary,Married,North East,Gombe,2.71,Millet,Goats,3,Yes,1,No,Yes,184646,Paid on Time,Yes,Yes,358114.56,Yes,14.91,149776.42,None,Hired,1,51.94
+26,Male,Secondary,Single,North West,Jigawa,2.74,Groundnut,Goats,12,Yes,2,Yes,Yes,436545,Late,No,Yes,392590.42,No,7.72,194918.51,Some,Hired,0,16.61
+32,Female,Secondary,Single,North West,Jigawa,1.99,Sorghum,Cattle,1,No,3,Yes,No,0,Defaulted,Yes,Yes,244158.4,Yes,7.55,93450.63,All,Family,0,23.58
+25,Female,Primary,Married,North East,Bauchi,1.61,Cowpea,Cattle,11,Yes,1,No,No,0,Late,Yes,Yes,295428.5,No,12.07,165454.18,None,Hired,0,36.16
+19,Female,Secondary,Single,North East,Borno,2.54,Sorghum,Goats,13,No,1,Yes,No,0,Late,No,Yes,194787.02,Yes,10.36,265736.62,Some,Both,0,11.58
+33,Male,Secondary,Single,South South,Akwa Ibom,2.2,Vegetables,None,0,Yes,3,Yes,Yes,59327,Paid on Time,No,Yes,386983.63,No,12.31,212782.6,All,Hired,1,76.71
+22,Female,Primary,Divorced,South West,Lagos,3.99,Cassava,None,0,Yes,1,Yes,Yes,266168,Paid on Time,Yes,Yes,344451.75,Yes,7.2,49284.92,All,Hired,1,57.68
+28,Female,Secondary,Single,South East,Enugu,0.89,Vegetables,Goats,16,No,1,Yes,No,0,Late,No,Yes,276340.39,Yes,21.32,152758.27,All,Both,0,36.6
+19,Female,Secondary,Single,South South,Edo,2.36,Oil Palm,Goats,20,No,2,Yes,No,0,Defaulted,Yes,No,401588.12,Yes,14.3,152492.46,None,Family,0,20.64
+19,Male,Primary,Married,North West,Sokoto,1.43,Cotton,Sheep,17,Yes,1,No,No,0,Paid on Time,Yes,No,331120.48,Yes,8.43,226509.28,All,Family,1,77.43
+20,Male,Secondary,Divorced,South West,Ondo,1.65,Vegetables,Poultry,1,Yes,2,No,Yes,192412,Paid on Time,No,No,337097.26,Yes,5.36,205316.78,All,Family,1,57.39
+30,Male,Secondary,Married,South South,Delta,0.88,Rice,Poultry,3,No,1,No,No,0,Paid on Time,No,Yes,281336.95,No,3.55,194727.89,Some,Both,1,56.77
+22,Female,Secondary,Single,North East,Bauchi,2.84,Groundnut,Goats,19,No,1,No,Yes,229937,Paid on Time,Yes,Yes,313275.37,No,9.74,114078.84,None,Family,1,57.39
+24,Male,Secondary,Single,North East,Yobe,2.43,Cowpea,Goats,3,No,3,Yes,Yes,219173,Defaulted,Yes,Yes,329867.75,Yes,7.04,148830.3,Some,Family,0,53.96
+31,Male,Secondary,Single,North West,Kano,2.23,Maize,Sheep,19,No,2,Yes,No,0,Paid on Time,Yes,Yes,429791.65,No,11.89,14377.57,All,Both,1,68.94
+25,Male,Secondary,Married,South West,Ekiti,1.37,Plantain,Goats,16,Yes,2,Yes,No,0,Paid on Time,No,Yes,180905.21,Yes,9.55,199544.26,Some,Family,1,53.83
+34,Male,Primary,Married,South South,Rivers,0.22,Rice,Poultry,8,No,1,Yes,No,0,Paid on Time,No,Yes,371785.19,No,13.13,218493.41,None,Family,1,84.06
+30,Female,Secondary,Single,South South,Delta,-0.17,Rubber,None,0,No,1,No,No,0,Paid on Time,Yes,No,371391.3,No,6.8,204525.88,Some,Family,1,66.92
+33,Female,Tertiary,Single,North West,Zamfara,1.72,Sorghum,Poultry,1,No,3,Yes,Yes,363485,Paid on Time,No,Yes,335763.38,No,7.9,151085.65,None,Family,1,86.64
+21,Female,Secondary,Married,South West,Ekiti,2.52,Vegetables,Poultry,11,No,3,No,Yes,90000,Paid on Time,Yes,No,247425.5,Yes,19.27,230095.99,All,Family,1,65.3
+34,Male,Tertiary,Divorced,South East,Abia,3.23,Vegetables,None,0,No,2,No,Yes,287895,Defaulted,No,Yes,359394.07,Yes,5.98,161289.4,All,Family,0,52.63
+27,Male,Secondary,Married,South South,Cross River,0.86,Rice,Goats,14,No,1,Yes,No,0,Late,Yes,No,323899.87,No,8.43,216275.01,All,Family,0,32.86
+32,Female,Secondary,Single,South South,Edo,3.08,Rubber,Goats,19,No,2,Yes,No,0,Late,Yes,Yes,297582.18,No,10.38,123981.82,All,Both,0,35.38
+33,Female,Secondary,Single,North West,Jigawa,2.67,Cotton,Sheep,14,No,2,No,No,0,Paid on Time,No,No,305662.87,No,10.44,166566.46,All,Family,1,59.28
+30,Male,Primary,Divorced,North West,Jigawa,-0.12,Groundnut,Sheep,12,No,3,Yes,No,0,Paid on Time,No,Yes,230998.74,No,6.76,121357.98,Some,Hired,1,68.34
+18,Male,Tertiary,Married,South West,Lagos,2.33,Oil Palm,Poultry,13,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,-75743.53,Yes,6.34,74044.74,All,Hired,1,74.62
+22,Female,Secondary,Married,North Central,Nassarawa,1.39,Rice,Cattle,9,No,2,Yes,No,0,Paid on Time,Yes,Yes,143835.61,Yes,12.14,77197.68,None,Hired,1,58.23
+20,Male,Secondary,Married,South West,Osun,2.92,Vegetables,Goats,5,Yes,2,No,No,0,Paid on Time,Yes,No,384492.86,Yes,2.07,102294.44,All,Family,1,51.64
+35,Female,Secondary,Married,South West,Lagos,2.02,Vegetables,Poultry,16,Yes,3,No,Yes,133086,Late,Yes,Yes,258230.32,No,1.48,202697.68,All,Family,0,30.99
+24,Male,Tertiary,Divorced,North West,Kaduna,1.66,Sorghum,Sheep,15,Yes,1,No,Yes,226438,Paid on Time,Yes,Yes,495294.46,No,6.64,141772.1,All,Family,1,75.77
+19,Male,Secondary,Single,North Central,Benue,1.89,Maize,Cattle,2,No,3,No,Yes,80086,Late,Yes,Yes,281220.84,Yes,20.26,155405.57,Some,Hired,0,36.76
+21,Male,Tertiary,Single,North East,Yobe,1.81,Groundnut,Sheep,14,Yes,1,No,Yes,159119,Defaulted,No,No,196126.56,No,4.73,218668.82,All,Family,0,16.22
+33,Male,Tertiary,Single,South South,Akwa Ibom,0.27,Cocoa,Pigs,15,No,2,Yes,No,0,Paid on Time,Yes,No,87018.98,No,11.81,206194.94,All,Hired,1,78.44
+25,Male,Secondary,Single,North Central,FCT,1.08,Soybeans,Pigs,15,No,1,No,No,0,Late,Yes,No,125958.85,No,8.06,199114.54,All,Family,0,32.76
+21,Female,Secondary,Married,North West,Katsina,2.71,Millet,Sheep,11,No,1,Yes,No,0,Paid on Time,Yes,No,414546.7,No,4.54,133686.63,None,Family,1,86.04
+31,Male,Primary,Married,North Central,FCT,1.85,Soybeans,Pigs,11,Yes,3,No,No,0,Defaulted,No,Yes,292198.91,Yes,0.44,172097.47,All,Hired,0,21.56
+26,Male,Secondary,Married,North East,Yobe,2.63,Sorghum,Sheep,5,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,328752.91,Yes,16.79,194325.44,Some,Family,1,62.27
+28,Male,Tertiary,Married,South South,Bayelsa,3.68,Rice,Pigs,20,Yes,3,No,Yes,234904,Paid on Time,Yes,Yes,280600.52,No,12.71,122443.38,None,Hired,1,47.04
+24,Female,Primary,Married,North East,Taraba,1.4,Millet,Sheep,1,No,1,Yes,No,0,Paid on Time,Yes,Yes,303001.38,Yes,11.34,98595.91,All,Family,1,71.97
+29,Male,Secondary,Single,North East,Gombe,1.31,Cowpea,Goats,15,Yes,2,No,Yes,151345,Paid on Time,Yes,Yes,294678.76,No,6.26,145306.88,Some,Family,1,50.83
+27,Male,Secondary,Single,South South,Delta,1.08,Oil Palm,Poultry,5,No,2,Yes,Yes,302409,Paid on Time,Yes,No,278195.0,Yes,8.12,163059.23,All,Family,1,86.69
+19,Male,Primary,Divorced,North East,Borno,2.24,Groundnut,Cattle,2,Yes,2,Yes,Yes,377350,Paid on Time,Yes,Yes,246683.89,Yes,9.65,234852.73,Some,Family,1,52.88
+30,Male,Secondary,Single,South East,Imo,0.09,Yam,None,0,Yes,1,Yes,No,0,Paid on Time,Yes,No,293562.74,Yes,12.71,177156.24,None,Family,1,53.56
+32,Male,Secondary,Single,South West,Lagos,2.18,Plantain,Poultry,5,Yes,1,No,No,0,Paid on Time,Yes,Yes,119581.29,No,9.05,131149.34,All,Family,1,58.94
+21,Female,Primary,Single,South West,Oyo,1.95,Plantain,Pigs,13,Yes,1,No,No,0,Paid on Time,Yes,Yes,274551.13,No,13.35,131543.9,All,Both,1,50.47
+21,Male,Tertiary,Married,South East,Ebonyi,2.39,Oil Palm,Goats,10,No,2,Yes,No,0,Late,Yes,Yes,292257.76,No,5.25,145651.2,Some,Family,0,38.88
+32,Female,Tertiary,Single,South West,Oyo,1.39,Maize,None,0,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,467424.41,Yes,13.5,213920.54,None,Hired,1,49.04
+20,Male,Secondary,Married,South East,Anambra,1.12,Rice,Goats,9,Yes,3,Yes,Yes,307974,Paid on Time,No,Yes,253285.66,No,8.69,33196.52,Some,Hired,1,48.87
+19,Female,Tertiary,Single,North East,Yobe,3.67,Sesame,None,0,No,2,Yes,No,0,Paid on Time,No,Yes,325149.37,No,7.72,180553.56,Some,Family,1,88.16
+32,Male,Tertiary,Single,North East,Taraba,1.42,Millet,None,0,No,1,No,Yes,481939,Paid on Time,Yes,Yes,167312.24,No,10.83,81432.71,All,Family,1,41.08
+31,Female,Secondary,Married,North Central,Benue,1.76,Sesame,Poultry,1,No,3,No,Yes,341288,Paid on Time,Yes,Yes,334751.8,Yes,9.65,193229.86,All,Hired,1,61.59
+29,Male,Secondary,Single,North Central,Kogi,1.95,Soybeans,None,0,No,3,Yes,No,0,Paid on Time,No,Yes,294668.48,Yes,13.31,161409.36,All,Hired,1,69.88
+31,Male,Secondary,Married,North Central,FCT,2.25,Maize,Cattle,10,No,1,No,No,0,Paid on Time,Yes,Yes,303645.94,No,9.3,250890.32,All,Hired,1,82.1
+35,Female,Primary,Married,South West,Oyo,0.8,Plantain,Pigs,5,Yes,1,No,No,0,Paid on Time,Yes,Yes,369223.49,Yes,7.35,79983.38,None,Family,1,50.82
+18,Male,Secondary,Married,South South,Cross River,1.64,Plantain,Goats,3,No,3,Yes,Yes,176328,Late,Yes,No,149608.97,Yes,15.37,190734.22,All,Family,0,16.52
+35,Female,Secondary,Single,South East,Ebonyi,2.23,Yam,Goats,16,Yes,2,Yes,No,0,Defaulted,Yes,No,222716.17,Yes,10.26,88582.56,Some,Family,0,27.04
+20,Male,Secondary,Married,South East,Ebonyi,0.6,Rice,None,0,No,1,Yes,Yes,155076,Defaulted,No,No,300398.86,Yes,16.56,70883.69,None,Hired,0,48.8
+29,Male,Secondary,Single,South South,Cross River,2.33,Cassava,Poultry,6,No,1,Yes,Yes,237522,Paid on Time,Yes,Yes,467878.38,Yes,7.32,99611.11,Some,Both,1,64.93
+29,Female,Secondary,Single,South West,Ekiti,2.92,Cassava,Goats,9,No,3,No,No,0,Paid on Time,No,Yes,150214.13,No,6.97,216755.63,Some,Family,1,54.6
+32,Female,Secondary,Single,South West,Osun,1.84,Vegetables,None,0,No,2,No,No,0,Late,Yes,No,244826.21,No,7.29,81767.59,All,Both,0,52.71
+29,Female,Secondary,Single,South East,Imo,1.53,Cassava,Poultry,7,No,3,No,No,0,Paid on Time,Yes,Yes,260304.42,No,14.08,208817.2,Some,Family,1,41.12
+23,Male,Secondary,Divorced,North East,Adamawa,3.46,Millet,Goats,8,No,1,No,No,0,Defaulted,Yes,Yes,261415.11,No,6.52,107232.65,All,Hired,0,26.09
+23,Female,Secondary,Married,South West,Oyo,1.53,Oil Palm,Pigs,14,No,3,No,No,0,Late,No,Yes,256685.81,Yes,5.12,156378.41,All,Family,0,29.83
+27,Male,Secondary,Married,South South,Edo,2.98,Cocoa,Goats,17,Yes,3,Yes,No,0,Late,Yes,Yes,427052.92,No,16.48,170247.07,All,Family,0,49.2
+24,Female,Secondary,Married,South West,Oyo,2.03,Plantain,Poultry,13,No,3,No,No,0,Paid on Time,No,No,338209.6,No,0.1,129328.06,Some,Both,1,84.19
+21,Male,Tertiary,Married,South West,Ondo,1.63,Plantain,Pigs,13,No,2,Yes,No,0,Late,Yes,Yes,292841.43,Yes,15.62,33372.73,Some,Hired,0,42.01
+20,Male,Secondary,Married,North Central,Benue,1.43,Sesame,Pigs,12,Yes,3,No,Yes,444817,Paid on Time,Yes,Yes,242276.77,Yes,17.49,103375.15,None,Hired,1,71.11
+27,Female,Secondary,Single,South South,Delta,1.42,Oil Palm,Pigs,7,No,2,No,Yes,53255,Paid on Time,Yes,Yes,393675.33,No,21.77,106716.45,All,Family,1,85.19
+20,Male,Secondary,Single,South West,Osun,3.76,Plantain,Goats,17,Yes,2,No,No,0,Paid on Time,Yes,Yes,445235.64,Yes,8.36,79659.47,Some,Family,1,69.45
+22,Male,Primary,Married,South South,Akwa Ibom,2.37,Cassava,Goats,8,Yes,1,No,Yes,352311,Late,Yes,Yes,553547.94,No,9.85,117405.02,None,Family,0,30.27
+19,Male,Secondary,Single,North West,Sokoto,3.37,Millet,Sheep,10,Yes,3,No,Yes,191902,Paid on Time,Yes,No,493404.78,No,4.8,166494.47,None,Family,1,41.9
+21,Female,Secondary,Divorced,South East,Enugu,1.4,Vegetables,Goats,16,No,3,Yes,Yes,161414,Paid on Time,Yes,Yes,503982.13,Yes,16.75,226900.81,Some,Family,1,78.57
+18,Female,Tertiary,Single,South East,Imo,1.77,Yam,None,0,No,2,No,Yes,459680,Paid on Time,Yes,Yes,265844.67,No,2.1,129895.58,All,Family,1,83.96
+20,Female,Tertiary,Married,North West,Kebbi,2.73,Rice,Poultry,2,No,1,No,No,0,Paid on Time,Yes,Yes,174694.34,No,8.55,171091.36,All,Family,1,70.41
+29,Male,Secondary,Married,North West,Jigawa,2.31,Groundnut,Sheep,4,No,1,No,No,0,Paid on Time,No,Yes,338850.63,Yes,9.97,206633.46,All,Hired,1,84.59
+30,Female,Primary,Single,South East,Imo,4.31,Cassava,Pigs,17,No,1,No,No,0,Late,Yes,Yes,217044.98,Yes,5.23,172595.31,None,Family,0,24.57
+22,Male,Tertiary,Single,South West,Ekiti,1.84,Cocoa,None,0,No,1,No,Yes,115035,Late,No,No,363320.56,Yes,9.21,147053.68,Some,Hired,0,55.38
+33,Female,Secondary,Married,North Central,Kogi,2.2,Cassava,None,0,No,1,Yes,No,0,Paid on Time,No,Yes,325999.68,No,15.87,150043.78,Some,Family,1,59.88
+26,Male,Tertiary,Single,South South,Bayelsa,1.82,Oil Palm,Goats,18,Yes,1,No,Yes,74236,Paid on Time,Yes,No,533960.42,No,8.86,158384.58,None,Family,1,62.22
+18,Female,Primary,Single,South West,Ogun,3.28,Cassava,Goats,4,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,80661.22,Yes,7.91,145829.46,All,Family,1,52.61
+33,Female,Secondary,Single,South East,Anambra,1.1,Vegetables,Goats,19,Yes,2,No,No,0,Late,No,Yes,231817.81,Yes,5.64,127420.47,None,Hired,0,34.22
+30,Female,Secondary,Single,South West,Osun,0.84,Oil Palm,Pigs,18,No,2,Yes,No,0,Late,Yes,No,440680.75,No,13.92,172116.81,Some,Both,0,18.88
+23,Male,Primary,Divorced,North Central,Benue,2.43,Sesame,Cattle,17,No,3,Yes,No,0,Paid on Time,No,Yes,458689.58,No,13.41,155589.23,All,Hired,1,75.86
+22,Female,Tertiary,Divorced,North East,Bauchi,2.74,Sesame,None,0,No,3,Yes,No,0,Paid on Time,Yes,Yes,209562.85,Yes,4.7,69485.09,None,Family,1,67.24
+26,Female,Tertiary,Divorced,South East,Abia,3.93,Cassava,None,0,Yes,2,No,No,0,Late,No,Yes,289723.25,No,2.75,139948.06,None,Family,0,47.52
+19,Male,Tertiary,Married,South West,Ogun,1.12,Vegetables,Poultry,17,No,3,Yes,No,0,Paid on Time,Yes,Yes,275284.83,Yes,7.04,205534.41,None,Family,1,76.25
+35,Male,Secondary,Single,North West,Katsina,1.63,Millet,Sheep,10,Yes,1,No,No,0,Paid on Time,No,Yes,236469.46,Yes,11.07,113367.31,None,Family,1,67.63
+28,Female,Secondary,Single,South East,Abia,1.94,Rice,Pigs,6,No,2,No,Yes,374751,Paid on Time,No,Yes,183986.22,No,9.97,170283.22,All,Family,1,69.71
+25,Male,Primary,Married,South South,Cross River,3.14,Cassava,Pigs,15,No,3,Yes,Yes,257582,Paid on Time,Yes,No,276856.84,No,3.6,99794.38,All,Both,1,51.81
+21,Male,Secondary,Married,South South,Bayelsa,1.5,Vegetables,Goats,20,No,1,No,Yes,324823,Paid on Time,Yes,Yes,257461.27,No,3.2,139357.01,None,Both,1,46.66
+28,Female,Tertiary,Married,North Central,Plateau,0.24,Rice,Cattle,9,No,3,Yes,Yes,298586,Paid on Time,No,Yes,357058.47,No,5.34,126182.32,All,Both,1,63.81
+25,Female,Tertiary,Divorced,South South,Cross River,2.58,Cassava,Pigs,8,No,2,Yes,Yes,409336,Paid on Time,Yes,No,133676.55,No,4.38,195093.78,All,Family,1,72.28
+28,Male,Primary,Divorced,North West,Jigawa,2.67,Cotton,None,0,No,1,Yes,No,0,Late,No,No,329333.12,Yes,15.04,93917.67,All,Both,0,15.08
+28,Male,Secondary,Married,North East,Taraba,2.4,Sorghum,Goats,8,No,3,No,No,0,Paid on Time,Yes,Yes,231923.36,Yes,13.6,147659.75,None,Both,1,70.42
+24,Female,Primary,Single,South South,Bayelsa,2.93,Plantain,Pigs,6,No,3,No,No,0,Paid on Time,Yes,Yes,438610.82,Yes,17.97,99224.63,Some,Family,1,56.94
+34,Male,Primary,Divorced,North West,Kano,1.61,Rice,Cattle,10,Yes,3,Yes,No,0,Paid on Time,No,Yes,322271.61,Yes,15.09,50100.4,All,Both,1,81.27
+30,Male,Secondary,Single,North East,Bauchi,3.02,Maize,Sheep,2,No,2,Yes,No,0,Late,Yes,Yes,306222.18,No,4.93,120034.86,None,Both,0,22.93
+21,Male,Tertiary,Married,South West,Ondo,1.03,Oil Palm,Goats,17,No,3,Yes,No,0,Paid on Time,Yes,Yes,478969.9,Yes,19.06,90304.88,None,Family,1,52.18
+35,Male,Tertiary,Married,North East,Adamawa,1.39,Millet,Cattle,19,No,1,Yes,Yes,388837,Paid on Time,No,No,211345.12,Yes,16.62,186762.07,None,Hired,1,55.11
+33,Female,Secondary,Single,North West,Kaduna,0.33,Beans,Poultry,2,No,3,Yes,Yes,410241,Paid on Time,Yes,Yes,215255.18,No,11.84,150582.59,All,Hired,1,44.88
+24,Female,Primary,Single,North Central,Nassarawa,2.94,Rice,Pigs,6,No,3,Yes,No,0,Late,Yes,Yes,269153.33,Yes,7.71,130208.48,Some,Hired,0,57.45
+29,Male,Secondary,Married,North Central,Nassarawa,0.83,Rice,Goats,18,Yes,3,Yes,No,0,Paid on Time,Yes,Yes,430477.43,No,12.43,136987.17,Some,Family,1,75.05
+25,Female,Tertiary,Single,South West,Ekiti,1.98,Vegetables,None,0,No,3,No,No,0,Late,Yes,Yes,157431.59,No,17.39,186012.93,All,Hired,0,22.89
+35,Male,Tertiary,Single,North Central,FCT,2.06,Cassava,Goats,17,No,1,Yes,No,0,Late,Yes,Yes,227259.45,No,15.45,202249.02,Some,Family,0,29.74
+27,Male,Secondary,Single,South West,Osun,3.12,Oil Palm,Goats,20,Yes,3,No,No,0,Paid on Time,No,Yes,270600.48,Yes,12.15,219107.39,All,Family,1,82.79
+22,Male,Secondary,Married,North West,Katsina,1.41,Rice,Goats,8,Yes,2,Yes,No,0,Paid on Time,Yes,Yes,446426.85,Yes,0.87,186336.53,None,Family,1,61.59
+33,Female,Primary,Married,North West,Kebbi,2.51,Rice,Poultry,10,No,1,Yes,No,0,Paid on Time,Yes,Yes,313148.51,No,15.39,100112.11,Some,Family,1,51.95
+28,Male,Primary,Single,South South,Delta,1.84,Rice,Pigs,20,No,3,Yes,No,0,Paid on Time,Yes,Yes,401294.29,Yes,4.19,103764.23,Some,Both,1,66.11
+23,Female,Tertiary,Married,South East,Anambra,2.26,Rice,Goats,16,No,2,Yes,No,0,Paid on Time,Yes,Yes,222889.17,No,9.77,128073.77,None,Hired,1,72.57
+22,Male,Secondary,Single,South East,Enugu,2.39,Vegetables,Pigs,10,No,3,Yes,No,0,Paid on Time,No,Yes,224951.76,Yes,13.91,191658.02,Some,Both,1,85.42
+25,Male,Secondary,Divorced,South South,Cross River,1.53,Cocoa,Goats,11,Yes,3,No,No,0,Paid on Time,Yes,Yes,243237.52,No,15.1,176735.2,All,Both,1,48.15
+23,Female,Secondary,Divorced,South South,Rivers,4.41,Plantain,Poultry,9,No,1,No,No,0,Late,Yes,No,349140.03,No,20.84,205033.09,None,Family,0,36.16
+18,Male,Secondary,Single,South South,Rivers,0.82,Oil Palm,Poultry,6,No,2,No,Yes,263411,Late,Yes,Yes,239416.45,Yes,4.73,164381.4,Some,Both,0,23.58
+34,Male,Primary,Divorced,South South,Bayelsa,3.37,Rubber,Pigs,2,Yes,3,No,No,0,Defaulted,Yes,Yes,260151.61,No,15.22,163895.85,All,Family,0,22.67
+32,Male,Tertiary,Married,South East,Imo,4.8,Oil Palm,Goats,17,Yes,1,No,Yes,89566,Late,No,Yes,349136.51,No,21.71,172474.62,All,Hired,0,27.43
+34,Female,Secondary,Married,South East,Enugu,1.99,Rice,Pigs,11,No,2,Yes,No,0,Paid on Time,No,No,436838.58,Yes,12.02,27273.25,None,Hired,1,58.47
+19,Male,Primary,Single,North East,Bauchi,0.91,Sorghum,Sheep,17,Yes,2,No,Yes,60633,Paid on Time,Yes,Yes,243309.5,No,12.4,85479.17,None,Family,1,70.3
+31,Female,Secondary,Single,South South,Rivers,1.85,Cocoa,Pigs,8,Yes,1,No,No,0,Paid on Time,Yes,Yes,326436.19,No,12.51,123782.33,Some,Hired,1,65.28
+29,Male,Secondary,Married,South East,Ebonyi,2.0,Vegetables,Goats,9,No,3,No,No,0,Defaulted,Yes,Yes,385219.95,Yes,8.87,210794.21,All,Both,0,53.85
+23,Male,Secondary,Married,North West,Kebbi,0.79,Beans,Sheep,13,Yes,2,No,No,0,Paid on Time,Yes,No,296274.35,Yes,17.0,156538.62,All,Hired,1,52.03
+35,Male,Primary,Married,North West,Kebbi,1.8,Groundnut,Sheep,1,No,1,Yes,No,0,Paid on Time,Yes,Yes,210641.38,No,16.47,71545.05,None,Both,1,69.18
+33,Female,Secondary,Single,South West,Lagos,2.09,Cassava,Pigs,20,No,1,No,No,0,Paid on Time,No,Yes,391759.93,Yes,13.29,153831.06,Some,Both,1,77.85
+26,Female,Secondary,Married,North Central,Kwara,3.87,Yam,Poultry,12,No,1,No,No,0,Defaulted,Yes,Yes,306499.94,Yes,8.68,174581.37,None,Hired,0,53.56
+26,Male,Primary,Single,North East,Gombe,3.1,Groundnut,Cattle,9,Yes,1,Yes,Yes,192127,Paid on Time,No,Yes,213396.14,No,13.26,152194.15,All,Family,1,87.74
+31,Female,Primary,Married,North East,Taraba,1.26,Groundnut,Cattle,2,No,1,Yes,No,0,Paid on Time,No,No,271639.84,Yes,13.23,94591.27,Some,Both,1,40.8
+19,Male,Secondary,Single,South South,Rivers,0.53,Plantain,Goats,11,Yes,3,No,No,0,Paid on Time,Yes,Yes,263567.98,No,1.99,169597.62,All,Hired,1,66.14
+34,Female,Secondary,Single,South East,Abia,2.57,Yam,Pigs,10,No,1,Yes,No,0,Paid on Time,No,Yes,281822.08,Yes,11.4,213290.4,All,Both,1,41.96
+31,Male,Secondary,Divorced,South South,Akwa Ibom,2.51,Rice,Pigs,11,Yes,3,Yes,No,0,Paid on Time,No,No,402149.5,Yes,7.61,99844.24,All,Family,1,77.15
+26,Male,Primary,Married,South West,Ogun,3.76,Oil Palm,Poultry,2,Yes,2,No,Yes,279351,Late,No,No,311620.17,No,10.54,169521.5,None,Both,0,36.21
+34,Female,Secondary,Married,South West,Osun,1.99,Vegetables,Poultry,15,No,3,No,No,0,Late,No,Yes,216936.93,Yes,9.09,233884.2,All,Both,0,44.84
+26,Male,Tertiary,Single,North East,Taraba,3.13,Millet,Goats,13,No,2,Yes,No,0,Late,Yes,Yes,360873.69,Yes,3.12,182295.7,None,Family,0,11.62
+29,Female,Tertiary,Single,North Central,Niger,2.31,Cassava,Poultry,17,No,2,No,No,0,Late,No,Yes,157501.19,Yes,10.82,166481.68,None,Hired,0,40.46
+24,Male,Tertiary,Single,South South,Delta,2.27,Plantain,Goats,4,No,2,No,No,0,Paid on Time,Yes,Yes,246344.62,No,12.3,212534.26,All,Hired,1,81.75
+30,Male,Tertiary,Single,North East,Yobe,2.29,Sorghum,Cattle,11,No,3,No,Yes,223531,Paid on Time,Yes,Yes,561727.33,Yes,14.56,83391.75,All,Both,1,41.56
+18,Male,Tertiary,Married,South East,Imo,2.09,Cassava,Pigs,2,No,2,No,No,0,Paid on Time,No,No,254120.25,No,13.77,48803.42,Some,Family,1,68.51
+29,Male,Secondary,Married,South South,Rivers,1.91,Rubber,Goats,20,No,1,No,No,0,Paid on Time,No,Yes,384027.55,No,9.54,177571.33,All,Hired,1,80.06
+35,Female,Secondary,Married,North West,Kaduna,1.58,Sorghum,Cattle,8,Yes,3,No,No,0,Defaulted,No,No,228833.35,No,4.64,245860.52,None,Hired,0,29.92
+20,Male,Secondary,Single,North East,Yobe,2.68,Sorghum,Sheep,10,No,3,Yes,No,0,Late,Yes,Yes,395762.01,Yes,18.91,178330.39,None,Hired,0,44.99
+23,Male,Secondary,Married,North Central,Kwara,3.2,Sesame,Pigs,3,Yes,2,Yes,No,0,Paid on Time,Yes,Yes,387449.63,No,3.65,118863.77,All,Hired,1,49.03
+22,Female,Secondary,Divorced,South West,Osun,1.48,Cassava,Pigs,17,No,1,No,Yes,353685,Paid on Time,No,No,376119.24,No,5.33,223032.84,Some,Family,1,63.08
+23,Female,Secondary,Single,North West,Katsina,1.12,Maize,Sheep,15,No,1,Yes,Yes,119579,Paid on Time,Yes,Yes,179806.41,Yes,8.89,164717.85,All,Hired,1,44.91
+24,Male,Secondary,Married,South East,Anambra,0.97,Yam,None,0,No,1,No,Yes,84798,Paid on Time,Yes,Yes,286299.04,No,2.15,211614.19,All,Hired,1,82.06
+31,Male,Primary,Divorced,South West,Oyo,2.83,Vegetables,Goats,8,No,1,No,No,0,Late,No,Yes,321267.4,Yes,10.35,109120.92,All,Family,0,35.29
+24,Female,Tertiary,Divorced,South West,Ogun,2.36,Oil Palm,Pigs,2,No,3,No,No,0,Paid on Time,Yes,Yes,177763.72,Yes,16.28,146654.04,Some,Hired,1,72.84
+20,Male,Secondary,Single,North West,Jigawa,1.73,Beans,Cattle,15,No,3,No,Yes,325894,Paid on Time,Yes,Yes,26988.22,No,14.89,192203.26,Some,Family,1,52.99
+31,Female,Primary,Married,South South,Rivers,-0.09,Plantain,Pigs,20,No,2,Yes,Yes,392873,Paid on Time,Yes,Yes,485160.91,No,8.37,104116.29,Some,Family,1,44.49
+30,Male,Primary,Married,North East,Yobe,3.76,Millet,Goats,10,No,3,Yes,No,0,Paid on Time,Yes,Yes,454639.87,No,5.58,164391.57,None,Both,1,87.24
+18,Male,Secondary,Single,South West,Osun,2.7,Maize,None,0,Yes,3,No,Yes,290125,Paid on Time,Yes,Yes,447140.03,No,14.97,182881.68,All,Family,1,58.31
+26,Male,Secondary,Married,South West,Ondo,2.17,Plantain,Goats,20,No,3,Yes,Yes,174826,Paid on Time,Yes,No,168211.41,No,2.63,167598.05,None,Family,1,43.76
+19,Male,Primary,Married,South East,Abia,1.3,Rice,None,0,No,3,No,No,0,Paid on Time,Yes,Yes,166494.77,Yes,7.86,116913.71,All,Hired,1,47.26
+20,Female,Secondary,Married,North West,Kaduna,2.77,Cotton,Sheep,17,No,1,Yes,Yes,221361,Paid on Time,Yes,Yes,219564.98,Yes,12.33,81383.08,None,Family,1,78.17
+20,Female,Secondary,Married,South South,Cross River,-0.3,Rubber,Goats,10,No,3,Yes,No,0,Paid on Time,Yes,Yes,353557.17,No,8.99,147262.68,All,Family,1,89.5
+19,Female,Secondary,Single,South South,Bayelsa,2.77,Oil Palm,None,0,No,2,No,No,0,Paid on Time,No,Yes,238460.03,Yes,15.33,115579.12,Some,Family,1,60.97
+18,Male,Secondary,Married,North West,Katsina,2.03,Groundnut,Sheep,20,No,1,Yes,No,0,Paid on Time,Yes,Yes,524098.41,No,16.27,120096.83,All,Family,1,59.42
+20,Male,Secondary,Married,North East,Yobe,1.18,Maize,None,0,No,1,No,No,0,Paid on Time,No,Yes,344075.68,Yes,6.24,139702.82,All,Family,1,40.48
+23,Female,Secondary,Married,South East,Abia,3.33,Vegetables,Goats,15,No,2,No,Yes,317535,Paid on Time,No,Yes,308017.34,No,11.44,136640.42,All,Family,1,53.12
+35,Male,Secondary,Single,North West,Katsina,1.7,Maize,Sheep,20,No,2,Yes,No,0,Paid on Time,Yes,No,197917.23,No,10.12,201359.74,Some,Family,1,63.41
+33,Male,Secondary,Married,North West,Kano,1.93,Sorghum,Cattle,17,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,315741.48,Yes,6.91,95057.52,All,Hired,1,66.45
+30,Female,Primary,Single,North West,Zamfara,2.47,Rice,Poultry,2,No,1,No,No,0,Defaulted,Yes,Yes,215012.83,No,13.17,164149.34,None,Family,0,40.47
+20,Male,Secondary,Single,South West,Oyo,0.5,Maize,Poultry,19,No,1,No,No,0,Late,Yes,No,339438.09,No,8.15,177575.56,None,Family,0,39.75
+18,Female,Primary,Single,North East,Taraba,2.46,Maize,None,0,No,1,No,Yes,149138,Late,Yes,No,356799.45,Yes,10.2,161898.24,Some,Family,0,47.82
+30,Male,Secondary,Married,South South,Delta,1.25,Cassava,None,0,No,2,Yes,No,0,Defaulted,No,Yes,229309.22,Yes,13.87,250959.96,Some,Both,0,47.32
+26,Female,Secondary,Single,South West,Lagos,3.32,Cassava,Pigs,6,Yes,3,Yes,Yes,475760,Paid on Time,Yes,Yes,295294.15,No,6.88,193649.4,None,Family,1,49.63
+23,Female,Primary,Divorced,North East,Borno,-0.95,Groundnut,Cattle,14,No,1,Yes,No,0,Paid on Time,No,Yes,247689.57,No,12.3,246819.48,None,Hired,1,83.85
+20,Male,Secondary,Divorced,North West,Zamfara,0.34,Maize,Poultry,16,No,3,No,No,0,Paid on Time,No,No,282244.24,No,5.08,99470.47,None,Family,1,43.15
+23,Female,Secondary,Married,North Central,FCT,1.68,Rice,Pigs,7,No,3,No,Yes,224115,Paid on Time,Yes,Yes,323151.88,Yes,13.22,125553.48,Some,Family,1,57.14
+25,Female,Tertiary,Single,South West,Oyo,2.42,Cassava,Goats,11,No,3,No,No,0,Paid on Time,Yes,Yes,261444.1,Yes,10.48,142095.17,Some,Family,1,65.46
+21,Female,Secondary,Married,North Central,Plateau,1.05,Yam,Cattle,8,Yes,1,Yes,No,0,Paid on Time,Yes,Yes,360682.51,No,13.09,64628.35,Some,Family,1,56.51
+30,Male,Primary,Married,South East,Enugu,1.48,Yam,Pigs,9,No,3,Yes,No,0,Paid on Time,No,Yes,408666.08,Yes,20.25,95664.07,All,Hired,1,80.39
+20,Male,Secondary,Single,South West,Ondo,0.15,Plantain,Pigs,6,Yes,1,No,No,0,Late,Yes,Yes,475900.46,Yes,8.23,170652.37,None,Family,0,18.75
+21,Male,Tertiary,Single,North Central,Benue,0.72,Cassava,Goats,3,No,3,Yes,No,0,Paid on Time,Yes,No,320923.17,Yes,12.91,132139.89,All,Family,1,53.46
+22,Male,Primary,Single,South South,Akwa Ibom,3.08,Oil Palm,None,0,Yes,3,Yes,No,0,Paid on Time,Yes,No,351711.31,Yes,7.63,95967.03,Some,Family,1,49.18
+25,Male,Tertiary,Single,South West,Lagos,2.26,Vegetables,None,0,Yes,1,No,Yes,173919,Paid on Time,No,No,160282.32,Yes,10.66,122966.03,Some,Both,1,77.32
+24,Male,Primary,Divorced,South West,Ondo,3.82,Vegetables,None,0,No,2,No,Yes,120908,Paid on Time,Yes,No,346757.49,Yes,8.82,125502.8,Some,Family,1,59.78
+27,Male,Secondary,Married,North East,Taraba,1.21,Sorghum,Goats,2,No,1,No,No,0,Late,No,Yes,212983.68,Yes,13.1,137576.07,None,Family,0,14.38
+32,Female,Primary,Married,North Central,FCT,-0.39,Sesame,None,0,Yes,1,No,Yes,352572,Paid on Time,No,Yes,334696.03,Yes,4.36,269650.61,All,Family,1,52.09
+29,Female,Secondary,Married,South East,Ebonyi,1.26,Yam,Pigs,6,No,1,Yes,Yes,472296,Paid on Time,No,No,386027.74,No,4.79,160162.39,None,Hired,1,78.34
+22,Male,Secondary,Single,North Central,Kwara,2.23,Sesame,None,0,No,2,Yes,No,0,Paid on Time,Yes,No,263605.94,No,9.07,119588.04,None,Hired,1,56.16
+20,Female,Primary,Single,South South,Edo,0.04,Rubber,Poultry,2,No,2,Yes,Yes,454719,Defaulted,Yes,Yes,208238.4,Yes,12.28,109798.92,All,Family,0,44.11
+25,Female,Secondary,Single,North East,Bauchi,1.17,Maize,Cattle,3,No,2,Yes,Yes,342278,Paid on Time,Yes,Yes,359450.9,No,17.11,104061.23,None,Hired,1,78.03
+30,Female,Tertiary,Married,North East,Borno,1.3,Millet,Cattle,8,No,3,Yes,No,0,Paid on Time,Yes,Yes,57338.2,Yes,10.44,266128.29,Some,Family,1,52.68
+24,Female,Secondary,Single,South East,Anambra,0.25,Yam,Poultry,5,No,1,No,No,0,Defaulted,No,Yes,281775.82,No,17.49,206244.98,All,Family,0,39.63
+24,Female,Secondary,Married,South South,Edo,3.02,Rubber,Goats,20,No,1,No,No,0,Late,Yes,Yes,312555.85,No,11.67,131004.6,None,Hired,0,16.56
+23,Male,Secondary,Married,South East,Imo,1.6,Oil Palm,Goats,8,Yes,2,No,No,0,Late,Yes,Yes,243199.84,No,11.68,204208.05,All,Family,0,43.88
+26,Female,Tertiary,Single,North West,Zamfara,0.62,Beans,Goats,18,No,1,No,No,0,Paid on Time,Yes,Yes,240322.75,No,10.72,112160.98,All,Family,1,58.98
+22,Male,Secondary,Single,North West,Zamfara,2.02,Sorghum,Cattle,20,Yes,3,No,No,0,Paid on Time,No,Yes,176097.67,No,19.13,203865.36,All,Both,1,60.33
+24,Female,Secondary,Married,North West,Kano,-0.82,Cotton,Sheep,4,No,1,Yes,Yes,399068,Paid on Time,Yes,No,279703.17,No,8.62,116086.08,All,Both,1,42.65
+33,Male,Primary,Single,South South,Rivers,2.88,Vegetables,Goats,9,No,2,Yes,No,0,Late,Yes,Yes,288343.78,No,15.98,194087.32,None,Hired,0,44.11
+24,Female,Secondary,Single,South South,Akwa Ibom,3.03,Rice,Poultry,1,No,2,Yes,No,0,Defaulted,Yes,Yes,189927.78,No,13.97,132110.65,All,Family,0,20.42
+32,Male,Secondary,Single,North East,Bauchi,0.21,Millet,None,0,Yes,3,Yes,No,0,Defaulted,Yes,Yes,492035.14,Yes,20.22,123727.33,All,Family,0,50.95
+20,Male,Secondary,Single,South South,Akwa Ibom,3.77,Cassava,Pigs,12,No,1,Yes,Yes,292076,Paid on Time,Yes,Yes,368920.69,Yes,8.99,109061.78,All,Hired,1,78.7
+33,Male,Secondary,Single,South West,Lagos,2.31,Oil Palm,Goats,5,Yes,1,No,Yes,191370,Defaulted,Yes,Yes,243569.71,No,5.95,210091.84,All,Family,0,18.61
+24,Female,Secondary,Married,North West,Kano,3.05,Sorghum,Goats,4,No,3,No,No,0,Paid on Time,Yes,Yes,223807.22,No,9.57,154452.49,All,Hired,1,78.64
+28,Male,Secondary,Married,North East,Taraba,2.82,Millet,Cattle,3,No,1,No,Yes,358479,Paid on Time,Yes,Yes,213047.76,No,2.84,169899.52,All,Hired,1,57.14
+27,Male,Tertiary,Single,South South,Bayelsa,2.74,Rice,Poultry,8,Yes,3,Yes,Yes,106625,Paid on Time,Yes,No,432874.14,No,5.58,202375.97,Some,Family,1,50.67
+18,Male,Tertiary,Married,North East,Taraba,1.52,Cowpea,Cattle,12,No,1,Yes,Yes,204103,Paid on Time,Yes,Yes,238346.31,Yes,15.4,184591.44,Some,Family,1,60.42
+28,Female,Primary,Single,South West,Osun,4.22,Cocoa,Poultry,17,No,3,Yes,No,0,Paid on Time,Yes,Yes,386405.81,No,6.54,243713.98,All,Family,1,56.88
+20,Female,Primary,Married,South West,Oyo,1.21,Cocoa,Goats,6,No,1,Yes,No,0,Late,Yes,Yes,271768.8,No,5.31,167463.94,Some,Family,0,56.57
+32,Male,Secondary,Married,South West,Oyo,2.04,Plantain,None,0,No,2,Yes,No,0,Paid on Time,Yes,Yes,355496.72,No,19.42,167566.77,All,Family,1,52.96
+27,Male,Secondary,Married,South West,Oyo,2.2,Oil Palm,None,0,No,1,No,Yes,127093,Paid on Time,Yes,No,412702.03,No,9.61,155638.54,None,Hired,1,78.2
+30,Male,Secondary,Single,North East,Gombe,3.52,Millet,None,0,No,1,Yes,No,0,Late,Yes,No,136904.68,No,5.12,260289.32,None,Family,0,17.69
+29,Female,Secondary,Divorced,South East,Imo,-0.0,Rice,Goats,2,No,2,Yes,No,0,Paid on Time,Yes,No,305926.32,Yes,13.4,92103.32,Some,Family,1,46.41
+29,Male,Tertiary,Single,South East,Ebonyi,2.54,Oil Palm,None,0,No,1,Yes,Yes,293677,Paid on Time,No,Yes,276497.05,Yes,10.81,193119.53,Some,Family,1,63.43
+24,Female,Tertiary,Married,North Central,Kwara,-0.13,Rice,Poultry,4,Yes,1,Yes,Yes,467531,Paid on Time,No,Yes,509975.25,Yes,10.63,78295.13,All,Family,1,46.5
+33,Female,Secondary,Married,South West,Ondo,3.72,Vegetables,Goats,8,No,3,No,Yes,209852,Paid on Time,Yes,Yes,172504.09,No,17.01,147380.98,Some,Both,1,59.76
+26,Female,Tertiary,Single,South East,Abia,3.12,Rice,Poultry,13,No,3,Yes,Yes,396955,Paid on Time,No,Yes,330592.64,Yes,0.08,123989.55,None,Hired,1,80.91
+31,Male,Tertiary,Single,North West,Kebbi,3.8,Beans,Cattle,8,Yes,1,Yes,No,0,Late,Yes,No,341607.99,No,6.25,255604.47,All,Both,0,15.56
+28,Female,Secondary,Married,North East,Taraba,1.71,Sorghum,Sheep,2,Yes,3,No,Yes,498920,Paid on Time,No,Yes,212016.07,No,16.38,236460.76,All,Family,1,74.61
+30,Male,Secondary,Married,North East,Taraba,1.31,Groundnut,Cattle,13,No,3,Yes,Yes,231026,Paid on Time,No,Yes,357656.11,No,0.28,176572.53,All,Family,1,53.95
+19,Male,Secondary,Single,North West,Katsina,3.07,Millet,None,0,Yes,3,No,No,0,Late,No,Yes,342434.49,Yes,18.57,136807.97,All,Both,0,37.16
+32,Female,Primary,Single,South East,Ebonyi,0.75,Oil Palm,Goats,2,No,3,No,No,0,Defaulted,Yes,No,294816.08,No,12.23,59961.46,Some,Family,0,51.36
+31,Male,Primary,Single,South South,Cross River,3.4,Cassava,None,0,No,2,Yes,No,0,Paid on Time,No,Yes,234833.6,Yes,12.71,212938.06,None,Hired,1,69.94
+24,Male,Tertiary,Single,North West,Katsina,0.95,Sorghum,Sheep,16,No,2,No,No,0,Defaulted,Yes,No,307927.69,Yes,8.0,174743.56,Some,Both,0,57.35
+30,Female,Secondary,Divorced,South West,Lagos,2.29,Oil Palm,Goats,7,Yes,3,No,No,0,Paid on Time,Yes,No,316528.44,Yes,14.38,106699.66,All,Both,1,56.39
+20,Male,Secondary,Married,North East,Gombe,1.96,Maize,Goats,1,No,2,Yes,Yes,472727,Defaulted,No,Yes,350681.14,Yes,3.26,89199.1,None,Family,0,59.09
+28,Female,Primary,Single,North East,Borno,1.17,Groundnut,Cattle,14,Yes,2,No,No,0,Defaulted,Yes,No,381100.81,Yes,12.11,138729.8,All,Hired,0,26.44
+34,Female,Primary,Married,South South,Delta,2.51,Cassava,None,0,Yes,1,No,No,0,Paid on Time,No,Yes,233851.21,No,17.67,179157.31,All,Family,1,53.37
+22,Male,Secondary,Single,North West,Jigawa,1.42,Millet,None,0,No,1,No,No,0,Paid on Time,No,Yes,191564.82,No,7.69,102641.89,All,Family,1,62.29
+25,Female,Tertiary,Single,North East,Taraba,3.38,Millet,None,0,No,1,Yes,No,0,Paid on Time,Yes,Yes,347319.66,Yes,14.32,83520.63,All,Family,1,49.44
+21,Female,Primary,Single,North Central,Nassarawa,2.45,Soybeans,Cattle,10,No,3,No,No,0,Paid on Time,Yes,Yes,417093.08,Yes,10.03,175414.26,Some,Family,1,73.08
+31,Female,Tertiary,Married,North Central,Nassarawa,2.81,Cassava,None,0,No,3,No,Yes,345766,Paid on Time,Yes,No,329601.21,Yes,7.74,119083.0,None,Family,1,68.18
+26,Male,Secondary,Married,South South,Rivers,2.93,Rice,None,0,No,2,Yes,Yes,132901,Late,Yes,No,207772.36,Yes,1.74,123941.63,Some,Family,0,46.52
+25,Male,Primary,Married,South West,Oyo,1.87,Oil Palm,None,0,Yes,2,Yes,No,0,Paid on Time,Yes,Yes,212740.55,No,16.16,210400.97,All,Hired,1,85.27
+35,Male,Secondary,Single,North East,Borno,1.57,Cowpea,None,0,Yes,2,Yes,No,0,Paid on Time,Yes,Yes,273520.03,No,14.98,242879.54,All,Family,1,57.81
+32,Male,Primary,Single,South South,Rivers,1.43,Vegetables,Poultry,18,No,2,No,No,0,Paid on Time,No,Yes,371659.37,Yes,9.89,218432.54,None,Family,1,43.4
+31,Male,Primary,Married,North East,Borno,1.43,Sesame,Goats,9,No,1,Yes,No,0,Paid on Time,No,Yes,340257.52,No,12.52,163754.67,All,Family,1,73.96
+34,Female,Secondary,Divorced,South West,Lagos,2.1,Maize,Pigs,4,No,3,Yes,No,0,Paid on Time,Yes,Yes,279955.5,No,10.26,94192.58,All,Both,1,57.16
+25,Female,Primary,Single,North Central,FCT,2.18,Cassava,Pigs,11,No,3,No,Yes,72474,Paid on Time,Yes,Yes,153736.6,Yes,10.0,192865.19,Some,Family,1,81.12
+22,Female,Secondary,Married,South West,Ondo,1.79,Cassava,Pigs,2,Yes,1,Yes,Yes,124992,Defaulted,No,Yes,190586.46,No,12.75,206543.47,None,Family,0,20.23
+20,Male,Tertiary,Single,South West,Ogun,1.59,Plantain,None,0,No,3,Yes,No,0,Late,Yes,Yes,378897.75,Yes,7.84,77406.32,All,Family,0,54.82
+31,Female,Secondary,Married,South South,Rivers,2.5,Oil Palm,Poultry,1,Yes,2,No,No,0,Defaulted,Yes,Yes,175169.72,Yes,12.79,237200.51,None,Family,0,45.41
+29,Male,Primary,Single,North Central,Nassarawa,0.36,Soybeans,Goats,5,No,3,No,Yes,255237,Late,No,Yes,135008.46,No,5.51,192729.82,All,Family,0,52.16
+33,Male,Tertiary,Married,South West,Oyo,0.23,Vegetables,None,0,No,3,Yes,No,0,Paid on Time,Yes,Yes,312041.25,No,17.93,151904.23,All,Both,1,86.19
+23,Female,Secondary,Married,South South,Akwa Ibom,1.63,Vegetables,Pigs,5,No,3,Yes,No,0,Defaulted,Yes,Yes,251964.03,Yes,1.02,132969.8,All,Family,0,59.08
+24,Male,Secondary,Single,North East,Gombe,1.44,Groundnut,Sheep,4,Yes,3,No,Yes,248470,Paid on Time,No,No,84296.33,No,12.51,188781.18,None,Family,1,89.16
+25,Female,Tertiary,Single,North Central,Benue,2.03,Rice,Pigs,10,No,1,Yes,No,0,Late,No,No,370267.02,No,4.79,158213.94,All,Family,0,54.51
+21,Female,Secondary,Married,South West,Osun,1.68,Plantain,Pigs,11,No,3,Yes,Yes,61683,Paid on Time,Yes,Yes,245971.45,Yes,4.85,157331.63,None,Hired,1,59.18
+34,Female,Secondary,Divorced,North West,Sokoto,1.74,Sorghum,Sheep,9,Yes,1,No,Yes,126566,Late,Yes,No,143812.14,Yes,11.53,214799.88,All,Hired,0,59.27
+30,Female,Secondary,Single,South South,Akwa Ibom,4.37,Oil Palm,Pigs,10,No,1,No,Yes,246892,Paid on Time,No,No,163134.98,No,12.95,144886.68,All,Hired,1,62.48
+20,Male,Tertiary,Single,North Central,FCT,0.94,Cassava,None,0,Yes,2,Yes,No,0,Late,Yes,Yes,339086.99,Yes,10.57,176450.96,None,Hired,0,53.68
+23,Male,Tertiary,Married,South East,Imo,3.1,Cassava,Poultry,4,No,3,Yes,No,0,Paid on Time,No,No,261890.41,No,18.89,154992.48,All,Hired,1,75.95
+18,Male,Secondary,Single,South South,Edo,1.67,Rubber,None,0,Yes,3,Yes,No,0,Defaulted,Yes,Yes,368711.87,No,13.81,211632.38,None,Family,0,59.57
+31,Male,Secondary,Single,North Central,Kwara,0.24,Maize,Cattle,15,Yes,2,Yes,Yes,124397,Paid on Time,Yes,Yes,215260.05,No,10.43,155936.05,All,Both,1,80.13
+32,Male,Secondary,Single,South South,Akwa Ibom,2.97,Oil Palm,None,0,Yes,2,No,No,0,Defaulted,Yes,No,336360.47,No,5.58,125638.95,None,Hired,0,51.25
+31,Male,Tertiary,Single,South South,Delta,1.99,Vegetables,Pigs,17,No,3,Yes,Yes,79469,Defaulted,Yes,Yes,316249.85,Yes,7.57,137415.53,None,Hired,0,22.14
+24,Female,Secondary,Single,North West,Jigawa,3.97,Groundnut,Sheep,17,Yes,2,No,No,0,Paid on Time,Yes,Yes,166644.5,Yes,13.92,158526.26,None,Family,1,78.29
+32,Female,Tertiary,Single,South East,Abia,2.45,Vegetables,Pigs,18,No,2,Yes,Yes,63319,Paid on Time,No,No,369481.61,Yes,9.54,145528.67,Some,Family,1,66.74
+35,Male,Secondary,Single,North East,Yobe,2.28,Maize,None,0,No,2,No,No,0,Late,Yes,Yes,437662.41,Yes,14.73,143949.64,None,Family,0,40.52
+34,Male,Secondary,Married,South South,Bayelsa,0.74,Vegetables,None,0,No,2,No,Yes,360573,Paid on Time,Yes,Yes,153396.18,No,15.53,153893.29,All,Family,1,65.49
+21,Male,Primary,Divorced,North Central,Niger,2.56,Sesame,Poultry,13,No,2,Yes,Yes,399344,Late,No,No,202192.57,No,8.66,61897.56,Some,Both,0,26.37
+28,Male,Secondary,Married,North Central,Benue,1.51,Soybeans,Poultry,15,No,1,No,No,0,Paid on Time,Yes,Yes,241975.72,No,9.91,198922.77,All,Both,1,73.65
+27,Male,Primary,Single,North Central,FCT,1.73,Rice,Pigs,3,No,3,No,No,0,Late,No,No,233611.05,Yes,16.08,74291.19,None,Family,0,11.61
+22,Male,Primary,Single,South West,Lagos,2.72,Vegetables,Poultry,9,No,3,No,No,0,Paid on Time,Yes,Yes,259233.94,No,11.89,105761.69,None,Family,1,68.03
+25,Male,Primary,Single,South West,Ogun,0.79,Vegetables,Pigs,1,No,3,Yes,No,0,Paid on Time,Yes,Yes,310440.1,Yes,10.86,156683.94,None,Hired,1,67.44
+19,Female,Secondary,Married,North Central,Kwara,2.73,Rice,Cattle,1,No,3,Yes,No,0,Late,No,Yes,330375.79,No,17.15,162767.01,All,Family,0,53.73
+20,Male,Primary,Single,South South,Bayelsa,1.05,Rice,Goats,16,No,2,Yes,Yes,198028,Defaulted,Yes,Yes,282323.22,Yes,11.54,173322.8,Some,Family,0,52.75
+25,Male,Secondary,Married,North Central,FCT,3.6,Soybeans,Pigs,8,No,1,Yes,Yes,53909,Paid on Time,Yes,No,155614.05,No,8.35,170130.92,None,Family,1,78.76
+27,Male,Primary,Married,North Central,Niger,2.43,Cassava,Poultry,14,No,3,No,No,0,Paid on Time,No,No,270992.53,Yes,8.54,50548.29,None,Family,1,76.31
+28,Male,Primary,Married,South South,Delta,2.78,Rice,Poultry,16,No,3,No,Yes,291832,Paid on Time,Yes,Yes,272100.81,No,11.88,91801.61,All,Hired,1,48.16
+18,Male,Primary,Married,South South,Bayelsa,1.41,Rice,None,0,Yes,2,No,No,0,Paid on Time,Yes,No,212032.62,No,18.05,65725.38,All,Family,1,60.28
+31,Female,Secondary,Single,North West,Kaduna,2.27,Beans,Cattle,2,Yes,2,No,No,0,Late,Yes,Yes,311169.41,No,2.16,216448.78,All,Family,0,45.33
+25,Male,Tertiary,Single,North West,Kebbi,3.66,Beans,None,0,No,2,Yes,No,0,Late,No,Yes,430109.67,No,8.35,81798.34,Some,Hired,0,10.93
+33,Male,Secondary,Divorced,South West,Ondo,2.01,Vegetables,Poultry,1,No,3,No,No,0,Defaulted,No,Yes,207657.08,No,9.24,176631.79,None,Family,0,43.04
+31,Male,Secondary,Married,South West,Lagos,-0.27,Maize,Pigs,18,Yes,3,No,No,0,Paid on Time,Yes,Yes,384678.33,Yes,2.95,35280.92,Some,Hired,1,63.3
+23,Male,Tertiary,Single,North West,Zamfara,1.78,Sorghum,None,0,No,3,Yes,No,0,Paid on Time,Yes,Yes,140249.24,No,15.54,200360.46,All,Family,1,58.68
+25,Female,Tertiary,Married,North West,Kano,2.08,Maize,Poultry,8,No,1,Yes,Yes,489288,Paid on Time,Yes,Yes,327092.13,Yes,2.74,96838.08,Some,Family,1,84.85
+27,Male,Secondary,Single,South South,Delta,2.23,Oil Palm,Poultry,11,No,3,No,Yes,173935,Defaulted,No,Yes,264418.12,Yes,0.15,160719.72,Some,Family,0,38.61
+31,Female,Primary,Married,North East,Bauchi,2.76,Maize,None,0,No,3,Yes,No,0,Paid on Time,Yes,Yes,327992.47,No,6.13,182418.64,None,Family,1,87.33
+34,Male,Primary,Married,North West,Zamfara,1.89,Rice,Sheep,1,No,3,Yes,No,0,Late,Yes,Yes,302956.23,Yes,15.71,123620.13,Some,Family,0,56.92
+18,Female,Secondary,Married,North East,Taraba,0.43,Groundnut,None,0,No,2,No,No,0,Paid on Time,Yes,Yes,318851.15,Yes,10.13,159423.95,None,Both,1,75.05
+35,Male,Tertiary,Single,North Central,Kwara,2.48,Cassava,None,0,Yes,3,No,Yes,302236,Late,Yes,No,448383.38,No,14.93,195637.49,None,Family,0,55.6
+27,Female,Primary,Single,North West,Katsina,1.75,Cotton,Cattle,19,No,1,Yes,No,0,Paid on Time,Yes,Yes,417469.71,Yes,6.33,149449.68,None,Hired,1,76.54
+35,Male,Tertiary,Single,North Central,Niger,2.48,Soybeans,None,0,Yes,3,Yes,No,0,Paid on Time,Yes,No,272292.62,Yes,13.51,160828.03,All,Family,1,45.33
+24,Male,Primary,Single,South East,Ebonyi,3.17,Vegetables,Goats,18,No,2,No,Yes,495171,Late,Yes,Yes,198196.23,No,4.31,117305.15,None,Both,0,41.31
+28,Female,Primary,Married,North Central,Niger,2.91,Maize,None,0,Yes,2,Yes,No,0,Defaulted,No,Yes,217577.76,No,1.64,177845.53,None,Family,0,20.51
+21,Male,Secondary,Single,South East,Ebonyi,1.5,Rice,Poultry,16,No,3,No,No,0,Paid on Time,No,No,337181.48,No,10.33,17245.9,Some,Family,1,74.47
+23,Male,Tertiary,Married,North West,Zamfara,1.37,Maize,None,0,No,2,Yes,No,0,Paid on Time,No,No,259983.24,No,9.39,106999.88,None,Family,1,82.49
+19,Male,Tertiary,Single,North West,Sokoto,1.33,Millet,Sheep,20,No,1,No,Yes,214097,Late,Yes,Yes,373178.65,Yes,10.1,170564.45,All,Both,0,19.23
+34,Female,Secondary,Married,South South,Rivers,2.69,Cocoa,Pigs,13,No,3,Yes,Yes,103662,Late,No,No,183878.62,No,6.17,92586.16,All,Family,0,36.54
+25,Male,Primary,Married,South West,Osun,0.08,Plantain,Goats,9,No,1,Yes,No,0,Paid on Time,Yes,No,309615.68,Yes,13.21,112017.41,None,Family,1,43.1
+26,Male,Primary,Married,South West,Lagos,2.41,Cassava,Pigs,18,No,3,No,Yes,414983,Paid on Time,No,Yes,448963.53,Yes,17.83,173365.14,None,Both,1,56.94
+33,Male,Primary,Married,South West,Ekiti,2.8,Vegetables,Poultry,8,Yes,1,No,Yes,173405,Paid on Time,Yes,Yes,333763.43,Yes,12.17,154652.87,None,Family,1,40.79
+32,Male,Tertiary,Divorced,North West,Jigawa,2.18,Rice,Goats,10,Yes,3,Yes,No,0,Defaulted,Yes,No,233984.29,Yes,4.45,99810.61,Some,Family,0,54.12
+35,Female,Secondary,Single,North Central,Nassarawa,1.82,Soybeans,Poultry,4,Yes,3,Yes,Yes,126086,Paid on Time,No,No,201515.14,No,3.94,170568.01,Some,Family,1,87.11
+26,Female,Secondary,Single,North Central,Nassarawa,1.87,Cassava,Goats,19,Yes,3,No,No,0,Defaulted,No,Yes,278582.39,No,11.11,115550.35,All,Family,0,54.64
+33,Male,Primary,Married,South West,Osun,1.22,Cocoa,Poultry,13,No,1,No,No,0,Defaulted,No,Yes,239532.48,No,12.88,30111.8,Some,Family,0,33.19
+27,Female,Primary,Single,South East,Anambra,1.65,Yam,Pigs,13,Yes,3,Yes,Yes,92281,Defaulted,Yes,Yes,195312.15,Yes,8.56,192064.84,None,Family,0,21.15
+22,Male,Secondary,Married,North West,Kano,0.86,Millet,Cattle,13,No,2,No,Yes,462498,Defaulted,No,Yes,447580.96,No,11.31,188525.15,Some,Hired,0,53.92
+28,Male,Primary,Single,South West,Ondo,3.01,Cassava,None,0,No,2,Yes,No,0,Defaulted,Yes,No,253245.35,No,12.56,203533.0,Some,Family,0,13.5
+26,Female,Secondary,Single,South East,Enugu,2.52,Rice,None,0,Yes,2,No,No,0,Paid on Time,No,Yes,362923.82,Yes,12.66,99916.15,Some,Family,1,54.61
+23,Male,Tertiary,Single,North Central,Kogi,2.72,Maize,None,0,No,1,Yes,No,0,Paid on Time,Yes,Yes,199623.02,No,13.77,158423.93,Some,Both,1,69.35
+27,Male,Primary,Married,South South,Akwa Ibom,1.01,Cassava,Goats,14,No,3,Yes,Yes,396842,Late,Yes,Yes,347716.99,No,3.78,181847.63,All,Both,0,17.19
+28,Male,Tertiary,Single,South South,Edo,2.49,Cocoa,Goats,14,No,2,Yes,No,0,Paid on Time,No,Yes,220088.81,No,5.74,220474.9,All,Hired,1,81.66
+35,Male,Primary,Divorced,South South,Bayelsa,2.7,Vegetables,Pigs,18,Yes,3,No,No,0,Paid on Time,No,Yes,399441.03,Yes,1.0,165733.93,All,Family,1,61.95
+19,Male,Tertiary,Single,South South,Edo,2.47,Plantain,None,0,No,2,No,Yes,156568,Late,Yes,Yes,305171.79,Yes,10.86,113390.37,All,Family,0,33.02
+23,Male,Primary,Single,South West,Osun,1.88,Cocoa,Pigs,4,No,2,Yes,Yes,118702,Paid on Time,No,Yes,323988.67,Yes,20.43,222528.79,None,Family,1,53.32
+29,Male,Primary,Single,South West,Ekiti,1.23,Cocoa,Pigs,12,No,3,No,Yes,51042,Paid on Time,Yes,Yes,243548.35,No,9.65,124428.12,All,Family,1,71.15
+27,Male,Tertiary,Married,South West,Osun,2.26,Cocoa,Pigs,5,Yes,1,No,No,0,Paid on Time,No,Yes,163379.06,No,3.79,176413.5,None,Both,1,84.56
+29,Male,Tertiary,Single,North Central,Kogi,2.29,Yam,Cattle,18,No,1,Yes,Yes,247867,Paid on Time,No,Yes,452486.7,Yes,11.71,204125.52,Some,Family,1,55.42
+21,Male,Secondary,Single,South East,Imo,2.67,Cassava,Pigs,19,Yes,1,Yes,Yes,160040,Paid on Time,No,No,361494.02,No,16.67,207072.73,Some,Hired,1,62.88
+31,Female,Secondary,Single,South West,Ondo,3.03,Cocoa,Pigs,5,No,3,Yes,No,0,Paid on Time,Yes,Yes,290097.37,Yes,16.71,136474.73,Some,Hired,1,50.03
+25,Female,Primary,Married,North East,Borno,3.25,Maize,Sheep,10,No,2,No,Yes,418457,Defaulted,Yes,Yes,293942.31,No,8.24,146474.02,Some,Family,0,57.55
+18,Male,Secondary,Single,South East,Enugu,2.92,Cassava,None,0,Yes,2,Yes,Yes,67522,Paid on Time,Yes,Yes,434322.89,No,13.03,171082.2,All,Hired,1,64.84
+31,Male,Secondary,Married,South East,Ebonyi,0.35,Yam,Poultry,11,No,2,No,Yes,367440,Paid on Time,Yes,Yes,297429.78,No,13.12,166648.62,All,Hired,1,41.13

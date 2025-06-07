@@ -8,6 +8,7 @@ import AIChatPage from './pages/AIChatPage';
 import Profile from './pages/Profile';
 import UserDetailsPage from './pages/UserDetailsPage';
 import LoginPage from './pages/Login';
+import SignUpSelection from './pages/SelectPage';
 
 const App = () => {
     return (
@@ -20,6 +21,7 @@ const App = () => {
                 <Route path="/profile/:username" element={<Profile />} />
                 <Route path="/user/:username" element={<UserDetailsPage />} />
                 <Route path="/login" element={<LoginPage />} />
+                <Route path="signupselect" element={<SignUpSelection />} />
             </Routes>
         </BrowserRouter>
     );

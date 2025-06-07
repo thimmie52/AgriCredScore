@@ -136,6 +136,21 @@ const Select: React.FC<SelectProps> = (props) => {
     );
 };
 
+const decodeFormData = (formData: { [key: string]: any }) => {
+  const decodedData: { [key: string]: any } = {};
+
+  for (const key in formData) {
+    if (reverseMappings.hasOwnProperty(key)) {
+      const value = formData[key];
+      decodedData[key] = reverseMappings[key as keyof typeof reverseMappings][value] ?? value;
+    } else {
+      decodedData[key] = formData[key];
+    }
+  }
+
+  return decodedData;
+};
+
 const RecalculateScore = () => {
   const { username } = useParams<{ username: string }>(); // Get username from URL params if you use routing
   const [formData, setFormData] = useState<UserData>({
@@ -180,33 +195,34 @@ const RecalculateScore = () => {
       })
       .then((data) => {
         setFormData({
-            Financial_Access: data.data?.Financial_Access || "",
-            Irrigation: data.data?.Irrigation || "",
-            Input_Usage: data.data?.Input_Usage || "",
-            Crop_Type: data.data?.Crop_Type || "",
-            Farm_Size: data.data?.Farm_Size || 0,
-            State: data.data?.State || "",
-            Market_Distance: data.data?.Market_Distance || 0,
-            Labor: data.data?.Labor || "",
-            Repayment_Status: data.data?.Repayment_Status || "",
-            Previous_Loans: data.data?.Previous_Loans || "",
-            Education: data.data?.Education || "",
-            LastName: data.data?.LastName || "",
-            Crop_Cycles: data.data?.Crop_Cycles || 0,
-            Livestock_Number: data.data?.Livestock_Number || 0,
-            Extension_Services: data.data?.Extension_Services || "",
-            Marital_Status: data.data?.Marital_Status || "",
-            Gender: data.data?.Gender || "",
-            Savings_Behavior: data.data?.Savings_Behavior || "",
-            Technology_Use: data.data?.Technology_Use || "",
-            Age: data.data?.Age || 0,
-            Region: data.data?.Region || "",
-            Loan_Amount: data.data?.Loan_Amount || 0,
-            FirstName: data.data?.FirstName || "",
-            Annual_Income: data.data?.Annual_Income || 0,
-            Yield_Per_Season: data.data?.Yield_Per_Season || 0,
-            Livestock_Type: data.data?.Livestock_Type || ""
+            Financial_Access: Number(data.data?.Financial_Access) || 0,
+            Irrigation: Number(data.data?.Irrigation) || 0,
+            Input_Usage: Number(data.data?.Input_Usage) || 0,
+            Crop_Type: Number(data.data?.Crop_Type) || 0,
+            Farm_Size: Number(data.data?.Farm_Size) || 0,
+            State: Number(data.data?.State) || 0,
+            Market_Distance: Number(data.data?.Market_Distance) || 0,
+            Labor: Number(data.data?.Labor) || 0,
+            Repayment_Status: Number(data.data?.Repayment_Status) || 0,
+            Previous_Loans: Number(data.data?.Previous_Loans) || 0,
+            Education: Number(data.data?.Education) || 0,
+            LastName: Number(data.data?.LastName) || 0,
+            Crop_Cycles: Number(data.data?.Crop_Cycles) || 0,
+            Livestock_Number: Number(data.data?.Livestock_Number) || 0,
+            Extension_Services: Number(data.data?.Extension_Services) || 0,
+            Marital_Status: Number(data.data?.Marital_Status) || 0,
+            Gender: Number(data.data?.Gender) || 0,
+            Savings_Behavior: Number(data.data?.Savings_Behavior) || 0,
+            Technology_Use: Number(data.data?.Technology_Use) || 0,
+            Age: Number(data.data?.Age) || 0,
+            Region: Number(data.data?.Region) || 0,
+            Loan_Amount: Number(data.data?.Loan_Amount) || 0,
+            FirstName: Number(data.data?.FirstName) || 0,
+            Annual_Income: Number(data.data?.Annual_Income) || 0,
+            Yield_Per_Season: Number(data.data?.Yield_Per_Season) || 0,
+            Livestock_Type: Number(data.data?.Livestock_Type) || 0,
         });
+        
       })
       .catch((err) => setError(err.message));
   }, [username]);
@@ -235,10 +251,13 @@ const RecalculateScore = () => {
     setLoading(true);
     setError(null);
     setResult(null);
+    const decodedData = decodeFormData(formData);
 
     try {
       // Send updated data to backend API
       // Adjust the URL and payload to fit your backend API contract
+      console.log("Submitting formData:", decodedData);
+
       const response = await fetch(
         `https://modelscoringapi.onrender.com/update/${username}`,
         {
@@ -246,7 +265,7 @@ const RecalculateScore = () => {
           headers: {
             "Content-Type": "application/json",
           },
-          body: JSON.stringify(formData),
+          body: JSON.stringify(decodedData),
         }
       );
 

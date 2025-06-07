@@ -28,7 +28,7 @@ const Home = () => {
     <div className="min-h-screen w-full overflow-x-hidden bg-gray-100 flex flex-col">
       {/* Header */}
       <header className="py-6 px-4 sm:px-6 lg:px-8 bg-green-900 w-full">
-        <div className="max-w-7xl mx-auto flex justify-between items-center">
+        <div className="max-w-8xl mx-auto flex justify-between items-center pl-7 pr-7">
           <a href="/" className="text-2xl font-bold text-white">
             <span className="sr-only">Company Logo</span>
             <span className="inline-block">Bridge</span>
@@ -80,7 +80,7 @@ const Home = () => {
           </motion.p>
 
           <div className="w-full flex justify-end mt-6 px-4">
-            <button onClick={() => navigate('/signup')}
+            <button onClick={() => navigate('/signupselect')}
               className="bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-full text-lg transition-colors flex items-center">
               Open an Account <ArrowRight className="ml-2 w-5 h-5" />
             </button>

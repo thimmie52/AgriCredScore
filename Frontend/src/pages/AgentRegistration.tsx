@@ -373,7 +373,7 @@ const FullAgentRegistrationPage = () => {
                 localStorage.removeItem('agentFirstName');
                 localStorage.removeItem('agentLastName');
                 localStorage.removeItem('agentEmail');
-                navigate('/agent-dashboard'); // Navigate to agent dashboard or login page
+                navigate(`/agent-dashboard/${finalAgentData.username}`); // Navigate to agent dashboard or login page
             } catch (err: any) {
                 setFormErrors({ apiError: err.message || 'An error occurred during registration.' });
             } finally {

@@ -34,7 +34,7 @@ const Home = () => {
             <span className="inline-block">Bridge</span>
           </a>
           <div className="ml-auto">
-            <button onClick={() => navigate('/login')}
+            <button onClick={() => navigate('/loginselect')}
               className="bg-white text-green-600 hover:bg-gray-100 font-semibold py-3 px-6 rounded-full transition-colors">
               Login
             </button>

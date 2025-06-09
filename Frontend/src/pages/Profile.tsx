@@ -1,126 +1,144 @@
-import  { useState, useEffect } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
-import { MessageSquare } from "lucide-react"
+import { useState, useEffect } from 'react';
+import { useParams, useNavigate } from 'react-router-dom'; // Importing directly from react-router-dom
+import { MessageSquare, LayoutDashboard, Landmark, Calculator, Settings } from "lucide-react"; // Importing icons
+import comingsoon from '../assets/comingsoon.jpg';
+import RecalculateScore from './Recalculate'; 
 
+
+// The Profile Component - fetches and displays user data
 const Profile = () => {
+    type UserData = {
+    username: string;
+    password: string;
+    Repayment_status: number;
+    credit_score: number;
+    data: Record<string, any>; // or a specific type if you know the structure
+};
     const navigate = useNavigate();
-    const [userData, setUserData] = useState<any>(null);
-    const [loading, setLoading] = useState<boolean>(true);
+    const [userData, setUserData] = useState<UserData | null>(null);
+    const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
-    const { username } = useParams<{ username: string }>();
+
+    // useParams will now dynamically read the username from the URL (e.g., /profile/fj90167)
+    const { username } = useParams();
 
     useEffect(() => {
         const fetchUserData = async () => {
             try {
+                // Actual API call using the 'username' from useParams
                 const response = await fetch(`https://modelscoringapi.onrender.com/get-user/${username}`);
+
                 if (!response.ok) {
-                    throw new Error('User not found');
+                    if (response.status === 404) {
+                        throw new Error(`User "${username}" not found.`);
+                    }
+                    throw new Error(`Failed to fetch user data: ${response.statusText}`);
                 }
                 const data = await response.json();
                 setUserData(data);
                 setLoading(false);
-            } catch (err: any) {
-                setError(err.message);
+            } 
+            catch (err) {
+                console.error("Error fetching user data:", err);
+                setError((err as Error).message || 'An unexpected error occurred.');
                 setLoading(false);
             }
         };
         fetchUserData();
-    }, [username]);
+    }, [username]); // Effect dependency ensures refetch if username in URL changes
 
     const handleChatClick = () => {
+        // Navigates to the AI chat page for the current user
         navigate(`/aichat/${username}`);
     };
 
+    // Loading State UI
     if (loading) {
         return (
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100vh' }}>
-                <div style={{ width: '100%', maxWidth: '600px', padding: '16px' }}>
-                    <div style={{ padding: '16px', border: '1px solid #e0e0e0', borderRadius: '8px', marginBottom: '16px' }}>
-                        <div style={{ height: '24px', width: '50%', backgroundColor: '#f0f0f0', borderRadius: '4px', marginBottom: '8px' }}></div>
+            <div className="flex items-center justify-center w-full min-h-screen p-4 font-sans">
+                <div className="w-full max-w-xl shadow-lg rounded-lg bg-white p-6 animate-pulse">
+                    <div className="border border-gray-200 rounded-lg mb-4 p-4">
+                        <div className="h-6 w-1/2 bg-gray-200 rounded-md mb-2"></div>
                     </div>
-                    <div style={{ padding: '16px', border: '1px solid #e0e0e0', borderRadius: '8px', marginBottom: '16px' }}>
-                        <div style={{ height: '32px', width: '100%', backgroundColor: '#f0f0f0', borderRadius: '4px', marginBottom: '8px' }}></div>
-                        <div style={{ height: '32px', width: '100%', backgroundColor: '#f0f0f0', borderRadius: '4px', marginBottom: '8px' }}></div>
-                        <div style={{ height: '32px', width: '100%', backgroundColor: '#f0f0f0', borderRadius: '4px' }}></div>
+                    <div className="border border-gray-200 rounded-lg p-4">
+                        <div className="h-8 w-full bg-gray-200 rounded-md mb-2"></div>
+                        <div className="h-8 w-full bg-gray-200 rounded-md mb-2"></div>
+                        <div className="h-8 w-full bg-gray-200 rounded-md"></div>
                     </div>
                 </div>
             </div>
         );
     }
 
+    // Error State UI
     if (error) {
         return (
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100vh' }}>
-                <div style={{ width: '100%', maxWidth: '600px', padding: '16px', border: '1px solid #dc2626', borderRadius: '8px', backgroundColor: '#fee2e2', color: '#dc2626' }}>
-                    <div style={{ display: 'flex', alignItems: 'center', marginBottom: '8px' }}>
-                        <h2 style={{ fontSize: '20px', fontWeight: 'bold' }}>Error</h2>
+            <div className="flex items-center justify-center w-full min-h-screen p-4 font-sans">
+                <div className="w-full max-w-xl p-6 border border-red-600 rounded-lg bg-red-50 text-red-700 shadow-md">
+                    <div className="flex items-center mb-2">
+                        <h2 className="text-xl font-bold">Error</h2>
                     </div>
-                    <p style={{ fontSize: '16px' }}>{error}</p>
+                    <p className="text-base">{error}</p>
                 </div>
             </div>
         );
     }
 
+    // No Data State UI (e.g., if API returns 200 but no data)
     if (!userData) {
-        return null;
+        return (
+            <div className="flex items-center justify-center w-full min-h-screen p-4 font-sans">
+                <div className="w-full max-w-xl p-6 border border-yellow-600 rounded-lg bg-yellow-50 text-yellow-700 shadow-md">
+                    <div className="flex items-center mb-2">
+                        <h2 className="text-xl font-bold">No User Data</h2>
+                    </div>
+                    <p className="text-base">No user data available. This might happen if the API returned an empty response.</p>
+                </div>
+            </div>
+        );
     }
 
+    // Main Profile Display UI
     return (
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', minHeight: '100vh', backgroundColor: '#f3f4f6', padding: '16px' }}>
-            <div style={{ width: '100%', maxWidth: '600px', boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)', borderRadius: '8px', backgroundColor: '#fff', padding: '24px' }}>
-                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
-                    <h2 style={{ fontSize: '24px', fontWeight: 'bold', color: '#1f2937' }}>
-                        User Profile: <span style={{ color: '#2563eb' }}>{userData.username}</span>
+        <div className="flex items-center justify-center w-full min-h-screen p-4 font-sans">
+            <div className="w-full max-w-xl shadow-2xl rounded-xl bg-white p-8 border border-blue-200 transform hover:scale-105 transition-transform duration-300 ease-in-out">
+                <div className="flex justify-between items-center mb-6 border-b pb-4 border-blue-100">
+                    <h2 className="text-3xl font-extrabold text-gray-800">
+                        User Profile: <span className="text-green-600">{userData.username}</span>
                     </h2>
                     <button
                         onClick={handleChatClick}
-                        style={{
-                            backgroundColor: '#e0f2fe',
-                            color: '#065f46',
-                            padding: '8px 16px',
-                            borderRadius: '20px',  // Make it round
-                            border: '1px solid #86efac',
-                            cursor: 'pointer',
-                            transition: 'background-color 0.3s, color 0.3s',
-                            display: 'flex',       // Use flexbox for icon alignment
-                            alignItems: 'center',  // Vertically center icon and text
-                            boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)', // Add shadow
-                        }}
-                        onMouseOver={(e) => {
-                            (e.currentTarget as HTMLButtonElement).style.backgroundColor = '#bbf7d0';
-                            (e.currentTarget as HTMLButtonElement).style.color = '#047857';
-                        }}
-                        onMouseOut={(e) => {
-                            (e.currentTarget as HTMLButtonElement).style.backgroundColor = '#e0f2fe';
-                            (e.currentTarget as HTMLButtonElement).style.color = '#065f46';
-                        }}
+                        className="bg-emerald-100 text-emerald-700 px-5 py-2.5 rounded-full border border-emerald-300 cursor-pointer transition-all duration-300 ease-in-out flex items-center shadow-md hover:bg-emerald-200 hover:text-emerald-800 hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-opacity-50"
                     >
-                        <MessageSquare style={{ marginRight: '8px', width: '16px', height: '16px' }} />
+                        <MessageSquare className="mr-2 w-4 h-4" />
                         Chat with AI
                     </button>
                 </div>
-                <div style={{ marginBottom: '16px' }}>
-                    <span style={{ fontWeight: '500', color: '#4b5563' }}>First Name:</span>
-                    <p style={{ fontSize: '18px', color: '#374151' }}>{userData.data.FirstName}</p>
+
+                <div className="mb-4">
+                    <span className="font-semibold text-gray-600 text-lg">First Name:</span>
+                    <p className="text-gray-800 text-xl mt-1">{userData.data?.FirstName || 'N/A'}</p>
                 </div>
-                <div style={{ marginBottom: '16px' }}>
-                    <span style={{ fontWeight: '500', color: '#4b5563' }}>Last Name:</span>
-                    <p style={{ fontSize: '18px', color: '#374151' }}>{userData.data.LastName}</p>
+                <div className="mb-4">
+                    <span className="font-semibold text-gray-600 text-lg">Last Name:</span>
+                    <p className="text-gray-800 text-xl mt-1">{userData.data?.LastName || 'N/A'}</p>
                 </div>
-                <div style={{ marginBottom: '16px' }}>
-                    <span style={{ fontWeight: '500', color: '#4b5563' }}>Age:</span>
-                    <p style={{ fontSize: '18px', color: '#374151' }}>{userData.data.Age}</p>
+                <div className="mb-4">
+                    <span className="font-semibold text-gray-600 text-lg">Age:</span>
+                    <p className="text-gray-800 text-xl mt-1">{userData.data?.Age || 'N/A'}</p>
                 </div>
-                <div style={{ marginBottom: '16px' }}>
-                    <span style={{ fontWeight: '500', color: '#4b5563' }}>Credit Score:</span>
-                    <div style={{ display: 'inline-block', padding: '6px 12px', borderRadius: '16px', backgroundColor: userData.credit_score > 700 ? '#16a34a' : userData.credit_score > 600 ? '#f59e0b' : '#dc2626', color: '#fff', fontSize: '18px' }}>
-                        {userData.credit_score}
+                <div className="mb-4">
+                    <span className="font-semibold text-gray-600 text-lg">Credit Score:</span>
+                    <div className={`inline-block px-4 py-1.5 rounded-full text-white text-lg font-medium shadow-sm mt-1
+                        ${(userData.credit_score || 0) > 700 ? 'bg-green-600' : (userData.credit_score || 0) > 600 ? 'bg-amber-500' : 'bg-red-600'}`}>
+                        {userData.credit_score || 'N/A'}
                     </div>
                 </div>
                 <div>
-                    <span style={{ fontWeight: '500', color: '#4b5563' }}>Repayment Status:</span>
-                    <div style={{ display: 'inline-block', padding: '6px 12px', borderRadius: '16px', backgroundColor: userData.Repayment_status === "Good" ? '#16a34a' : '#dc2626', color: '#fff', fontSize: '18px' }}>
-                        {userData.Repayment_status}
+                    <span className="font-semibold text-gray-600 text-lg">Repayment Status:</span>
+                    <div className={`inline-block px-4 py-1.5 rounded-full text-white text-lg font-medium shadow-sm mt-1
+                        ${userData.Repayment_status >= 70 ? 'bg-green-600' : userData.Repayment_status >= 50 ?'bg-red-600':'bg-yellow-600' }`}>
+                        {userData.Repayment_status.toFixed(2) || 'N/A'}
                     </div>
                 </div>
             </div>
@@ -128,4 +146,89 @@ const Profile = () => {
     );
 };
 
-export default Profile;
+// The main App Component - sets up the sidebar and routes content
+const App = () => {
+    const [activeButton, setActiveButton] = useState('overview'); // State to manage active button
+
+    return (
+        <div className="flex flex-col md:flex-row min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 font-sans">
+            {/* Sidebar */}
+            <aside className="w-full md:w-80 bg-white shadow-xl p-6 md:p-8 flex flex-col items-center md:items-start border-b md:border-r border-blue-100">
+                <h1 className="text-3xl font-extrabold text-green-700 mb-8 mt-4 md:mt-0">Dashboard</h1>
+                <nav className="w-full">
+                    <ul className="space-y-4">
+                        <li>
+                            <button
+                                className={`flex items-center w-full px-4 py-2 rounded-lg text-lg font-medium transition-colors duration-200
+                                    ${activeButton === 'overview' ? 'bg-green-600 text-white shadow-md' : 'bg-gray-50 text-gray-700 hover:bg-green-100 hover:text-blue-700'}`}
+                                onClick={() => setActiveButton('overview')}
+                            >
+                                <LayoutDashboard className="mr-3 w-5 h-5" />
+                                Overview
+                            </button>
+                        </li>
+                        <li>
+                            <button
+                                className={`flex items-center w-full px-4 py-2 rounded-lg text-lg font-medium transition-colors duration-200
+                                    ${activeButton === 'loans' ? 'bg-green-600 text-white shadow-md' : 'bg-gray-50 text-gray-700 hover:bg-green-100 hover:text-blue-700'}`}
+                                onClick={() => setActiveButton('loans')}
+                            >
+                                <Landmark className="mr-3 w-5 h-5" />
+                                Loans
+                            </button>
+                        </li>
+                        <li>
+                            <button
+                                className={`flex items-center w-full px-4 py-2 rounded-lg text-lg font-medium transition-colors duration-200
+                                    ${activeButton === 'recalculate' ? 'bg-green-600 text-white shadow-md' : 'bg-gray-50 text-gray-700 hover:bg-green-100 hover:text-blue-700'}`}
+                                onClick={() => setActiveButton('recalculate')}
+                            >
+                                <Calculator className="mr-3 w-5 h-5" />
+                                Recalculate Score
+                            </button>
+                        </li>
+                        <li>
+                            <button
+                                className={`flex items-center w-full px-4 py-2 rounded-lg text-lg font-medium transition-colors duration-200
+                                    ${activeButton === 'settings' ? 'bg-green-600 text-white shadow-md' : 'bg-gray-50 text-gray-700 hover:bg-green-100 hover:text-blue-700'}`}
+                                onClick={() => setActiveButton('settings')}
+                            >
+                                <Settings className="mr-3 w-5 h-5" />
+                                Settings
+                            </button>
+                        </li>
+                    </ul>
+                </nav>
+            </aside>
+
+            {/* Main content area */}
+            <main className="flex-1 overflow-auto flex items-center justify-center">
+                {/* Conditionally render content based on active button */}
+                {activeButton === 'overview' && <Profile />}
+                {activeButton === 'loans' && (
+                    <div className="items-center justify-center p-4 w-full">
+                        <div className="bg-white p-8 rounded-xl shadow-2xl border border-blue-200 text-gray-800 text-2xl font-bold">
+                            <h2 className='text-4xl'>Track your Loans</h2>
+                            
+                            <div className="text-center">
+                                <img src={comingsoon} alt="Coming Soon" className="w-[1000px] h-[700px] mx-auto object-cover object-top" />
+                                <h3 className="text-6xl font-bold text-green-600 text-center mt-1">Coming Soon</h3>
+                            </div>
+                            
+                            
+                        </div>
+                        
+                    </div>
+                )}
+                {activeButton === 'recalculate' && <RecalculateScore />}
+                {activeButton === 'settings' && (
+                    <div className="flex items-center justify-center p-4 w-full">
+                        <div className="bg-white p-8 rounded-xl shadow-2xl border border-blue-200 text-gray-800 text-2xl font-bold">Settings Content</div>
+                    </div>
+                )}
+            </main>
+        </div>
+    );
+};
+
+export default App;
